@@ -1,0 +1,2228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--VerFW:1.1-->
+<xbrli:xbrl xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xbrl.org/2006/xbrldi http://www.xbrl.org/2006/xbrldi-2006.xsd" xmlns:ipp_ge="http://www.cnmv.es/xbrl/ipp/ge/2016-06-01" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:ipp_ge_dim="http://www.cnmv.es/xbrl/ipp/ge/dim/2016-06-01" xmlns:nonnum="http://www.xbrl.org/dtr/type/non-numeric" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:schemaRef xlink:type="simple" xlink:href="http://www.cnmv.es/xbrl/ipp/ge/2016-06-01/ipp_ge_2016-06-01.xsd" />
+  <xbrli:context id="Icur">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="Icur_PersonasContactoMiembro_1">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:typedMember dimension="ipp_ge_dim:LineaPersonasContactoEje">
+        <ipp_ge_dim:ID_LineaCuadro>1</ipp_ge_dim:ID_LineaCuadro>
+      </xbrldi:typedMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PersonasContactoEje">ipp_ge_dim:PersonasContactoMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_PersonasResponsablesInformacionMiembro_1">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:typedMember dimension="ipp_ge_dim:LineaPersonasResponsablesInformacionEje">
+        <ipp_ge_dim:ID_LineaCuadro>1</ipp_ge_dim:ID_LineaCuadro>
+      </xbrldi:typedMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PersonasResponsablesInformacionEje">ipp_ge_dim:PersonasResponsablesInformacionMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_PersonasResponsablesInformacionMiembro_2">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:typedMember dimension="ipp_ge_dim:LineaPersonasResponsablesInformacionEje">
+        <ipp_ge_dim:ID_LineaCuadro>2</ipp_ge_dim:ID_LineaCuadro>
+      </xbrldi:typedMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PersonasResponsablesInformacionEje">ipp_ge_dim:PersonasResponsablesInformacionMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_PersonasResponsablesInformacionMiembro_3">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:typedMember dimension="ipp_ge_dim:LineaPersonasResponsablesInformacionEje">
+        <ipp_ge_dim:ID_LineaCuadro>3</ipp_ge_dim:ID_LineaCuadro>
+      </xbrldi:typedMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PersonasResponsablesInformacionEje">ipp_ge_dim:PersonasResponsablesInformacionMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_PersonasResponsablesInformacionMiembro_4">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:typedMember dimension="ipp_ge_dim:LineaPersonasResponsablesInformacionEje">
+        <ipp_ge_dim:ID_LineaCuadro>4</ipp_ge_dim:ID_LineaCuadro>
+      </xbrldi:typedMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PersonasResponsablesInformacionEje">ipp_ge_dim:PersonasResponsablesInformacionMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_PersonasResponsablesInformacionMiembro_5">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:typedMember dimension="ipp_ge_dim:LineaPersonasResponsablesInformacionEje">
+        <ipp_ge_dim:ID_LineaCuadro>5</ipp_ge_dim:ID_LineaCuadro>
+      </xbrldi:typedMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PersonasResponsablesInformacionEje">ipp_ge_dim:PersonasResponsablesInformacionMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_PersonasResponsablesInformacionMiembro_6">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:typedMember dimension="ipp_ge_dim:LineaPersonasResponsablesInformacionEje">
+        <ipp_ge_dim:ID_LineaCuadro>6</ipp_ge_dim:ID_LineaCuadro>
+      </xbrldi:typedMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PersonasResponsablesInformacionEje">ipp_ge_dim:PersonasResponsablesInformacionMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_PersonasResponsablesInformacionMiembro_7">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:typedMember dimension="ipp_ge_dim:LineaPersonasResponsablesInformacionEje">
+        <ipp_ge_dim:ID_LineaCuadro>7</ipp_ge_dim:ID_LineaCuadro>
+      </xbrldi:typedMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PersonasResponsablesInformacionEje">ipp_ge_dim:PersonasResponsablesInformacionMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_PersonasResponsablesInformacionMiembro_8">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:typedMember dimension="ipp_ge_dim:LineaPersonasResponsablesInformacionEje">
+        <ipp_ge_dim:ID_LineaCuadro>8</ipp_ge_dim:ID_LineaCuadro>
+      </xbrldi:typedMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PersonasResponsablesInformacionEje">ipp_ge_dim:PersonasResponsablesInformacionMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_PersonasResponsablesInformacionMiembro_9">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:typedMember dimension="ipp_ge_dim:LineaPersonasResponsablesInformacionEje">
+        <ipp_ge_dim:ID_LineaCuadro>9</ipp_ge_dim:ID_LineaCuadro>
+      </xbrldi:typedMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PersonasResponsablesInformacionEje">ipp_ge_dim:PersonasResponsablesInformacionMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_PeriodoActualBalanceMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PeriodoBalanceEje">ipp_ge_dim:PeriodoActualMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_PeriodoCierreAnteriorBalanceMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PeriodoBalanceEje">ipp_ge_dim:PeriodoCierreAnteriorMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2017-07-01</xbrli:startDate>
+      <xbrli:endDate>2017-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:CuentaPerdidasGananciasEje">ipp_ge_dim:PeriodoCorrienteActualMiembro</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:ImportePorcentajeEje">ipp_ge_dim:ImporteMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2017-07-01</xbrli:startDate>
+      <xbrli:endDate>2017-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:CuentaPerdidasGananciasEje">ipp_ge_dim:PeriodoCorrienteActualMiembro</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:ImportePorcentajeEje">ipp_ge_dim:PorcentajeMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2016-07-01</xbrli:startDate>
+      <xbrli:endDate>2016-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:CuentaPerdidasGananciasEje">ipp_ge_dim:PeriodoCorrienteAnteriorMiembro</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:ImportePorcentajeEje">ipp_ge_dim:ImporteMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2016-07-01</xbrli:startDate>
+      <xbrli:endDate>2016-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:CuentaPerdidasGananciasEje">ipp_ge_dim:PeriodoCorrienteAnteriorMiembro</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:ImportePorcentajeEje">ipp_ge_dim:PorcentajeMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Dcur_AcumuladoActualMiembro_ImporteMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2017-01-01</xbrli:startDate>
+      <xbrli:endDate>2017-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:CuentaPerdidasGananciasEje">ipp_ge_dim:AcumuladoActualMiembro</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:ImportePorcentajeEje">ipp_ge_dim:ImporteMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2017-01-01</xbrli:startDate>
+      <xbrli:endDate>2017-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:CuentaPerdidasGananciasEje">ipp_ge_dim:AcumuladoActualMiembro</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:ImportePorcentajeEje">ipp_ge_dim:PorcentajeMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2016-01-01</xbrli:startDate>
+      <xbrli:endDate>2016-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:CuentaPerdidasGananciasEje">ipp_ge_dim:AcumuladoAnteriorMiembro</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:ImportePorcentajeEje">ipp_ge_dim:ImporteMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2016-01-01</xbrli:startDate>
+      <xbrli:endDate>2016-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:CuentaPerdidasGananciasEje">ipp_ge_dim:AcumuladoAnteriorMiembro</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:ImportePorcentajeEje">ipp_ge_dim:PorcentajeMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Dcur_PeriodoActualMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2017-01-01</xbrli:startDate>
+      <xbrli:endDate>2017-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PeriodoEje">ipp_ge_dim:PeriodoActualMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Dpre_PeriodoAnteriorMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2016-01-01</xbrli:startDate>
+      <xbrli:endDate>2016-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PeriodoEje">ipp_ge_dim:PeriodoAnteriorMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_Individual_CapitalMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoIndividualEje">ipp_ge_dim:CapitalMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_Individual_PrimaEmisionReservasMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoIndividualEje">ipp_ge_dim:PrimaEmisionReservasMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_Individual_AccionesParticipacionesPatrimonioPropiasMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoIndividualEje">ipp_ge_dim:AccionesParticipacionesPatrimonioPropiasMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_Individual_ResultadoEjercicioMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoIndividualEje">ipp_ge_dim:ResultadoEjercicioMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_Individual_OtrosInstrumentosPatrimonioNetoMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoIndividualEje">ipp_ge_dim:OtrosInstrumentosPatrimonioNetoMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_Individual_AjustesPorCambiosValorMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoIndividualEje">ipp_ge_dim:AjustesPorCambiosValorMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_Individual_SubvencionesDonacionesLegadosRecibidosMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoIndividualEje">ipp_ge_dim:SubvencionesDonacionesLegadosRecibidosMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_Individual_TotalPatrimonioNetoMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoIndividualEje">ipp_ge_dim:TotalPatrimonioNetoMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_Individual_CapitalMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoIndividualEje">ipp_ge_dim:CapitalMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_Individual_PrimaEmisionReservasMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoIndividualEje">ipp_ge_dim:PrimaEmisionReservasMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_Individual_AccionesParticipacionesPatrimonioPropiasMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoIndividualEje">ipp_ge_dim:AccionesParticipacionesPatrimonioPropiasMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_Individual_ResultadoEjercicioMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoIndividualEje">ipp_ge_dim:ResultadoEjercicioMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_Individual_OtrosInstrumentosPatrimonioNetoMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoIndividualEje">ipp_ge_dim:OtrosInstrumentosPatrimonioNetoMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_Individual_AjustesPorCambiosValorMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoIndividualEje">ipp_ge_dim:AjustesPorCambiosValorMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_Individual_SubvencionesDonacionesLegadosRecibidosMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoIndividualEje">ipp_ge_dim:SubvencionesDonacionesLegadosRecibidosMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_Individual_TotalPatrimonioNetoMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoIndividualEje">ipp_ge_dim:TotalPatrimonioNetoMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_Consolidado_CapitalMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoConsolidadoEje">ipp_ge_dim:CapitalMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_Consolidado_PrimaEmisionReservasMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoConsolidadoEje">ipp_ge_dim:PrimaEmisionReservasMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_Consolidado_AccionesParticipacionesPatrimonioPropiasMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoConsolidadoEje">ipp_ge_dim:AccionesParticipacionesPatrimonioPropiasMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_Consolidado_ResultadoEjercicioAtribuidoEntidadDominanteMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoConsolidadoEje">ipp_ge_dim:ResultadoEjercicioAtribuidoEntidadDominanteMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_Consolidado_OtrosInstrumentosPatrimonioNetoMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoConsolidadoEje">ipp_ge_dim:OtrosInstrumentosPatrimonioNetoMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_Consolidado_AjustesPorCambiosValorMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoConsolidadoEje">ipp_ge_dim:AjustesPorCambiosValorMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_Consolidado_InteresesMinoritariosMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoConsolidadoEje">ipp_ge_dim:InteresesMinoritariosMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_Consolidado_TotalPatrimonioNetoMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoConsolidadoEje">ipp_ge_dim:TotalPatrimonioNetoMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_Consolidado_CapitalMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoConsolidadoEje">ipp_ge_dim:CapitalMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_Consolidado_PrimaEmisionReservasMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoConsolidadoEje">ipp_ge_dim:PrimaEmisionReservasMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_Consolidado_AccionesParticipacionesPatrimonioPropiasMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoConsolidadoEje">ipp_ge_dim:AccionesParticipacionesPatrimonioPropiasMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_Consolidado_ResultadoEjercicioAtribuidoEntidadDominanteMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoConsolidadoEje">ipp_ge_dim:ResultadoEjercicioAtribuidoEntidadDominanteMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_Consolidado_OtrosInstrumentosPatrimonioNetoMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoConsolidadoEje">ipp_ge_dim:OtrosInstrumentosPatrimonioNetoMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_Consolidado_AjustesPorCambiosValorMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoConsolidadoEje">ipp_ge_dim:AjustesPorCambiosValorMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_Consolidado_InteresesMinoritariosMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoConsolidadoEje">ipp_ge_dim:InteresesMinoritariosMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_Consolidado_TotalPatrimonioNetoMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:EstadoTotalCambiosPatrimonioNetoConsolidadoEje">ipp_ge_dim:TotalPatrimonioNetoMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Dcur_PorcentajeSobreNominalMiembro_PeriodoActualMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2017-01-01</xbrli:startDate>
+      <xbrli:endDate>2017-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:DividendosPagadosEje">ipp_ge_dim:PorcentajeSobreNominalMiembro</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PeriodoEje">ipp_ge_dim:PeriodoActualMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Dcur_ImportePorAccionMiembro_PeriodoActualMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2017-01-01</xbrli:startDate>
+      <xbrli:endDate>2017-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:DividendosPagadosEje">ipp_ge_dim:ImportePorAccionMiembro</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PeriodoEje">ipp_ge_dim:PeriodoActualMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Dcur_ImporteTotalMiembro_PeriodoActualMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2017-01-01</xbrli:startDate>
+      <xbrli:endDate>2017-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:DividendosPagadosEje">ipp_ge_dim:ImporteTotalMiembro</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PeriodoEje">ipp_ge_dim:PeriodoActualMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Dpre_PorcentajeSobreNominalMiembro_PeriodoAnteriorMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2016-01-01</xbrli:startDate>
+      <xbrli:endDate>2016-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:DividendosPagadosEje">ipp_ge_dim:PorcentajeSobreNominalMiembro</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PeriodoEje">ipp_ge_dim:PeriodoAnteriorMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Dpre_ImportePorAccionMiembro_PeriodoAnteriorMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2016-01-01</xbrli:startDate>
+      <xbrli:endDate>2016-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:DividendosPagadosEje">ipp_ge_dim:ImportePorAccionMiembro</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PeriodoEje">ipp_ge_dim:PeriodoAnteriorMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Dpre_ImporteTotalMiembro_PeriodoAnteriorMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2016-01-01</xbrli:startDate>
+      <xbrli:endDate>2016-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:DividendosPagadosEje">ipp_ge_dim:ImporteTotalMiembro</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PeriodoEje">ipp_ge_dim:PeriodoAnteriorMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_ActivosFinancierosMantenidosParaNegociarMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:ActivosFinancierosEje">ipp_ge_dim:ActivosFinancierosMantenidosParaNegociarMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_OtrosActivosFinancierosVRCambiosPYGMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:ActivosFinancierosEje">ipp_ge_dim:OtrosActivosFinancierosVRCambiosPYGMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_ActivosFinancierosDisponiblesParaVentaMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:ActivosFinancierosEje">ipp_ge_dim:ActivosFinancierosDisponiblesParaVentaMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_PrestamosPartidasCobrarMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:ActivosFinancierosEje">ipp_ge_dim:PrestamosPartidasCobrarMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_InversionesMantenidasHastaVencimientoMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:ActivosFinancierosEje">ipp_ge_dim:InversionesMantenidasHastaVencimientoMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_ActivosDerivadosCoberturaMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:ActivosFinancierosEje">ipp_ge_dim:DerivadosCoberturaMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_PasivosFinancierosMantenidosParaNegociarMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PasivosFinancierosEje">ipp_ge_dim:PasivosFinancierosMantenidosParaNegociarMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_OtrosPasivosFinancierosVRCambiosPyGMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PasivosFinancierosEje">ipp_ge_dim:OtrosPasivosFinancierosVRCambiosPyGMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_DebitosPartidasPagarMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PasivosFinancierosEje">ipp_ge_dim:DebitosPartidasPagarMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_PasivosDerivadosCoberturaMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PasivosFinancierosEje">ipp_ge_dim:DerivadosCoberturaMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_ActivosFinancierosMantenidosParaNegociarMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:ActivosFinancierosEje">ipp_ge_dim:ActivosFinancierosMantenidosParaNegociarMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_OtrosActivosFinancierosVRCambiosPYGMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:ActivosFinancierosEje">ipp_ge_dim:OtrosActivosFinancierosVRCambiosPYGMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_ActivosFinancierosDisponiblesParaVentaMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:ActivosFinancierosEje">ipp_ge_dim:ActivosFinancierosDisponiblesParaVentaMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_PrestamosPartidasCobrarMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:ActivosFinancierosEje">ipp_ge_dim:PrestamosPartidasCobrarMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_InversionesMantenidasHastaVencimientoMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:ActivosFinancierosEje">ipp_ge_dim:InversionesMantenidasHastaVencimientoMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_ActivosDerivadosCoberturaMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:ActivosFinancierosEje">ipp_ge_dim:DerivadosCoberturaMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_PasivosFinancierosMantenidosParaNegociarMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PasivosFinancierosEje">ipp_ge_dim:PasivosFinancierosMantenidosParaNegociarMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_OtrosPasivosFinancierosVRCambiosPyGMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PasivosFinancierosEje">ipp_ge_dim:OtrosPasivosFinancierosVRCambiosPyGMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_DebitosPartidasPagarMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PasivosFinancierosEje">ipp_ge_dim:DebitosPartidasPagarMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_PasivosDerivadosCoberturaMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PasivosFinancierosEje">ipp_ge_dim:DerivadosCoberturaMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_AreaGeograficaIndividualMiembro_PeriodoActualMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:AreaGeograficaEje">ipp_ge_dim:AreaGeograficaIndividualMiembro</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PeriodoEje">ipp_ge_dim:PeriodoActualMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_AreaGeograficaIndividualMiembro_PeriodoAnteriorMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:AreaGeograficaEje">ipp_ge_dim:AreaGeograficaIndividualMiembro</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PeriodoEje">ipp_ge_dim:PeriodoAnteriorMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_AreaGeograficaConsolidadoMiembro_PeriodoActualMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:AreaGeograficaEje">ipp_ge_dim:AreaGeograficaConsolidadoMiembro</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PeriodoEje">ipp_ge_dim:PeriodoActualMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_AreaGeograficaConsolidadoMiembro_PeriodoAnteriorMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:AreaGeograficaEje">ipp_ge_dim:AreaGeograficaConsolidadoMiembro</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PeriodoEje">ipp_ge_dim:PeriodoAnteriorMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_IngresosOrdinariosSegmentoslMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:SegmentosIngresosEje">ipp_ge_dim:IngresosOrdinariosSegmentoslMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_IngresosOrdinariosClientesExternosPeriodoActualMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:SegmentosIngresosEje">ipp_ge_dim:IngresosOrdinariosClientesExternosPeriodoActualMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_IngresosOrdinariosClientesExternosPeriodoAnteriorMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:SegmentosIngresosEje">ipp_ge_dim:IngresosOrdinariosClientesExternosPeriodoAnteriorMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_IngresosOrdinariosSegmentosPeriodoActualMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:SegmentosIngresosEje">ipp_ge_dim:IngresosOrdinariosSegmentosPeriodoActualMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_IngresosOrdinariosSegmentosPeriodoAnteriorMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:SegmentosIngresosEje">ipp_ge_dim:IngresosOrdinariosSegmentosPeriodoAnteriorMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_IngresosOrdinariosTotalPeriodoActualMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:SegmentosIngresosEje">ipp_ge_dim:IngresosOrdinariosTotalPeriodoActualMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_IngresosOrdinariosTotalPeriodoAnteriorMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:SegmentosIngresosEje">ipp_ge_dim:IngresosOrdinariosTotalPeriodoAnteriorMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_ResultadoSegmentoslMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:SegmentosResultadoEje">ipp_ge_dim:ResultadoSegmentoslMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_ResultadoPeriodoActualMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:SegmentosResultadoEje">ipp_ge_dim:ResultadoPeriodoActualMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_ResultadoPeriodoAnteriorMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:SegmentosResultadoEje">ipp_ge_dim:ResultadoPeriodoAnteriorMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_IndividualMiembro_PeriodoActualMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:ApartadoEje">ipp_ge_dim:IndividualMiembro</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PeriodoEje">ipp_ge_dim:PeriodoActualMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_IndividualMiembro_PeriodoAnteriorMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:ApartadoEje">ipp_ge_dim:IndividualMiembro</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PeriodoEje">ipp_ge_dim:PeriodoAnteriorMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Icur_ConsolidadoMiembro_PeriodoActualMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2017-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:ApartadoEje">ipp_ge_dim:ConsolidadoMiembro</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PeriodoEje">ipp_ge_dim:PeriodoActualMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Ipre_ConsolidadoMiembro_PeriodoAnteriorMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:ApartadoEje">ipp_ge_dim:ConsolidadoMiembro</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:PeriodoEje">ipp_ge_dim:PeriodoAnteriorMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Dcur_Importe_PeriodoActualMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2017-01-01</xbrli:startDate>
+      <xbrli:endDate>2017-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:ImporteMilesEurosEje">ipp_ge_dim:PeriodoActualMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Dpre_Importe_PeriodoAnteriorMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2016-01-01</xbrli:startDate>
+      <xbrli:endDate>2016-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:ImporteMilesEurosEje">ipp_ge_dim:PeriodoAnteriorMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Dcur_AccionistasSignificativosMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2017-01-01</xbrli:startDate>
+      <xbrli:endDate>2017-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:TransaccionesPartesVinculadasEje">ipp_ge_dim:AccionistasSignificativosMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Dcur_AdministradoresDirectivosMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2017-01-01</xbrli:startDate>
+      <xbrli:endDate>2017-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:TransaccionesPartesVinculadasEje">ipp_ge_dim:AdministradoresDirectivosMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Dcur_PersonasSociedadesEntidadesGrupoMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2017-01-01</xbrli:startDate>
+      <xbrli:endDate>2017-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:TransaccionesPartesVinculadasEje">ipp_ge_dim:PersonasSociedadesEntidadesGrupoMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Dcur_OtrasPartesVinculadasMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2017-01-01</xbrli:startDate>
+      <xbrli:endDate>2017-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:TransaccionesPartesVinculadasEje">ipp_ge_dim:OtrasPartesVinculadasMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Dcur_TotalMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2017-01-01</xbrli:startDate>
+      <xbrli:endDate>2017-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:TransaccionesPartesVinculadasEje">ipp_ge_dim:TotalMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Dpre_AccionistasSignificativosMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2016-01-01</xbrli:startDate>
+      <xbrli:endDate>2016-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:TransaccionesPartesVinculadasEje">ipp_ge_dim:AccionistasSignificativosMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Dpre_AdministradoresDirectivosMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2016-01-01</xbrli:startDate>
+      <xbrli:endDate>2016-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:TransaccionesPartesVinculadasEje">ipp_ge_dim:AdministradoresDirectivosMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Dpre_PersonasSociedadesEntidadesGrupoMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2016-01-01</xbrli:startDate>
+      <xbrli:endDate>2016-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:TransaccionesPartesVinculadasEje">ipp_ge_dim:PersonasSociedadesEntidadesGrupoMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Dpre_OtrasPartesVinculadasMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2016-01-01</xbrli:startDate>
+      <xbrli:endDate>2016-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:TransaccionesPartesVinculadasEje">ipp_ge_dim:OtrasPartesVinculadasMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="Dpre_TotalMiembro">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-78267176">PHARMA MAR, S.A.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2016-01-01</xbrli:startDate>
+      <xbrli:endDate>2016-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="ipp_ge_dim:TransaccionesPartesVinculadasEje">ipp_ge_dim:TotalMiembro</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:unit id="euro">
+    <xbrli:measure>iso4217:EUR</xbrli:measure>
+  </xbrli:unit>
+  <ipp_ge:Modelo contextRef="Icur">GEN</ipp_ge:Modelo>
+  <ipp_ge:Version contextRef="Icur">7.0.0</ipp_ge:Version>
+  <ipp_ge:Estadistico contextRef="Icur">S</ipp_ge:Estadistico>
+  <ipp_ge:FechaInicioInforme contextRef="Icur">2017-01-01</ipp_ge:FechaInicioInforme>
+  <ipp_ge:FechaFinInforme contextRef="Icur">2017-12-31</ipp_ge:FechaFinInforme>
+  <ipp_ge:DenominacionSocial contextRef="Icur">PHARMA MAR, S.A.</ipp_ge:DenominacionSocial>
+  <ipp_ge:DomicilioSocial contextRef="Icur">Av. de los Reyes, 1, 28770 Colmenar Viejo - Madrid</ipp_ge:DomicilioSocial>
+  <ipp_ge:CIF contextRef="Icur">A-78267176</ipp_ge:CIF>
+  <ipp_ge:PersonasResponsablesNombre contextRef="Icur_PersonasResponsablesInformacionMiembro_1">José María Fernández Sousa-Faro</ipp_ge:PersonasResponsablesNombre>
+  <ipp_ge:PersonasResponsablesNombre contextRef="Icur_PersonasResponsablesInformacionMiembro_2">Pedro Francisco Fernández Puentes</ipp_ge:PersonasResponsablesNombre>
+  <ipp_ge:PersonasResponsablesNombre contextRef="Icur_PersonasResponsablesInformacionMiembro_3">Rosp Corunna Participaciones Empresariales, S.L.(Repr.D.José Leyte Verdejo)</ipp_ge:PersonasResponsablesNombre>
+  <ipp_ge:PersonasResponsablesNombre contextRef="Icur_PersonasResponsablesInformacionMiembro_4">JEFPO, S.L. (Representada por José Félix Perez-Orive Carceller)</ipp_ge:PersonasResponsablesNombre>
+  <ipp_ge:PersonasResponsablesNombre contextRef="Icur_PersonasResponsablesInformacionMiembro_5">Jaime Zurita Sáenz de Navarrete</ipp_ge:PersonasResponsablesNombre>
+  <ipp_ge:PersonasResponsablesNombre contextRef="Icur_PersonasResponsablesInformacionMiembro_6">Carlos Solchaga Catalán</ipp_ge:PersonasResponsablesNombre>
+  <ipp_ge:PersonasResponsablesNombre contextRef="Icur_PersonasResponsablesInformacionMiembro_7">Ana Palacio Vallelersundi</ipp_ge:PersonasResponsablesNombre>
+  <ipp_ge:PersonasResponsablesNombre contextRef="Icur_PersonasResponsablesInformacionMiembro_8">Montserrat Andrade Detrell</ipp_ge:PersonasResponsablesNombre>
+  <ipp_ge:PersonasResponsablesNombre contextRef="Icur_PersonasResponsablesInformacionMiembro_9">Eduardo Serra y Asociados, S.L. (Representada por Eduardo Serra Rexach)</ipp_ge:PersonasResponsablesNombre>
+  <ipp_ge:PersonasResponsablesCargo contextRef="Icur_PersonasResponsablesInformacionMiembro_1">Presidente</ipp_ge:PersonasResponsablesCargo>
+  <ipp_ge:PersonasResponsablesCargo contextRef="Icur_PersonasResponsablesInformacionMiembro_2">Vicepresidente</ipp_ge:PersonasResponsablesCargo>
+  <ipp_ge:PersonasResponsablesCargo contextRef="Icur_PersonasResponsablesInformacionMiembro_3">Consejero</ipp_ge:PersonasResponsablesCargo>
+  <ipp_ge:PersonasResponsablesCargo contextRef="Icur_PersonasResponsablesInformacionMiembro_4">Consejero</ipp_ge:PersonasResponsablesCargo>
+  <ipp_ge:PersonasResponsablesCargo contextRef="Icur_PersonasResponsablesInformacionMiembro_5">Consejero</ipp_ge:PersonasResponsablesCargo>
+  <ipp_ge:PersonasResponsablesCargo contextRef="Icur_PersonasResponsablesInformacionMiembro_6">Consejero</ipp_ge:PersonasResponsablesCargo>
+  <ipp_ge:PersonasResponsablesCargo contextRef="Icur_PersonasResponsablesInformacionMiembro_7">Consejero</ipp_ge:PersonasResponsablesCargo>
+  <ipp_ge:PersonasResponsablesCargo contextRef="Icur_PersonasResponsablesInformacionMiembro_8">Consejero</ipp_ge:PersonasResponsablesCargo>
+  <ipp_ge:PersonasResponsablesCargo contextRef="Icur_PersonasResponsablesInformacionMiembro_9">Consejero</ipp_ge:PersonasResponsablesCargo>
+  <ipp_ge:FirmadoAdministradores contextRef="Icur">true</ipp_ge:FirmadoAdministradores>
+  <ipp_ge:FechaAprobacionInforme contextRef="Icur">2018-02-28</ipp_ge:FechaAprobacionInforme>
+  <ipp_ge:I0040 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">280779301</ipp_ge:I0040>
+  <ipp_ge:I0040 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">397441683.00</ipp_ge:I0040>
+  <ipp_ge:I0030 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">171090124</ipp_ge:I0030>
+  <ipp_ge:I0030 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">298707302.00</ipp_ge:I0030>
+  <ipp_ge:I0032 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">171090124</ipp_ge:I0032>
+  <ipp_ge:I0032 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">298707302.00</ipp_ge:I0032>
+  <ipp_ge:I0033 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">20809396</ipp_ge:I0033>
+  <ipp_ge:I0033 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">20516251.00</ipp_ge:I0033>
+  <ipp_ge:I0034 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">1492359</ipp_ge:I0034>
+  <ipp_ge:I0034 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">1492359.00</ipp_ge:I0034>
+  <ipp_ge:I0035 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">66365934</ipp_ge:I0035>
+  <ipp_ge:I0035 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">57184042.00</ipp_ge:I0035>
+  <ipp_ge:I0036 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">501038</ipp_ge:I0036>
+  <ipp_ge:I0036 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">568213.00</ipp_ge:I0036>
+  <ipp_ge:I0037 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">20520450</ipp_ge:I0037>
+  <ipp_ge:I0037 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">18973516.00</ipp_ge:I0037>
+  <ipp_ge:I0085 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">46176905</ipp_ge:I0085>
+  <ipp_ge:I0085 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">80782257.00</ipp_ge:I0085>
+  <ipp_ge:I0055 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">7137245</ipp_ge:I0055>
+  <ipp_ge:I0055 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">6089019.00</ipp_ge:I0055>
+  <ipp_ge:I0060 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">18321273</ipp_ge:I0060>
+  <ipp_ge:I0060 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">48560851.00</ipp_ge:I0060>
+  <ipp_ge:I0061 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">14477701</ipp_ge:I0061>
+  <ipp_ge:I0061 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">46634337.00</ipp_ge:I0061>
+  <ipp_ge:I0062 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">652149</ipp_ge:I0062>
+  <ipp_ge:I0062 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">582032.00</ipp_ge:I0062>
+  <ipp_ge:I0063 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">3191423</ipp_ge:I0063>
+  <ipp_ge:I0063 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">1344482.00</ipp_ge:I0063>
+  <ipp_ge:I0064 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">1422413</ipp_ge:I0064>
+  <ipp_ge:I0064 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">2029527.00</ipp_ge:I0064>
+  <ipp_ge:I0070 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">4589588</ipp_ge:I0070>
+  <ipp_ge:I0070 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">14993338.00</ipp_ge:I0070>
+  <ipp_ge:I0071 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">1985952</ipp_ge:I0071>
+  <ipp_ge:I0071 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">1848155.00</ipp_ge:I0071>
+  <ipp_ge:I0072 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">12720434</ipp_ge:I0072>
+  <ipp_ge:I0072 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">7261367.00</ipp_ge:I0072>
+  <ipp_ge:I0100 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">326956206</ipp_ge:I0100>
+  <ipp_ge:I0100 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">478223940.00</ipp_ge:I0100>
+  <ipp_ge:I0195 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">180144809</ipp_ge:I0195>
+  <ipp_ge:I0195 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">321454737.00</ipp_ge:I0195>
+  <ipp_ge:I0180 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">176716501</ipp_ge:I0180>
+  <ipp_ge:I0180 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">312297160.00</ipp_ge:I0180>
+  <ipp_ge:I0171 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">11132464</ipp_ge:I0171>
+  <ipp_ge:I0171 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">11110244.00</ipp_ge:I0171>
+  <ipp_ge:I0161 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">11132464</ipp_ge:I0161>
+  <ipp_ge:I0161 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">11110244.00</ipp_ge:I0161>
+  <ipp_ge:I0172 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">71277621</ipp_ge:I0172>
+  <ipp_ge:I0172 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">69188941.00</ipp_ge:I0172>
+  <ipp_ge:I0173 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">302498881</ipp_ge:I0173>
+  <ipp_ge:I0173 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">302126080.00</ipp_ge:I0173>
+  <ipp_ge:I0174 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">-4470033</ipp_ge:I0174>
+  <ipp_ge:I0174 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">-3246192.00</ipp_ge:I0174>
+  <ipp_ge:I0178 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">-66881912</ipp_ge:I0178>
+  <ipp_ge:I0178 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">-55408061.00</ipp_ge:I0178>
+  <ipp_ge:I0175 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">-136840520</ipp_ge:I0175>
+  <ipp_ge:I0175 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">-11473852.00</ipp_ge:I0175>
+  <ipp_ge:I0188 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">12917</ipp_ge:I0188>
+  <ipp_ge:I0188 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">11811.00</ipp_ge:I0188>
+  <ipp_ge:I0181 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">12917</ipp_ge:I0181>
+  <ipp_ge:I0181 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">11811.00</ipp_ge:I0181>
+  <ipp_ge:I0194 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">3415391</ipp_ge:I0194>
+  <ipp_ge:I0194 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">9145766.00</ipp_ge:I0194>
+  <ipp_ge:I0120 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">73586364</ipp_ge:I0120>
+  <ipp_ge:I0120 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">79164657.00</ipp_ge:I0120>
+  <ipp_ge:I0115 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">150000</ipp_ge:I0115>
+  <ipp_ge:I0115 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">150000.00</ipp_ge:I0115>
+  <ipp_ge:I0116 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">67636488</ipp_ge:I0116>
+  <ipp_ge:I0116 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">61737111.00</ipp_ge:I0116>
+  <ipp_ge:I0131 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">49580845</ipp_ge:I0131>
+  <ipp_ge:I0131 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">41144422.00</ipp_ge:I0131>
+  <ipp_ge:I0132 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">18055643</ipp_ge:I0132>
+  <ipp_ge:I0132 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">20592689.00</ipp_ge:I0132>
+  <ipp_ge:I0118 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">695234</ipp_ge:I0118>
+  <ipp_ge:I0118 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">3277546.00</ipp_ge:I0118>
+  <ipp_ge:I0119 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">5104642</ipp_ge:I0119>
+  <ipp_ge:I0119 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">14000000.00</ipp_ge:I0119>
+  <ipp_ge:I0130 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">73225033</ipp_ge:I0130>
+  <ipp_ge:I0130 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">77604546.00</ipp_ge:I0130>
+  <ipp_ge:I0122 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">166000</ipp_ge:I0122>
+  <ipp_ge:I0123 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">23828290</ipp_ge:I0123>
+  <ipp_ge:I0123 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">24352861.00</ipp_ge:I0123>
+  <ipp_ge:I0133 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">19200870</ipp_ge:I0133>
+  <ipp_ge:I0133 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">19861789.00</ipp_ge:I0133>
+  <ipp_ge:I0134 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">4627420</ipp_ge:I0134>
+  <ipp_ge:I0134 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">4491072.00</ipp_ge:I0134>
+  <ipp_ge:I0129 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">8895573</ipp_ge:I0129>
+  <ipp_ge:I0129 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">9210349.00</ipp_ge:I0129>
+  <ipp_ge:I0124 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">25801256</ipp_ge:I0124>
+  <ipp_ge:I0124 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">29546814.00</ipp_ge:I0124>
+  <ipp_ge:I0125 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">2833605</ipp_ge:I0125>
+  <ipp_ge:I0125 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">2362141.00</ipp_ge:I0125>
+  <ipp_ge:I0126 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">22070270</ipp_ge:I0126>
+  <ipp_ge:I0126 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">26319996.00</ipp_ge:I0126>
+  <ipp_ge:I0127 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">897381</ipp_ge:I0127>
+  <ipp_ge:I0127 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">864677.00</ipp_ge:I0127>
+  <ipp_ge:I0136 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">4316563</ipp_ge:I0136>
+  <ipp_ge:I0136 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">4494522.00</ipp_ge:I0136>
+  <ipp_ge:I0128 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">10217351</ipp_ge:I0128>
+  <ipp_ge:I0128 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">10000000.00</ipp_ge:I0128>
+  <ipp_ge:I0200 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">326956206</ipp_ge:I0200>
+  <ipp_ge:I0200 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">478223940.00</ipp_ge:I0200>
+  <ipp_ge:I0205 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">43496713</ipp_ge:I0205>
+  <ipp_ge:I0205 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">100</ipp_ge:I0205>
+  <ipp_ge:I0205 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">51138574.00</ipp_ge:I0205>
+  <ipp_ge:I0205 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">100.00</ipp_ge:I0205>
+  <ipp_ge:I0205 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">88932468</ipp_ge:I0205>
+  <ipp_ge:I0205 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">100</ipp_ge:I0205>
+  <ipp_ge:I0205 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">92773096.00</ipp_ge:I0205>
+  <ipp_ge:I0205 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">100.00</ipp_ge:I0205>
+  <ipp_ge:I0206 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">778652</ipp_ge:I0206>
+  <ipp_ge:I0206 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">1.79</ipp_ge:I0206>
+  <ipp_ge:I0206 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">-19046.00</ipp_ge:I0206>
+  <ipp_ge:I0206 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">-0.04</ipp_ge:I0206>
+  <ipp_ge:I0206 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">1026744</ipp_ge:I0206>
+  <ipp_ge:I0206 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">1.15</ipp_ge:I0206>
+  <ipp_ge:I0206 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-1694601.00</ipp_ge:I0206>
+  <ipp_ge:I0206 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-1.83</ipp_ge:I0206>
+  <ipp_ge:I0207 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">18647407</ipp_ge:I0207>
+  <ipp_ge:I0207 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">42.87</ipp_ge:I0207>
+  <ipp_ge:I0207 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">18717014.00</ipp_ge:I0207>
+  <ipp_ge:I0207 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">36.60</ipp_ge:I0207>
+  <ipp_ge:I0207 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">36561697</ipp_ge:I0207>
+  <ipp_ge:I0207 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">41.11</ipp_ge:I0207>
+  <ipp_ge:I0207 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">40442563.00</ipp_ge:I0207>
+  <ipp_ge:I0207 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">43.59</ipp_ge:I0207>
+  <ipp_ge:I0208 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-3429493</ipp_ge:I0208>
+  <ipp_ge:I0208 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-7.88</ipp_ge:I0208>
+  <ipp_ge:I0208 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">-2986428.00</ipp_ge:I0208>
+  <ipp_ge:I0208 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">-5.84</ipp_ge:I0208>
+  <ipp_ge:I0208 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-5424635</ipp_ge:I0208>
+  <ipp_ge:I0208 unitRef="euro" decimals="1" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">-6.1</ipp_ge:I0208>
+  <ipp_ge:I0208 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-5866549.00</ipp_ge:I0208>
+  <ipp_ge:I0208 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-6.32</ipp_ge:I0208>
+  <ipp_ge:I0209 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">14051</ipp_ge:I0209>
+  <ipp_ge:I0209 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">0.03</ipp_ge:I0209>
+  <ipp_ge:I0209 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">-1636.00</ipp_ge:I0209>
+  <ipp_ge:I0209 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">0.00</ipp_ge:I0209>
+  <ipp_ge:I0209 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">14051</ipp_ge:I0209>
+  <ipp_ge:I0209 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">0.02</ipp_ge:I0209>
+  <ipp_ge:I0209 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">31351.00</ipp_ge:I0209>
+  <ipp_ge:I0209 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">0.03</ipp_ge:I0209>
+  <ipp_ge:I0217 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-15591403</ipp_ge:I0217>
+  <ipp_ge:I0217 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-35.85</ipp_ge:I0217>
+  <ipp_ge:I0217 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">-15085574.00</ipp_ge:I0217>
+  <ipp_ge:I0217 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">-29.50</ipp_ge:I0217>
+  <ipp_ge:I0217 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-30756966</ipp_ge:I0217>
+  <ipp_ge:I0217 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">-34.58</ipp_ge:I0217>
+  <ipp_ge:I0217 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-30147045.00</ipp_ge:I0217>
+  <ipp_ge:I0217 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-32.50</ipp_ge:I0217>
+  <ipp_ge:I0210 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-34570158</ipp_ge:I0210>
+  <ipp_ge:I0210 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-79.48</ipp_ge:I0210>
+  <ipp_ge:I0210 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">-36702356.00</ipp_ge:I0210>
+  <ipp_ge:I0210 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">-71.77</ipp_ge:I0210>
+  <ipp_ge:I0210 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-66978387</ipp_ge:I0210>
+  <ipp_ge:I0210 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">-75.31</ipp_ge:I0210>
+  <ipp_ge:I0210 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-68841180.00</ipp_ge:I0210>
+  <ipp_ge:I0210 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-74.20</ipp_ge:I0210>
+  <ipp_ge:I0211 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-13316189</ipp_ge:I0211>
+  <ipp_ge:I0211 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-30.61</ipp_ge:I0211>
+  <ipp_ge:I0211 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">-2729703.00</ipp_ge:I0211>
+  <ipp_ge:I0211 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">-5.34</ipp_ge:I0211>
+  <ipp_ge:I0211 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-26957326</ipp_ge:I0211>
+  <ipp_ge:I0211 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">-30.31</ipp_ge:I0211>
+  <ipp_ge:I0211 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-29723810.00</ipp_ge:I0211>
+  <ipp_ge:I0211 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-32.04</ipp_ge:I0211>
+  <ipp_ge:I0212 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">7972115</ipp_ge:I0212>
+  <ipp_ge:I0212 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">18.33</ipp_ge:I0212>
+  <ipp_ge:I0212 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">434259.00</ipp_ge:I0212>
+  <ipp_ge:I0212 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">0.85</ipp_ge:I0212>
+  <ipp_ge:I0212 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">8232759</ipp_ge:I0212>
+  <ipp_ge:I0212 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">9.26</ipp_ge:I0212>
+  <ipp_ge:I0212 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">434259.00</ipp_ge:I0212>
+  <ipp_ge:I0212 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">0.47</ipp_ge:I0212>
+  <ipp_ge:I0214 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-138852946</ipp_ge:I0214>
+  <ipp_ge:I0214 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-319.23</ipp_ge:I0214>
+  <ipp_ge:I0214 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">-170931.00</ipp_ge:I0214>
+  <ipp_ge:I0214 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">-0.33</ipp_ge:I0214>
+  <ipp_ge:I0214 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-138875618</ipp_ge:I0214>
+  <ipp_ge:I0214 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">-156.16</ipp_ge:I0214>
+  <ipp_ge:I0214 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-170731.00</ipp_ge:I0214>
+  <ipp_ge:I0214 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-0.18</ipp_ge:I0214>
+  <ipp_ge:I0245 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-134851251</ipp_ge:I0245>
+  <ipp_ge:I0245 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-310.03</ipp_ge:I0245>
+  <ipp_ge:I0245 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">12594173.00</ipp_ge:I0245>
+  <ipp_ge:I0245 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">24.63</ipp_ge:I0245>
+  <ipp_ge:I0245 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-134225213</ipp_ge:I0245>
+  <ipp_ge:I0245 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">-150.93</ipp_ge:I0245>
+  <ipp_ge:I0245 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-2762647.00</ipp_ge:I0245>
+  <ipp_ge:I0245 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-2.98</ipp_ge:I0245>
+  <ipp_ge:I0250 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">318807</ipp_ge:I0250>
+  <ipp_ge:I0250 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">0.73</ipp_ge:I0250>
+  <ipp_ge:I0250 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">849807.00</ipp_ge:I0250>
+  <ipp_ge:I0250 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">1.66</ipp_ge:I0250>
+  <ipp_ge:I0250 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">602198</ipp_ge:I0250>
+  <ipp_ge:I0250 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">0.68</ipp_ge:I0250>
+  <ipp_ge:I0250 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">1273354.00</ipp_ge:I0250>
+  <ipp_ge:I0250 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">1.37</ipp_ge:I0250>
+  <ipp_ge:I0251 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-1970293</ipp_ge:I0251>
+  <ipp_ge:I0251 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-4.53</ipp_ge:I0251>
+  <ipp_ge:I0251 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">-1983247.00</ipp_ge:I0251>
+  <ipp_ge:I0251 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">-3.88</ipp_ge:I0251>
+  <ipp_ge:I0251 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-3940411</ipp_ge:I0251>
+  <ipp_ge:I0251 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">-4.43</ipp_ge:I0251>
+  <ipp_ge:I0251 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-4175408.00</ipp_ge:I0251>
+  <ipp_ge:I0251 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-4.50</ipp_ge:I0251>
+  <ipp_ge:I0254 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-112143</ipp_ge:I0254>
+  <ipp_ge:I0254 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-0.26</ipp_ge:I0254>
+  <ipp_ge:I0254 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">-126339.00</ipp_ge:I0254>
+  <ipp_ge:I0254 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">-0.25</ipp_ge:I0254>
+  <ipp_ge:I0254 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-212333</ipp_ge:I0254>
+  <ipp_ge:I0254 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">-0.24</ipp_ge:I0254>
+  <ipp_ge:I0254 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-306391.00</ipp_ge:I0254>
+  <ipp_ge:I0254 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-0.33</ipp_ge:I0254>
+  <ipp_ge:I0255 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-959400</ipp_ge:I0255>
+  <ipp_ge:I0255 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-2.21</ipp_ge:I0255>
+  <ipp_ge:I0255 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-959400</ipp_ge:I0255>
+  <ipp_ge:I0255 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">-1.08</ipp_ge:I0255>
+  <ipp_ge:I0255 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">201952.00</ipp_ge:I0255>
+  <ipp_ge:I0255 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">0.22</ipp_ge:I0255>
+  <ipp_ge:I0256 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-2723029</ipp_ge:I0256>
+  <ipp_ge:I0256 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-6.26</ipp_ge:I0256>
+  <ipp_ge:I0256 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">-1259779.00</ipp_ge:I0256>
+  <ipp_ge:I0256 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">-2.46</ipp_ge:I0256>
+  <ipp_ge:I0256 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-4509946</ipp_ge:I0256>
+  <ipp_ge:I0256 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">-5.07</ipp_ge:I0256>
+  <ipp_ge:I0256 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-3006493.00</ipp_ge:I0256>
+  <ipp_ge:I0256 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-3.24</ipp_ge:I0256>
+  <ipp_ge:I0265 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-137574280</ipp_ge:I0265>
+  <ipp_ge:I0265 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-316.29</ipp_ge:I0265>
+  <ipp_ge:I0265 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">11334394.00</ipp_ge:I0265>
+  <ipp_ge:I0265 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">22.16</ipp_ge:I0265>
+  <ipp_ge:I0265 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-138735159</ipp_ge:I0265>
+  <ipp_ge:I0265 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">-156.00</ipp_ge:I0265>
+  <ipp_ge:I0265 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-5769140.00</ipp_ge:I0265>
+  <ipp_ge:I0265 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-6.22</ipp_ge:I0265>
+  <ipp_ge:I0270 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">2188243</ipp_ge:I0270>
+  <ipp_ge:I0270 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">5.03</ipp_ge:I0270>
+  <ipp_ge:I0270 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">-5186291.00</ipp_ge:I0270>
+  <ipp_ge:I0270 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">-10.14</ipp_ge:I0270>
+  <ipp_ge:I0270 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">1894639</ipp_ge:I0270>
+  <ipp_ge:I0270 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">2.13</ipp_ge:I0270>
+  <ipp_ge:I0270 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-5704712.00</ipp_ge:I0270>
+  <ipp_ge:I0270 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-6.15</ipp_ge:I0270>
+  <ipp_ge:I0280 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-135386037</ipp_ge:I0280>
+  <ipp_ge:I0280 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-311.26</ipp_ge:I0280>
+  <ipp_ge:I0280 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">6148103.00</ipp_ge:I0280>
+  <ipp_ge:I0280 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">12.02</ipp_ge:I0280>
+  <ipp_ge:I0280 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-136840520</ipp_ge:I0280>
+  <ipp_ge:I0280 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">-153.87</ipp_ge:I0280>
+  <ipp_ge:I0280 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-11473852.00</ipp_ge:I0280>
+  <ipp_ge:I0280 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-12.37</ipp_ge:I0280>
+  <ipp_ge:I0300 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-135386037</ipp_ge:I0300>
+  <ipp_ge:I0300 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-311.26</ipp_ge:I0300>
+  <ipp_ge:I0300 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">6148103.00</ipp_ge:I0300>
+  <ipp_ge:I0300 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">12.02</ipp_ge:I0300>
+  <ipp_ge:I0300 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-136840520</ipp_ge:I0300>
+  <ipp_ge:I0300 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">-153.87</ipp_ge:I0300>
+  <ipp_ge:I0300 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-11473852.00</ipp_ge:I0300>
+  <ipp_ge:I0300 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-12.37</ipp_ge:I0300>
+  <ipp_ge:I0290 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-0.62</ipp_ge:I0290>
+  <ipp_ge:I0290 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-0.05</ipp_ge:I0290>
+  <ipp_ge:I0295 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-0.62</ipp_ge:I0295>
+  <ipp_ge:I0295 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-0.05</ipp_ge:I0295>
+  <ipp_ge:I0305 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">-136840520</ipp_ge:I0305>
+  <ipp_ge:I0305 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-11473852.00</ipp_ge:I0305>
+  <ipp_ge:I0310 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">445300</ipp_ge:I0310>
+  <ipp_ge:I0310 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">215686.00</ipp_ge:I0310>
+  <ipp_ge:I0320 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">1476</ipp_ge:I0320>
+  <ipp_ge:I0320 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">5379.00</ipp_ge:I0320>
+  <ipp_ge:I0321 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">1476</ipp_ge:I0321>
+  <ipp_ge:I0321 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">5379.00</ipp_ge:I0321>
+  <ipp_ge:I0340 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">592139</ipp_ge:I0340>
+  <ipp_ge:I0340 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">281802.00</ipp_ge:I0340>
+  <ipp_ge:I0345 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">-148315</ipp_ge:I0345>
+  <ipp_ge:I0345 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-71495.00</ipp_ge:I0345>
+  <ipp_ge:I0350 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">-6174569</ipp_ge:I0350>
+  <ipp_ge:I0350 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-349868.00</ipp_ge:I0350>
+  <ipp_ge:I0366 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">-8232759</ipp_ge:I0366>
+  <ipp_ge:I0366 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-466220.00</ipp_ge:I0366>
+  <ipp_ge:I0365 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">2058190</ipp_ge:I0365>
+  <ipp_ge:I0370 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">116352.00</ipp_ge:I0370>
+  <ipp_ge:I0400 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">-142569789</ipp_ge:I0400>
+  <ipp_ge:I0400 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-11608034.00</ipp_ge:I0400>
+  <ipp_ge:I3010 unitRef="euro" decimals="2" contextRef="Icur_Individual_CapitalMiembro">11110244.00</ipp_ge:I3010>
+  <ipp_ge:I3010 unitRef="euro" decimals="0" contextRef="Icur_Individual_PrimaEmisionReservasMiembro">304433109</ipp_ge:I3010>
+  <ipp_ge:I3010 unitRef="euro" decimals="2" contextRef="Icur_Individual_AccionesParticipacionesPatrimonioPropiasMiembro">-3246192.00</ipp_ge:I3010>
+  <ipp_ge:I3010 unitRef="euro" decimals="2" contextRef="Icur_Individual_AjustesPorCambiosValorMiembro">11811.00</ipp_ge:I3010>
+  <ipp_ge:I3010 unitRef="euro" decimals="2" contextRef="Icur_Individual_SubvencionesDonacionesLegadosRecibidosMiembro">9145766.00</ipp_ge:I3010>
+  <ipp_ge:I3010 unitRef="euro" decimals="0" contextRef="Icur_Individual_TotalPatrimonioNetoMiembro">321454738</ipp_ge:I3010>
+  <ipp_ge:I3015 unitRef="euro" decimals="2" contextRef="Icur_Individual_CapitalMiembro">11110244.00</ipp_ge:I3015>
+  <ipp_ge:I3015 unitRef="euro" decimals="0" contextRef="Icur_Individual_PrimaEmisionReservasMiembro">304433109</ipp_ge:I3015>
+  <ipp_ge:I3015 unitRef="euro" decimals="2" contextRef="Icur_Individual_AccionesParticipacionesPatrimonioPropiasMiembro">-3246192.00</ipp_ge:I3015>
+  <ipp_ge:I3015 unitRef="euro" decimals="2" contextRef="Icur_Individual_AjustesPorCambiosValorMiembro">11811.00</ipp_ge:I3015>
+  <ipp_ge:I3015 unitRef="euro" decimals="2" contextRef="Icur_Individual_SubvencionesDonacionesLegadosRecibidosMiembro">9145766.00</ipp_ge:I3015>
+  <ipp_ge:I3015 unitRef="euro" decimals="0" contextRef="Icur_Individual_TotalPatrimonioNetoMiembro">321454738</ipp_ge:I3015>
+  <ipp_ge:I3020 unitRef="euro" decimals="0" contextRef="Icur_Individual_ResultadoEjercicioMiembro">-136840520</ipp_ge:I3020>
+  <ipp_ge:I3020 unitRef="euro" decimals="0" contextRef="Icur_Individual_AjustesPorCambiosValorMiembro">1107</ipp_ge:I3020>
+  <ipp_ge:I3020 unitRef="euro" decimals="0" contextRef="Icur_Individual_SubvencionesDonacionesLegadosRecibidosMiembro">-5730376</ipp_ge:I3020>
+  <ipp_ge:I3020 unitRef="euro" decimals="0" contextRef="Icur_Individual_TotalPatrimonioNetoMiembro">-142569789</ipp_ge:I3020>
+  <ipp_ge:I3025 unitRef="euro" decimals="0" contextRef="Icur_Individual_CapitalMiembro">22220</ipp_ge:I3025>
+  <ipp_ge:I3025 unitRef="euro" decimals="0" contextRef="Icur_Individual_PrimaEmisionReservasMiembro">2606268</ipp_ge:I3025>
+  <ipp_ge:I3025 unitRef="euro" decimals="0" contextRef="Icur_Individual_AccionesParticipacionesPatrimonioPropiasMiembro">-1223841</ipp_ge:I3025>
+  <ipp_ge:I3025 unitRef="euro" decimals="0" contextRef="Icur_Individual_TotalPatrimonioNetoMiembro">1404647</ipp_ge:I3025>
+  <ipp_ge:I3026 unitRef="euro" decimals="0" contextRef="Icur_Individual_CapitalMiembro">22220</ipp_ge:I3026>
+  <ipp_ge:I3026 unitRef="euro" decimals="0" contextRef="Icur_Individual_PrimaEmisionReservasMiembro">2088680</ipp_ge:I3026>
+  <ipp_ge:I3026 unitRef="euro" decimals="0" contextRef="Icur_Individual_TotalPatrimonioNetoMiembro">2110900</ipp_ge:I3026>
+  <ipp_ge:I3029 unitRef="euro" decimals="0" contextRef="Icur_Individual_PrimaEmisionReservasMiembro">517588</ipp_ge:I3029>
+  <ipp_ge:I3029 unitRef="euro" decimals="0" contextRef="Icur_Individual_AccionesParticipacionesPatrimonioPropiasMiembro">-1223841</ipp_ge:I3029>
+  <ipp_ge:I3029 unitRef="euro" decimals="0" contextRef="Icur_Individual_TotalPatrimonioNetoMiembro">-706253</ipp_ge:I3029>
+  <ipp_ge:I3035 unitRef="euro" decimals="0" contextRef="Icur_Individual_PrimaEmisionReservasMiembro">-144787</ipp_ge:I3035>
+  <ipp_ge:I3035 unitRef="euro" decimals="0" contextRef="Icur_Individual_TotalPatrimonioNetoMiembro">-144787</ipp_ge:I3035>
+  <ipp_ge:I3038 unitRef="euro" decimals="0" contextRef="Icur_Individual_PrimaEmisionReservasMiembro">-144787</ipp_ge:I3038>
+  <ipp_ge:I3038 unitRef="euro" decimals="0" contextRef="Icur_Individual_TotalPatrimonioNetoMiembro">-144787</ipp_ge:I3038>
+  <ipp_ge:I3040 unitRef="euro" decimals="0" contextRef="Icur_Individual_CapitalMiembro">11132464</ipp_ge:I3040>
+  <ipp_ge:I3040 unitRef="euro" decimals="0" contextRef="Icur_Individual_PrimaEmisionReservasMiembro">306894590</ipp_ge:I3040>
+  <ipp_ge:I3040 unitRef="euro" decimals="0" contextRef="Icur_Individual_AccionesParticipacionesPatrimonioPropiasMiembro">-4470033</ipp_ge:I3040>
+  <ipp_ge:I3040 unitRef="euro" decimals="0" contextRef="Icur_Individual_ResultadoEjercicioMiembro">-136840520</ipp_ge:I3040>
+  <ipp_ge:I3040 unitRef="euro" decimals="0" contextRef="Icur_Individual_AjustesPorCambiosValorMiembro">12918</ipp_ge:I3040>
+  <ipp_ge:I3040 unitRef="euro" decimals="0" contextRef="Icur_Individual_SubvencionesDonacionesLegadosRecibidosMiembro">3415390</ipp_ge:I3040>
+  <ipp_ge:I3040 unitRef="euro" decimals="0" contextRef="Icur_Individual_TotalPatrimonioNetoMiembro">180144809</ipp_ge:I3040>
+  <ipp_ge:I3050 unitRef="euro" decimals="2" contextRef="Ipre_Individual_CapitalMiembro">11110244.00</ipp_ge:I3050>
+  <ipp_ge:I3050 unitRef="euro" decimals="2" contextRef="Ipre_Individual_PrimaEmisionReservasMiembro">316029297.00</ipp_ge:I3050>
+  <ipp_ge:I3050 unitRef="euro" decimals="2" contextRef="Ipre_Individual_AccionesParticipacionesPatrimonioPropiasMiembro">-2944492.00</ipp_ge:I3050>
+  <ipp_ge:I3050 unitRef="euro" decimals="2" contextRef="Ipre_Individual_AjustesPorCambiosValorMiembro">7777.00</ipp_ge:I3050>
+  <ipp_ge:I3050 unitRef="euro" decimals="2" contextRef="Ipre_Individual_SubvencionesDonacionesLegadosRecibidosMiembro">9283982.00</ipp_ge:I3050>
+  <ipp_ge:I3050 unitRef="euro" decimals="2" contextRef="Ipre_Individual_TotalPatrimonioNetoMiembro">333486808.00</ipp_ge:I3050>
+  <ipp_ge:I3055 unitRef="euro" decimals="2" contextRef="Ipre_Individual_CapitalMiembro">11110244.00</ipp_ge:I3055>
+  <ipp_ge:I3055 unitRef="euro" decimals="2" contextRef="Ipre_Individual_PrimaEmisionReservasMiembro">316029297.00</ipp_ge:I3055>
+  <ipp_ge:I3055 unitRef="euro" decimals="2" contextRef="Ipre_Individual_AccionesParticipacionesPatrimonioPropiasMiembro">-2944492.00</ipp_ge:I3055>
+  <ipp_ge:I3055 unitRef="euro" decimals="2" contextRef="Ipre_Individual_AjustesPorCambiosValorMiembro">7777.00</ipp_ge:I3055>
+  <ipp_ge:I3055 unitRef="euro" decimals="2" contextRef="Ipre_Individual_SubvencionesDonacionesLegadosRecibidosMiembro">9283982.00</ipp_ge:I3055>
+  <ipp_ge:I3055 unitRef="euro" decimals="2" contextRef="Ipre_Individual_TotalPatrimonioNetoMiembro">333486808.00</ipp_ge:I3055>
+  <ipp_ge:I3060 unitRef="euro" decimals="2" contextRef="Ipre_Individual_ResultadoEjercicioMiembro">-11473852.00</ipp_ge:I3060>
+  <ipp_ge:I3060 unitRef="euro" decimals="2" contextRef="Ipre_Individual_AjustesPorCambiosValorMiembro">4034.00</ipp_ge:I3060>
+  <ipp_ge:I3060 unitRef="euro" decimals="2" contextRef="Ipre_Individual_SubvencionesDonacionesLegadosRecibidosMiembro">-138216.00</ipp_ge:I3060>
+  <ipp_ge:I3060 unitRef="euro" decimals="2" contextRef="Ipre_Individual_TotalPatrimonioNetoMiembro">-11608034.00</ipp_ge:I3060>
+  <ipp_ge:I3065 unitRef="euro" decimals="2" contextRef="Ipre_Individual_PrimaEmisionReservasMiembro">-328748.00</ipp_ge:I3065>
+  <ipp_ge:I3065 unitRef="euro" decimals="2" contextRef="Ipre_Individual_AccionesParticipacionesPatrimonioPropiasMiembro">-301700.00</ipp_ge:I3065>
+  <ipp_ge:I3065 unitRef="euro" decimals="2" contextRef="Ipre_Individual_TotalPatrimonioNetoMiembro">-630448.00</ipp_ge:I3065>
+  <ipp_ge:I3069 unitRef="euro" decimals="2" contextRef="Ipre_Individual_PrimaEmisionReservasMiembro">-328748.00</ipp_ge:I3069>
+  <ipp_ge:I3069 unitRef="euro" decimals="2" contextRef="Ipre_Individual_AccionesParticipacionesPatrimonioPropiasMiembro">-301700.00</ipp_ge:I3069>
+  <ipp_ge:I3069 unitRef="euro" decimals="2" contextRef="Ipre_Individual_TotalPatrimonioNetoMiembro">-630448.00</ipp_ge:I3069>
+  <ipp_ge:I3075 unitRef="euro" decimals="2" contextRef="Ipre_Individual_PrimaEmisionReservasMiembro">206411.00</ipp_ge:I3075>
+  <ipp_ge:I3075 unitRef="euro" decimals="2" contextRef="Ipre_Individual_TotalPatrimonioNetoMiembro">206411.00</ipp_ge:I3075>
+  <ipp_ge:I3078 unitRef="euro" decimals="2" contextRef="Ipre_Individual_PrimaEmisionReservasMiembro">206411.00</ipp_ge:I3078>
+  <ipp_ge:I3078 unitRef="euro" decimals="2" contextRef="Ipre_Individual_TotalPatrimonioNetoMiembro">206411.00</ipp_ge:I3078>
+  <ipp_ge:I3080 unitRef="euro" decimals="2" contextRef="Ipre_Individual_CapitalMiembro">11110244.00</ipp_ge:I3080>
+  <ipp_ge:I3080 unitRef="euro" decimals="2" contextRef="Ipre_Individual_PrimaEmisionReservasMiembro">315906960.00</ipp_ge:I3080>
+  <ipp_ge:I3080 unitRef="euro" decimals="2" contextRef="Ipre_Individual_AccionesParticipacionesPatrimonioPropiasMiembro">-3246192.00</ipp_ge:I3080>
+  <ipp_ge:I3080 unitRef="euro" decimals="2" contextRef="Ipre_Individual_ResultadoEjercicioMiembro">-11473852.00</ipp_ge:I3080>
+  <ipp_ge:I3080 unitRef="euro" decimals="2" contextRef="Ipre_Individual_AjustesPorCambiosValorMiembro">11811.00</ipp_ge:I3080>
+  <ipp_ge:I3080 unitRef="euro" decimals="2" contextRef="Ipre_Individual_SubvencionesDonacionesLegadosRecibidosMiembro">9145766.00</ipp_ge:I3080>
+  <ipp_ge:I3080 unitRef="euro" decimals="2" contextRef="Ipre_Individual_TotalPatrimonioNetoMiembro">321454737.00</ipp_ge:I3080>
+  <ipp_ge:I0435 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">36587571</ipp_ge:I0435>
+  <ipp_ge:I0435 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">34279813.00</ipp_ge:I0435>
+  <ipp_ge:I0405 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">-138735159</ipp_ge:I0405>
+  <ipp_ge:I0405 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-5769140.00</ipp_ge:I0405>
+  <ipp_ge:I0410 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">162601608</ipp_ge:I0410>
+  <ipp_ge:I0410 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">32630190.00</ipp_ge:I0410>
+  <ipp_ge:I0411 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">26957326</ipp_ge:I0411>
+  <ipp_ge:I0411 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">29723810.00</ipp_ge:I0411>
+  <ipp_ge:I0412 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">135644282</ipp_ge:I0412>
+  <ipp_ge:I0412 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">2906380.00</ipp_ge:I0412>
+  <ipp_ge:I0415 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">13622773</ipp_ge:I0415>
+  <ipp_ge:I0415 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">9461273.00</ipp_ge:I0415>
+  <ipp_ge:I0420 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">-901651</ipp_ge:I0420>
+  <ipp_ge:I0420 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-2042510.00</ipp_ge:I0420>
+  <ipp_ge:I0421 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">-3940411</ipp_ge:I0421>
+  <ipp_ge:I0421 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-2809970.00</ipp_ge:I0421>
+  <ipp_ge:I0423 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">38760</ipp_ge:I0423>
+  <ipp_ge:I0423 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">767460.00</ipp_ge:I0423>
+  <ipp_ge:I0430 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">3000000</ipp_ge:I0430>
+  <ipp_ge:I0460 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">-36909913</ipp_ge:I0460>
+  <ipp_ge:I0460 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-25135170.00</ipp_ge:I0460>
+  <ipp_ge:I0440 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">-47988905</ipp_ge:I0440>
+  <ipp_ge:I0440 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-45062120.00</ipp_ge:I0440>
+  <ipp_ge:I0441 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">-9577000</ipp_ge:I0441>
+  <ipp_ge:I0441 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-1728180.00</ipp_ge:I0441>
+  <ipp_ge:I0442 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">-38411905</ipp_ge:I0442>
+  <ipp_ge:I0442 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-43333940.00</ipp_ge:I0442>
+  <ipp_ge:I0450 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">11078992</ipp_ge:I0450>
+  <ipp_ge:I0450 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">19926950.00</ipp_ge:I0450>
+  <ipp_ge:I0451 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">607000</ipp_ge:I0451>
+  <ipp_ge:I0451 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">1016340.00</ipp_ge:I0451>
+  <ipp_ge:I0452 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">992</ipp_ge:I0452>
+  <ipp_ge:I0453 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">10471000</ipp_ge:I0453>
+  <ipp_ge:I0453 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">18910610.00</ipp_ge:I0453>
+  <ipp_ge:I0490 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">5993153</ipp_ge:I0490>
+  <ipp_ge:I0490 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-4744350.00</ipp_ge:I0490>
+  <ipp_ge:I0470 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">1360153</ipp_ge:I0470>
+  <ipp_ge:I0470 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-486930.00</ipp_ge:I0470>
+  <ipp_ge:I0471 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">1965744</ipp_ge:I0471>
+  <ipp_ge:I0473 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">-6186254</ipp_ge:I0473>
+  <ipp_ge:I0473 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-4163900.00</ipp_ge:I0473>
+  <ipp_ge:I0474 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">4988524</ipp_ge:I0474>
+  <ipp_ge:I0474 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">3534260.00</ipp_ge:I0474>
+  <ipp_ge:I0475 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">592139</ipp_ge:I0475>
+  <ipp_ge:I0475 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">142710.00</ipp_ge:I0475>
+  <ipp_ge:I0480 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">4633000</ipp_ge:I0480>
+  <ipp_ge:I0480 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-4257420.00</ipp_ge:I0480>
+  <ipp_ge:I0481 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">24865000</ipp_ge:I0481>
+  <ipp_ge:I0481 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">29258960.00</ipp_ge:I0481>
+  <ipp_ge:I0482 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">-20232000</ipp_ge:I0482>
+  <ipp_ge:I0482 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-33516380.00</ipp_ge:I0482>
+  <ipp_ge:I0492 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">-211743</ipp_ge:I0492>
+  <ipp_ge:I0492 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-306390.00</ipp_ge:I0492>
+  <ipp_ge:I0495 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">5459068</ipp_ge:I0495>
+  <ipp_ge:I0495 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">4093903.00</ipp_ge:I0495>
+  <ipp_ge:I0499 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">7261366</ipp_ge:I0499>
+  <ipp_ge:I0499 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">3167464.00</ipp_ge:I0499>
+  <ipp_ge:I0500 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">12720434</ipp_ge:I0500>
+  <ipp_ge:I0500 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">7261367.00</ipp_ge:I0500>
+  <ipp_ge:I0550 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">12720434</ipp_ge:I0550>
+  <ipp_ge:I0550 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">7261367.00</ipp_ge:I0550>
+  <ipp_ge:I0600 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">12720434</ipp_ge:I0600>
+  <ipp_ge:I0600 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">7261367.00</ipp_ge:I0600>
+  <ipp_ge:I1040 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">94543222</ipp_ge:I1040>
+  <ipp_ge:I1040 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">100144818.00</ipp_ge:I1040>
+  <ipp_ge:I1030 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">20211744</ipp_ge:I1030>
+  <ipp_ge:I1030 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">24899926.00</ipp_ge:I1030>
+  <ipp_ge:I1032 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">20211744</ipp_ge:I1032>
+  <ipp_ge:I1032 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">24899926.00</ipp_ge:I1032>
+  <ipp_ge:I1033 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">31206809</ipp_ge:I1033>
+  <ipp_ge:I1033 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">31140856.00</ipp_ge:I1033>
+  <ipp_ge:I1034 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">6118588</ipp_ge:I1034>
+  <ipp_ge:I1034 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">6118588.00</ipp_ge:I1034>
+  <ipp_ge:I1036 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">976723</ipp_ge:I1036>
+  <ipp_ge:I1036 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">1138402.00</ipp_ge:I1036>
+  <ipp_ge:I1037 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">33481760</ipp_ge:I1037>
+  <ipp_ge:I1037 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">34299448.00</ipp_ge:I1037>
+  <ipp_ge:I1038 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">2547598</ipp_ge:I1038>
+  <ipp_ge:I1038 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">2547598.00</ipp_ge:I1038>
+  <ipp_ge:I1085 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">93177851</ipp_ge:I1085>
+  <ipp_ge:I1085 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">120992565.00</ipp_ge:I1085>
+  <ipp_ge:I1055 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">23904176</ipp_ge:I1055>
+  <ipp_ge:I1055 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">22158463.00</ipp_ge:I1055>
+  <ipp_ge:I1060 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">34151899</ipp_ge:I1060>
+  <ipp_ge:I1060 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">63856852.00</ipp_ge:I1060>
+  <ipp_ge:I1061 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">30520970</ipp_ge:I1061>
+  <ipp_ge:I1061 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">61859200.00</ipp_ge:I1061>
+  <ipp_ge:I1062 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">867461</ipp_ge:I1062>
+  <ipp_ge:I1062 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">792808.00</ipp_ge:I1062>
+  <ipp_ge:I1063 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">2763468</ipp_ge:I1063>
+  <ipp_ge:I1063 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">1204844.00</ipp_ge:I1063>
+  <ipp_ge:I1070 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">7670567</ipp_ge:I1070>
+  <ipp_ge:I1070 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">18077152.00</ipp_ge:I1070>
+  <ipp_ge:I1075 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">3362215</ipp_ge:I1075>
+  <ipp_ge:I1075 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">2609972.00</ipp_ge:I1075>
+  <ipp_ge:I1072 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">24088994</ipp_ge:I1072>
+  <ipp_ge:I1072 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">14290126.00</ipp_ge:I1072>
+  <ipp_ge:I1100 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">187721073</ipp_ge:I1100>
+  <ipp_ge:I1100 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">221137383.00</ipp_ge:I1100>
+  <ipp_ge:I1195 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">22984795</ipp_ge:I1195>
+  <ipp_ge:I1195 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">48497258.00</ipp_ge:I1195>
+  <ipp_ge:I1180 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">26853373</ipp_ge:I1180>
+  <ipp_ge:I1180 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">52347880.00</ipp_ge:I1180>
+  <ipp_ge:I1171 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">11132464</ipp_ge:I1171>
+  <ipp_ge:I1171 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">11110244.00</ipp_ge:I1171>
+  <ipp_ge:I1161 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">11132464</ipp_ge:I1161>
+  <ipp_ge:I1161 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">11110244.00</ipp_ge:I1161>
+  <ipp_ge:I1172 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">71277621</ipp_ge:I1172>
+  <ipp_ge:I1172 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">69188941.00</ipp_ge:I1172>
+  <ipp_ge:I1173 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">46729577</ipp_ge:I1173>
+  <ipp_ge:I1173 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">54799683.00</ipp_ge:I1173>
+  <ipp_ge:I1174 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">-4470033</ipp_ge:I1174>
+  <ipp_ge:I1174 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">-3246641.00</ipp_ge:I1174>
+  <ipp_ge:I1178 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">-71071918</ipp_ge:I1178>
+  <ipp_ge:I1178 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">-55420682.00</ipp_ge:I1178>
+  <ipp_ge:I1175 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">-26744338</ipp_ge:I1175>
+  <ipp_ge:I1175 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">-24083665.00</ipp_ge:I1175>
+  <ipp_ge:I1188 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">12917</ipp_ge:I1188>
+  <ipp_ge:I1188 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">11811.00</ipp_ge:I1188>
+  <ipp_ge:I1187 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">12917</ipp_ge:I1187>
+  <ipp_ge:I1187 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">11811.00</ipp_ge:I1187>
+  <ipp_ge:I1181 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">12917</ipp_ge:I1181>
+  <ipp_ge:I1181 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">11811.00</ipp_ge:I1181>
+  <ipp_ge:I1189 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">26866290</ipp_ge:I1189>
+  <ipp_ge:I1189 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">52359691.00</ipp_ge:I1189>
+  <ipp_ge:I1193 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">-3881495</ipp_ge:I1193>
+  <ipp_ge:I1193 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">-3862433.00</ipp_ge:I1193>
+  <ipp_ge:I1120 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">81625679</ipp_ge:I1120>
+  <ipp_ge:I1120 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">85477099.00</ipp_ge:I1120>
+  <ipp_ge:I1117 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">2129631</ipp_ge:I1117>
+  <ipp_ge:I1117 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">2789825.00</ipp_ge:I1117>
+  <ipp_ge:I1116 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">73616356</ipp_ge:I1116>
+  <ipp_ge:I1116 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">67582586.00</ipp_ge:I1116>
+  <ipp_ge:I1131 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">49744017</ipp_ge:I1131>
+  <ipp_ge:I1131 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">41701071.00</ipp_ge:I1131>
+  <ipp_ge:I1132 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">23872339</ipp_ge:I1132>
+  <ipp_ge:I1132 unitRef="euro" decimals="0" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">25881515</ipp_ge:I1132>
+  <ipp_ge:I1135 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">5879692</ipp_ge:I1135>
+  <ipp_ge:I1135 unitRef="euro" decimals="0" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">15104688</ipp_ge:I1135>
+  <ipp_ge:I1130 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">83110599</ipp_ge:I1130>
+  <ipp_ge:I1130 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">87163026.00</ipp_ge:I1130>
+  <ipp_ge:I1122 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">348000</ipp_ge:I1122>
+  <ipp_ge:I1123 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">26395221</ipp_ge:I1123>
+  <ipp_ge:I1123 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">27906439.00</ipp_ge:I1123>
+  <ipp_ge:I1133 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">21511884</ipp_ge:I1133>
+  <ipp_ge:I1133 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">23468025.00</ipp_ge:I1133>
+  <ipp_ge:I1134 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">4883337</ipp_ge:I1134>
+  <ipp_ge:I1134 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">4438414.00</ipp_ge:I1134>
+  <ipp_ge:I1124 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">39914256</ipp_ge:I1124>
+  <ipp_ge:I1124 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">42170296.00</ipp_ge:I1124>
+  <ipp_ge:I1125 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">10591663</ipp_ge:I1125>
+  <ipp_ge:I1125 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">9049172.00</ipp_ge:I1125>
+  <ipp_ge:I1126 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">26844325</ipp_ge:I1126>
+  <ipp_ge:I1126 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">30125446.00</ipp_ge:I1126>
+  <ipp_ge:I1127 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">2478268</ipp_ge:I1127>
+  <ipp_ge:I1127 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">2995678.00</ipp_ge:I1127>
+  <ipp_ge:I1136 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">16453122</ipp_ge:I1136>
+  <ipp_ge:I1136 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">17086291.00</ipp_ge:I1136>
+  <ipp_ge:I1200 unitRef="euro" decimals="0" contextRef="Icur_PeriodoActualBalanceMiembro">187721073</ipp_ge:I1200>
+  <ipp_ge:I1200 unitRef="euro" decimals="2" contextRef="Ipre_PeriodoCierreAnteriorBalanceMiembro">221137383.00</ipp_ge:I1200>
+  <ipp_ge:I1205 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">82439319</ipp_ge:I1205>
+  <ipp_ge:I1205 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">100</ipp_ge:I1205>
+  <ipp_ge:I1205 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">88817512.00</ipp_ge:I1205>
+  <ipp_ge:I1205 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">100.00</ipp_ge:I1205>
+  <ipp_ge:I1205 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">179362854</ipp_ge:I1205>
+  <ipp_ge:I1205 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">100</ipp_ge:I1205>
+  <ipp_ge:I1205 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">180947498.00</ipp_ge:I1205>
+  <ipp_ge:I1205 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">100.00</ipp_ge:I1205>
+  <ipp_ge:I1206 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-885599</ipp_ge:I1206>
+  <ipp_ge:I1206 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-1.07</ipp_ge:I1206>
+  <ipp_ge:I1206 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">-2980713.00</ipp_ge:I1206>
+  <ipp_ge:I1206 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">-3.36</ipp_ge:I1206>
+  <ipp_ge:I1206 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">160683</ipp_ge:I1206>
+  <ipp_ge:I1206 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">0.09</ipp_ge:I1206>
+  <ipp_ge:I1206 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-2394999.00</ipp_ge:I1206>
+  <ipp_ge:I1206 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-1.32</ipp_ge:I1206>
+  <ipp_ge:I1207 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">287715</ipp_ge:I1207>
+  <ipp_ge:I1207 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">0.35</ipp_ge:I1207>
+  <ipp_ge:I1207 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">1357028.00</ipp_ge:I1207>
+  <ipp_ge:I1207 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">1.53</ipp_ge:I1207>
+  <ipp_ge:I1207 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">785013</ipp_ge:I1207>
+  <ipp_ge:I1207 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">0.44</ipp_ge:I1207>
+  <ipp_ge:I1207 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">1357028.00</ipp_ge:I1207>
+  <ipp_ge:I1207 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">0.75</ipp_ge:I1207>
+  <ipp_ge:I1208 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-18542931</ipp_ge:I1208>
+  <ipp_ge:I1208 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-22.49</ipp_ge:I1208>
+  <ipp_ge:I1208 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">-16918527.00</ipp_ge:I1208>
+  <ipp_ge:I1208 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">-19.05</ipp_ge:I1208>
+  <ipp_ge:I1208 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-44356335</ipp_ge:I1208>
+  <ipp_ge:I1208 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">-24.73</ipp_ge:I1208>
+  <ipp_ge:I1208 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-42861567.00</ipp_ge:I1208>
+  <ipp_ge:I1208 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-23.69</ipp_ge:I1208>
+  <ipp_ge:I1209 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">455891</ipp_ge:I1209>
+  <ipp_ge:I1209 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">0.55</ipp_ge:I1209>
+  <ipp_ge:I1209 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">714579.00</ipp_ge:I1209>
+  <ipp_ge:I1209 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">0.80</ipp_ge:I1209>
+  <ipp_ge:I1209 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">678280</ipp_ge:I1209>
+  <ipp_ge:I1209 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">0.38</ipp_ge:I1209>
+  <ipp_ge:I1209 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">1225374.00</ipp_ge:I1209>
+  <ipp_ge:I1209 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">0.68</ipp_ge:I1209>
+  <ipp_ge:I1217 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-27290909</ipp_ge:I1217>
+  <ipp_ge:I1217 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-33.10</ipp_ge:I1217>
+  <ipp_ge:I1217 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">-26619671.00</ipp_ge:I1217>
+  <ipp_ge:I1217 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">-29.97</ipp_ge:I1217>
+  <ipp_ge:I1217 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-55447280</ipp_ge:I1217>
+  <ipp_ge:I1217 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">-30.91</ipp_ge:I1217>
+  <ipp_ge:I1217 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-53574971.00</ipp_ge:I1217>
+  <ipp_ge:I1217 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-29.61</ipp_ge:I1217>
+  <ipp_ge:I1210 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-46727468</ipp_ge:I1210>
+  <ipp_ge:I1210 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-56.68</ipp_ge:I1210>
+  <ipp_ge:I1210 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">-50061530.00</ipp_ge:I1210>
+  <ipp_ge:I1210 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">-56.36</ipp_ge:I1210>
+  <ipp_ge:I1210 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-92559727</ipp_ge:I1210>
+  <ipp_ge:I1210 unitRef="euro" decimals="1" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">-51.6</ipp_ge:I1210>
+  <ipp_ge:I1210 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-96019637.00</ipp_ge:I1210>
+  <ipp_ge:I1210 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-53.06</ipp_ge:I1210>
+  <ipp_ge:I1211 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-3535600</ipp_ge:I1211>
+  <ipp_ge:I1211 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-4.29</ipp_ge:I1211>
+  <ipp_ge:I1211 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">-3700904.00</ipp_ge:I1211>
+  <ipp_ge:I1211 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">-4.17</ipp_ge:I1211>
+  <ipp_ge:I1211 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-7059992</ipp_ge:I1211>
+  <ipp_ge:I1211 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">-3.94</ipp_ge:I1211>
+  <ipp_ge:I1211 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-7242655.00</ipp_ge:I1211>
+  <ipp_ge:I1211 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-4.00</ipp_ge:I1211>
+  <ipp_ge:I1212 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">2645538</ipp_ge:I1212>
+  <ipp_ge:I1212 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">3.21</ipp_ge:I1212>
+  <ipp_ge:I1212 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">286183.00</ipp_ge:I1212>
+  <ipp_ge:I1212 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">0.32</ipp_ge:I1212>
+  <ipp_ge:I1212 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">2912890</ipp_ge:I1212>
+  <ipp_ge:I1212 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">1.62</ipp_ge:I1212>
+  <ipp_ge:I1212 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">307560.00</ipp_ge:I1212>
+  <ipp_ge:I1212 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">0.17</ipp_ge:I1212>
+  <ipp_ge:I1214 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-2160851</ipp_ge:I1214>
+  <ipp_ge:I1214 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-2.62</ipp_ge:I1214>
+  <ipp_ge:I1214 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">-181183.00</ipp_ge:I1214>
+  <ipp_ge:I1214 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">-0.20</ipp_ge:I1214>
+  <ipp_ge:I1214 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-2152586</ipp_ge:I1214>
+  <ipp_ge:I1214 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">-1.20</ipp_ge:I1214>
+  <ipp_ge:I1214 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-180983.00</ipp_ge:I1214>
+  <ipp_ge:I1214 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-0.10</ipp_ge:I1214>
+  <ipp_ge:I1215 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-10560</ipp_ge:I1215>
+  <ipp_ge:I1215 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-0.01</ipp_ge:I1215>
+  <ipp_ge:I1215 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">-175803.00</ipp_ge:I1215>
+  <ipp_ge:I1215 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">-0.20</ipp_ge:I1215>
+  <ipp_ge:I1215 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-4184</ipp_ge:I1215>
+  <ipp_ge:I1215 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">0.00</ipp_ge:I1215>
+  <ipp_ge:I1215 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-269980.00</ipp_ge:I1215>
+  <ipp_ge:I1215 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-0.15</ipp_ge:I1215>
+  <ipp_ge:I1245 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-13325455</ipp_ge:I1245>
+  <ipp_ge:I1245 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-16.16</ipp_ge:I1245>
+  <ipp_ge:I1245 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">-9463029.00</ipp_ge:I1245>
+  <ipp_ge:I1245 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">-10.65</ipp_ge:I1245>
+  <ipp_ge:I1245 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-17680384</ipp_ge:I1245>
+  <ipp_ge:I1245 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">-9.86</ipp_ge:I1245>
+  <ipp_ge:I1245 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-18707332.00</ipp_ge:I1245>
+  <ipp_ge:I1245 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-10.34</ipp_ge:I1245>
+  <ipp_ge:I1250 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">12511</ipp_ge:I1250>
+  <ipp_ge:I1250 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">0.02</ipp_ge:I1250>
+  <ipp_ge:I1250 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">53044.00</ipp_ge:I1250>
+  <ipp_ge:I1250 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">0.06</ipp_ge:I1250>
+  <ipp_ge:I1250 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">102328</ipp_ge:I1250>
+  <ipp_ge:I1250 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">0.06</ipp_ge:I1250>
+  <ipp_ge:I1250 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">255182.00</ipp_ge:I1250>
+  <ipp_ge:I1250 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">0.14</ipp_ge:I1250>
+  <ipp_ge:I1251 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-2724539</ipp_ge:I1251>
+  <ipp_ge:I1251 unitRef="euro" decimals="1" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-3.3</ipp_ge:I1251>
+  <ipp_ge:I1251 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">-2677134.00</ipp_ge:I1251>
+  <ipp_ge:I1251 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">-3.01</ipp_ge:I1251>
+  <ipp_ge:I1251 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-5124347</ipp_ge:I1251>
+  <ipp_ge:I1251 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">-2.86</ipp_ge:I1251>
+  <ipp_ge:I1251 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-5214011.00</ipp_ge:I1251>
+  <ipp_ge:I1251 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-2.88</ipp_ge:I1251>
+  <ipp_ge:I1252 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">14165.00</ipp_ge:I1252>
+  <ipp_ge:I1252 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">0.02</ipp_ge:I1252>
+  <ipp_ge:I1252 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">14165.00</ipp_ge:I1252>
+  <ipp_ge:I1252 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">0.01</ipp_ge:I1252>
+  <ipp_ge:I1254 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-78262</ipp_ge:I1254>
+  <ipp_ge:I1254 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-0.09</ipp_ge:I1254>
+  <ipp_ge:I1254 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">-216492.00</ipp_ge:I1254>
+  <ipp_ge:I1254 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">-0.24</ipp_ge:I1254>
+  <ipp_ge:I1254 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-156864</ipp_ge:I1254>
+  <ipp_ge:I1254 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">-0.09</ipp_ge:I1254>
+  <ipp_ge:I1254 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-406420.00</ipp_ge:I1254>
+  <ipp_ge:I1254 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-0.22</ipp_ge:I1254>
+  <ipp_ge:I1255 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-642010.00</ipp_ge:I1255>
+  <ipp_ge:I1255 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-0.35</ipp_ge:I1255>
+  <ipp_ge:I1256 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-2790290</ipp_ge:I1256>
+  <ipp_ge:I1256 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-3.38</ipp_ge:I1256>
+  <ipp_ge:I1256 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">-2826417.00</ipp_ge:I1256>
+  <ipp_ge:I1256 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">-3.18</ipp_ge:I1256>
+  <ipp_ge:I1256 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-5178883</ipp_ge:I1256>
+  <ipp_ge:I1256 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">-2.89</ipp_ge:I1256>
+  <ipp_ge:I1256 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-5993094.00</ipp_ge:I1256>
+  <ipp_ge:I1256 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-3.31</ipp_ge:I1256>
+  <ipp_ge:I1265 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-16115745</ipp_ge:I1265>
+  <ipp_ge:I1265 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-19.55</ipp_ge:I1265>
+  <ipp_ge:I1265 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">-12289446.00</ipp_ge:I1265>
+  <ipp_ge:I1265 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">-13.84</ipp_ge:I1265>
+  <ipp_ge:I1265 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-22859267</ipp_ge:I1265>
+  <ipp_ge:I1265 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">-12.74</ipp_ge:I1265>
+  <ipp_ge:I1265 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-24700426.00</ipp_ge:I1265>
+  <ipp_ge:I1265 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-13.65</ipp_ge:I1265>
+  <ipp_ge:I1270 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-3195297</ipp_ge:I1270>
+  <ipp_ge:I1270 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-3.88</ipp_ge:I1270>
+  <ipp_ge:I1270 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">1372176.00</ipp_ge:I1270>
+  <ipp_ge:I1270 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">1.54</ipp_ge:I1270>
+  <ipp_ge:I1270 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-3904133</ipp_ge:I1270>
+  <ipp_ge:I1270 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">-2.18</ipp_ge:I1270>
+  <ipp_ge:I1270 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">592243.00</ipp_ge:I1270>
+  <ipp_ge:I1270 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">0.33</ipp_ge:I1270>
+  <ipp_ge:I1280 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-19311042</ipp_ge:I1280>
+  <ipp_ge:I1280 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-23.42</ipp_ge:I1280>
+  <ipp_ge:I1280 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">-10917270.00</ipp_ge:I1280>
+  <ipp_ge:I1280 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">-12.29</ipp_ge:I1280>
+  <ipp_ge:I1280 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-26763400</ipp_ge:I1280>
+  <ipp_ge:I1280 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">-14.92</ipp_ge:I1280>
+  <ipp_ge:I1280 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-24108183.00</ipp_ge:I1280>
+  <ipp_ge:I1280 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-13.32</ipp_ge:I1280>
+  <ipp_ge:I1288 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-19311042</ipp_ge:I1288>
+  <ipp_ge:I1288 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-23.42</ipp_ge:I1288>
+  <ipp_ge:I1288 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">-10917270.00</ipp_ge:I1288>
+  <ipp_ge:I1288 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">-12.29</ipp_ge:I1288>
+  <ipp_ge:I1288 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-26763400</ipp_ge:I1288>
+  <ipp_ge:I1288 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">-14.92</ipp_ge:I1288>
+  <ipp_ge:I1288 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-24108183.00</ipp_ge:I1288>
+  <ipp_ge:I1288 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-13.32</ipp_ge:I1288>
+  <ipp_ge:I1300 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-19301536</ipp_ge:I1300>
+  <ipp_ge:I1300 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-23.41</ipp_ge:I1300>
+  <ipp_ge:I1300 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">-10902300.00</ipp_ge:I1300>
+  <ipp_ge:I1300 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">-12.27</ipp_ge:I1300>
+  <ipp_ge:I1300 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-26744338</ipp_ge:I1300>
+  <ipp_ge:I1300 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">-14.91</ipp_ge:I1300>
+  <ipp_ge:I1300 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-24083665.00</ipp_ge:I1300>
+  <ipp_ge:I1300 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-13.31</ipp_ge:I1300>
+  <ipp_ge:I1289 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoCorrienteActualMiembro_ImporteMiembro">-9506</ipp_ge:I1289>
+  <ipp_ge:I1289 unitRef="euro" decimals="2" contextRef="Dcur_PeriodoCorrienteActualMiembro_PorcentajeMiembro">-0.01</ipp_ge:I1289>
+  <ipp_ge:I1289 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_ImporteMiembro">-14970.00</ipp_ge:I1289>
+  <ipp_ge:I1289 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoCorrienteAnteriorMiembro_PorcentajeMiembro">-0.02</ipp_ge:I1289>
+  <ipp_ge:I1289 unitRef="euro" decimals="0" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-19062</ipp_ge:I1289>
+  <ipp_ge:I1289 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_PorcentajeMiembro">-0.01</ipp_ge:I1289>
+  <ipp_ge:I1289 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-24518.00</ipp_ge:I1289>
+  <ipp_ge:I1289 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_PorcentajeMiembro">-0.01</ipp_ge:I1289>
+  <ipp_ge:I1290 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-0.12</ipp_ge:I1290>
+  <ipp_ge:I1290 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-0.11</ipp_ge:I1290>
+  <ipp_ge:I1295 unitRef="euro" decimals="2" contextRef="Dcur_AcumuladoActualMiembro_ImporteMiembro">-0.12</ipp_ge:I1295>
+  <ipp_ge:I1295 unitRef="euro" decimals="2" contextRef="Dpre_AcumuladoAnteriorMiembro_ImporteMiembro">-0.11</ipp_ge:I1295>
+  <ipp_ge:I1305 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">-26763400</ipp_ge:I1305>
+  <ipp_ge:I1305 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-24108183.00</ipp_ge:I1305>
+  <ipp_ge:I1310 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">6125</ipp_ge:I1310>
+  <ipp_ge:I1310 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">26289.00</ipp_ge:I1310>
+  <ipp_ge:I1343 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">6125</ipp_ge:I1343>
+  <ipp_ge:I1343 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">26289.00</ipp_ge:I1343>
+  <ipp_ge:I1350 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">1476</ipp_ge:I1350>
+  <ipp_ge:I1350 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">4034.00</ipp_ge:I1350>
+  <ipp_ge:I1355 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">1476</ipp_ge:I1355>
+  <ipp_ge:I1355 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">5379.00</ipp_ge:I1355>
+  <ipp_ge:I1356 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">1476</ipp_ge:I1356>
+  <ipp_ge:I1356 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">5379.00</ipp_ge:I1356>
+  <ipp_ge:I1380 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-1345.00</ipp_ge:I1380>
+  <ipp_ge:I1400 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">-26755799</ipp_ge:I1400>
+  <ipp_ge:I1400 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-24077860.00</ipp_ge:I1400>
+  <ipp_ge:I1398 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">-26736737</ipp_ge:I1398>
+  <ipp_ge:I1398 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-24053342.00</ipp_ge:I1398>
+  <ipp_ge:I1399 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">-19062</ipp_ge:I1399>
+  <ipp_ge:I1399 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-24518.00</ipp_ge:I1399>
+  <ipp_ge:I3110 unitRef="euro" decimals="2" contextRef="Icur_Consolidado_CapitalMiembro">11110244.00</ipp_ge:I3110>
+  <ipp_ge:I3110 unitRef="euro" decimals="0" contextRef="Icur_Consolidado_PrimaEmisionReservasMiembro">44484326</ipp_ge:I3110>
+  <ipp_ge:I3110 unitRef="euro" decimals="2" contextRef="Icur_Consolidado_AccionesParticipacionesPatrimonioPropiasMiembro">-3246641.00</ipp_ge:I3110>
+  <ipp_ge:I3110 unitRef="euro" decimals="2" contextRef="Icur_Consolidado_AjustesPorCambiosValorMiembro">11811.00</ipp_ge:I3110>
+  <ipp_ge:I3110 unitRef="euro" decimals="2" contextRef="Icur_Consolidado_InteresesMinoritariosMiembro">-3862433.00</ipp_ge:I3110>
+  <ipp_ge:I3110 unitRef="euro" decimals="2" contextRef="Icur_Consolidado_TotalPatrimonioNetoMiembro">48497307.00</ipp_ge:I3110>
+  <ipp_ge:I3112 unitRef="euro" decimals="0" contextRef="Icur_Consolidado_PrimaEmisionReservasMiembro">-3039</ipp_ge:I3112>
+  <ipp_ge:I3112 unitRef="euro" decimals="0" contextRef="Icur_Consolidado_TotalPatrimonioNetoMiembro">-3039</ipp_ge:I3112>
+  <ipp_ge:I3115 unitRef="euro" decimals="2" contextRef="Icur_Consolidado_CapitalMiembro">11110244.00</ipp_ge:I3115>
+  <ipp_ge:I3115 unitRef="euro" decimals="0" contextRef="Icur_Consolidado_PrimaEmisionReservasMiembro">44481287</ipp_ge:I3115>
+  <ipp_ge:I3115 unitRef="euro" decimals="2" contextRef="Icur_Consolidado_AccionesParticipacionesPatrimonioPropiasMiembro">-3246641.00</ipp_ge:I3115>
+  <ipp_ge:I3115 unitRef="euro" decimals="2" contextRef="Icur_Consolidado_AjustesPorCambiosValorMiembro">11811.00</ipp_ge:I3115>
+  <ipp_ge:I3115 unitRef="euro" decimals="2" contextRef="Icur_Consolidado_InteresesMinoritariosMiembro">-3862433.00</ipp_ge:I3115>
+  <ipp_ge:I3115 unitRef="euro" decimals="2" contextRef="Icur_Consolidado_TotalPatrimonioNetoMiembro">48494268.00</ipp_ge:I3115>
+  <ipp_ge:I3120 unitRef="euro" decimals="0" contextRef="Icur_Consolidado_PrimaEmisionReservasMiembro">6125</ipp_ge:I3120>
+  <ipp_ge:I3120 unitRef="euro" decimals="0" contextRef="Icur_Consolidado_ResultadoEjercicioAtribuidoEntidadDominanteMiembro">-26744338</ipp_ge:I3120>
+  <ipp_ge:I3120 unitRef="euro" decimals="0" contextRef="Icur_Consolidado_AjustesPorCambiosValorMiembro">1476</ipp_ge:I3120>
+  <ipp_ge:I3120 unitRef="euro" decimals="0" contextRef="Icur_Consolidado_InteresesMinoritariosMiembro">-19062</ipp_ge:I3120>
+  <ipp_ge:I3120 unitRef="euro" decimals="0" contextRef="Icur_Consolidado_TotalPatrimonioNetoMiembro">-26755799</ipp_ge:I3120>
+  <ipp_ge:I3125 unitRef="euro" decimals="0" contextRef="Icur_Consolidado_CapitalMiembro">22220</ipp_ge:I3125>
+  <ipp_ge:I3125 unitRef="euro" decimals="0" contextRef="Icur_Consolidado_PrimaEmisionReservasMiembro">2699195</ipp_ge:I3125>
+  <ipp_ge:I3125 unitRef="euro" decimals="0" contextRef="Icur_Consolidado_AccionesParticipacionesPatrimonioPropiasMiembro">-1223841</ipp_ge:I3125>
+  <ipp_ge:I3125 unitRef="euro" decimals="0" contextRef="Icur_Consolidado_TotalPatrimonioNetoMiembro">1497574</ipp_ge:I3125>
+  <ipp_ge:I3126 unitRef="euro" decimals="0" contextRef="Icur_Consolidado_CapitalMiembro">22220</ipp_ge:I3126>
+  <ipp_ge:I3126 unitRef="euro" decimals="0" contextRef="Icur_Consolidado_PrimaEmisionReservasMiembro">2088680</ipp_ge:I3126>
+  <ipp_ge:I3126 unitRef="euro" decimals="0" contextRef="Icur_Consolidado_TotalPatrimonioNetoMiembro">2110900</ipp_ge:I3126>
+  <ipp_ge:I3129 unitRef="euro" decimals="0" contextRef="Icur_Consolidado_PrimaEmisionReservasMiembro">610515</ipp_ge:I3129>
+  <ipp_ge:I3129 unitRef="euro" decimals="0" contextRef="Icur_Consolidado_AccionesParticipacionesPatrimonioPropiasMiembro">-1223841</ipp_ge:I3129>
+  <ipp_ge:I3129 unitRef="euro" decimals="0" contextRef="Icur_Consolidado_TotalPatrimonioNetoMiembro">-613326</ipp_ge:I3129>
+  <ipp_ge:I3135 unitRef="euro" decimals="0" contextRef="Icur_Consolidado_PrimaEmisionReservasMiembro">-251248</ipp_ge:I3135>
+  <ipp_ge:I3135 unitRef="euro" decimals="0" contextRef="Icur_Consolidado_TotalPatrimonioNetoMiembro">-251248</ipp_ge:I3135>
+  <ipp_ge:I3138 unitRef="euro" decimals="0" contextRef="Icur_Consolidado_PrimaEmisionReservasMiembro">-251248</ipp_ge:I3138>
+  <ipp_ge:I3138 unitRef="euro" decimals="0" contextRef="Icur_Consolidado_TotalPatrimonioNetoMiembro">-251248</ipp_ge:I3138>
+  <ipp_ge:I3140 unitRef="euro" decimals="0" contextRef="Icur_Consolidado_CapitalMiembro">11132464</ipp_ge:I3140>
+  <ipp_ge:I3140 unitRef="euro" decimals="0" contextRef="Icur_Consolidado_PrimaEmisionReservasMiembro">46935359</ipp_ge:I3140>
+  <ipp_ge:I3140 unitRef="euro" decimals="2" contextRef="Icur_Consolidado_AccionesParticipacionesPatrimonioPropiasMiembro">-4470482.00</ipp_ge:I3140>
+  <ipp_ge:I3140 unitRef="euro" decimals="0" contextRef="Icur_Consolidado_ResultadoEjercicioAtribuidoEntidadDominanteMiembro">-26744338</ipp_ge:I3140>
+  <ipp_ge:I3140 unitRef="euro" decimals="0" contextRef="Icur_Consolidado_AjustesPorCambiosValorMiembro">13287</ipp_ge:I3140>
+  <ipp_ge:I3140 unitRef="euro" decimals="2" contextRef="Icur_Consolidado_InteresesMinoritariosMiembro">-3881495.00</ipp_ge:I3140>
+  <ipp_ge:I3140 unitRef="euro" decimals="0" contextRef="Icur_Consolidado_TotalPatrimonioNetoMiembro">22984795</ipp_ge:I3140>
+  <ipp_ge:I3150 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_CapitalMiembro">11110244.00</ipp_ge:I3150>
+  <ipp_ge:I3150 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_PrimaEmisionReservasMiembro">68701250.00</ipp_ge:I3150>
+  <ipp_ge:I3150 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_AccionesParticipacionesPatrimonioPropiasMiembro">-2944493.00</ipp_ge:I3150>
+  <ipp_ge:I3150 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_AjustesPorCambiosValorMiembro">7777.00</ipp_ge:I3150>
+  <ipp_ge:I3150 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_InteresesMinoritariosMiembro">-3837915.00</ipp_ge:I3150>
+  <ipp_ge:I3150 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_TotalPatrimonioNetoMiembro">73036863.00</ipp_ge:I3150>
+  <ipp_ge:I3155 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_CapitalMiembro">11110244.00</ipp_ge:I3155>
+  <ipp_ge:I3155 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_PrimaEmisionReservasMiembro">68701250.00</ipp_ge:I3155>
+  <ipp_ge:I3155 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_AccionesParticipacionesPatrimonioPropiasMiembro">-2944493.00</ipp_ge:I3155>
+  <ipp_ge:I3155 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_AjustesPorCambiosValorMiembro">7777.00</ipp_ge:I3155>
+  <ipp_ge:I3155 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_InteresesMinoritariosMiembro">-3837915.00</ipp_ge:I3155>
+  <ipp_ge:I3155 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_TotalPatrimonioNetoMiembro">73036863.00</ipp_ge:I3155>
+  <ipp_ge:I3160 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_PrimaEmisionReservasMiembro">26289.00</ipp_ge:I3160>
+  <ipp_ge:I3160 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_ResultadoEjercicioAtribuidoEntidadDominanteMiembro">-24083665.00</ipp_ge:I3160>
+  <ipp_ge:I3160 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_AjustesPorCambiosValorMiembro">4034.00</ipp_ge:I3160>
+  <ipp_ge:I3160 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_InteresesMinoritariosMiembro">-24518.00</ipp_ge:I3160>
+  <ipp_ge:I3160 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_TotalPatrimonioNetoMiembro">-24077860.00</ipp_ge:I3160>
+  <ipp_ge:I3165 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_PrimaEmisionReservasMiembro">-328748.00</ipp_ge:I3165>
+  <ipp_ge:I3165 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_AccionesParticipacionesPatrimonioPropiasMiembro">-302148.00</ipp_ge:I3165>
+  <ipp_ge:I3165 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_TotalPatrimonioNetoMiembro">-630896.00</ipp_ge:I3165>
+  <ipp_ge:I3169 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_PrimaEmisionReservasMiembro">-328748.00</ipp_ge:I3169>
+  <ipp_ge:I3169 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_AccionesParticipacionesPatrimonioPropiasMiembro">-302148.00</ipp_ge:I3169>
+  <ipp_ge:I3169 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_TotalPatrimonioNetoMiembro">-630896.00</ipp_ge:I3169>
+  <ipp_ge:I3175 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_PrimaEmisionReservasMiembro">169151.00</ipp_ge:I3175>
+  <ipp_ge:I3175 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_TotalPatrimonioNetoMiembro">169151.00</ipp_ge:I3175>
+  <ipp_ge:I3178 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_PrimaEmisionReservasMiembro">169151.00</ipp_ge:I3178>
+  <ipp_ge:I3178 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_TotalPatrimonioNetoMiembro">169151.00</ipp_ge:I3178>
+  <ipp_ge:I3180 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_CapitalMiembro">11110244.00</ipp_ge:I3180>
+  <ipp_ge:I3180 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_PrimaEmisionReservasMiembro">68567942.00</ipp_ge:I3180>
+  <ipp_ge:I3180 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_AccionesParticipacionesPatrimonioPropiasMiembro">-3246641.00</ipp_ge:I3180>
+  <ipp_ge:I3180 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_ResultadoEjercicioAtribuidoEntidadDominanteMiembro">-24083665.00</ipp_ge:I3180>
+  <ipp_ge:I3180 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_AjustesPorCambiosValorMiembro">11811.00</ipp_ge:I3180>
+  <ipp_ge:I3180 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_InteresesMinoritariosMiembro">-3862433.00</ipp_ge:I3180>
+  <ipp_ge:I3180 unitRef="euro" decimals="2" contextRef="Ipre_Consolidado_TotalPatrimonioNetoMiembro">48497258.00</ipp_ge:I3180>
+  <ipp_ge:I1435 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">-1459893</ipp_ge:I1435>
+  <ipp_ge:I1435 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-8415084.00</ipp_ge:I1435>
+  <ipp_ge:I1405 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">-22859267</ipp_ge:I1405>
+  <ipp_ge:I1405 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-24700426.00</ipp_ge:I1405>
+  <ipp_ge:I1410 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">13202290</ipp_ge:I1410>
+  <ipp_ge:I1410 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">13678422.00</ipp_ge:I1410>
+  <ipp_ge:I1411 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">7059992</ipp_ge:I1411>
+  <ipp_ge:I1411 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">7242655.00</ipp_ge:I1411>
+  <ipp_ge:I1412 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">6142298</ipp_ge:I1412>
+  <ipp_ge:I1412 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">6435767.00</ipp_ge:I1412>
+  <ipp_ge:I1415 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">10199166</ipp_ge:I1415>
+  <ipp_ge:I1415 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">7980920.00</ipp_ge:I1415>
+  <ipp_ge:I1420 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">-2002082</ipp_ge:I1420>
+  <ipp_ge:I1420 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-5374000.00</ipp_ge:I1420>
+  <ipp_ge:I1421 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">-5104410</ipp_ge:I1421>
+  <ipp_ge:I1421 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-5241000.00</ipp_ge:I1421>
+  <ipp_ge:I1423 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">102328</ipp_ge:I1423>
+  <ipp_ge:I1423 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">241000.00</ipp_ge:I1423>
+  <ipp_ge:I1424 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">3000000</ipp_ge:I1424>
+  <ipp_ge:I1424 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-374000.00</ipp_ge:I1424>
+  <ipp_ge:I1460 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">5994700</ipp_ge:I1460>
+  <ipp_ge:I1460 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">13779000.00</ipp_ge:I1460>
+  <ipp_ge:I1440 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">-32331805</ipp_ge:I1440>
+  <ipp_ge:I1440 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-38674000.00</ipp_ge:I1440>
+  <ipp_ge:I1442 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">-4664756</ipp_ge:I1442>
+  <ipp_ge:I1442 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-6093000.00</ipp_ge:I1442>
+  <ipp_ge:I1443 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">-27667049</ipp_ge:I1443>
+  <ipp_ge:I1443 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-32581000.00</ipp_ge:I1443>
+  <ipp_ge:I1450 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">38326505</ipp_ge:I1450>
+  <ipp_ge:I1450 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">52558000.00</ipp_ge:I1450>
+  <ipp_ge:I1452 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">84756</ipp_ge:I1452>
+  <ipp_ge:I1452 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">129000.00</ipp_ge:I1452>
+  <ipp_ge:I1453 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">38241749</ipp_ge:I1453>
+  <ipp_ge:I1453 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">52429000.00</ipp_ge:I1453>
+  <ipp_ge:I1455 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-105000.00</ipp_ge:I1455>
+  <ipp_ge:I1458 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-105000.00</ipp_ge:I1458>
+  <ipp_ge:I1490 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">5263061</ipp_ge:I1490>
+  <ipp_ge:I1490 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">1297552.00</ipp_ge:I1490>
+  <ipp_ge:I1470 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">769818</ipp_ge:I1470>
+  <ipp_ge:I1470 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-630448.00</ipp_ge:I1470>
+  <ipp_ge:I1471 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">1967476</ipp_ge:I1471>
+  <ipp_ge:I1473 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">-6186254</ipp_ge:I1473>
+  <ipp_ge:I1473 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-4163901.00</ipp_ge:I1473>
+  <ipp_ge:I1474 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">4988596</ipp_ge:I1474>
+  <ipp_ge:I1474 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">3533453.00</ipp_ge:I1474>
+  <ipp_ge:I1480 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">3291241</ipp_ge:I1480>
+  <ipp_ge:I1480 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">1926000.00</ipp_ge:I1480>
+  <ipp_ge:I1481 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">19943793</ipp_ge:I1481>
+  <ipp_ge:I1481 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">20140000.00</ipp_ge:I1481>
+  <ipp_ge:I1482 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">-16652552</ipp_ge:I1482>
+  <ipp_ge:I1482 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">-18214000.00</ipp_ge:I1482>
+  <ipp_ge:I1486 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">1202002</ipp_ge:I1486>
+  <ipp_ge:I1486 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">2000.00</ipp_ge:I1486>
+  <ipp_ge:I1488 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">1202002</ipp_ge:I1488>
+  <ipp_ge:I1488 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">2000.00</ipp_ge:I1488>
+  <ipp_ge:I1492 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">0</ipp_ge:I1492>
+  <ipp_ge:I1495 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">9797868</ipp_ge:I1495>
+  <ipp_ge:I1495 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">6661468.00</ipp_ge:I1495>
+  <ipp_ge:I1499 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">14290126</ipp_ge:I1499>
+  <ipp_ge:I1499 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">7628658.00</ipp_ge:I1499>
+  <ipp_ge:I1500 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">24087994</ipp_ge:I1500>
+  <ipp_ge:I1500 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">14290126.00</ipp_ge:I1500>
+  <ipp_ge:I1550 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">24087994</ipp_ge:I1550>
+  <ipp_ge:I1550 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">14290126.00</ipp_ge:I1550>
+  <ipp_ge:I1600 unitRef="euro" decimals="0" contextRef="Dcur_PeriodoActualMiembro">24087994</ipp_ge:I1600>
+  <ipp_ge:I1600 unitRef="euro" decimals="2" contextRef="Dpre_PeriodoAnteriorMiembro">14290126.00</ipp_ge:I1600>
+  <ipp_ge:I2210 unitRef="euro" decimals="0" contextRef="Icur_AreaGeograficaIndividualMiembro_PeriodoActualMiembro">13588170</ipp_ge:I2210>
+  <ipp_ge:I2210 unitRef="euro" decimals="2" contextRef="Ipre_AreaGeograficaIndividualMiembro_PeriodoAnteriorMiembro">14686206.00</ipp_ge:I2210>
+  <ipp_ge:I2210 unitRef="euro" decimals="0" contextRef="Icur_AreaGeograficaConsolidadoMiembro_PeriodoActualMiembro">60650092</ipp_ge:I2210>
+  <ipp_ge:I2210 unitRef="euro" decimals="0" contextRef="Ipre_AreaGeograficaConsolidadoMiembro_PeriodoAnteriorMiembro">60161745</ipp_ge:I2210>
+  <ipp_ge:I2215 unitRef="euro" decimals="0" contextRef="Icur_AreaGeograficaIndividualMiembro_PeriodoActualMiembro">75344298</ipp_ge:I2215>
+  <ipp_ge:I2215 unitRef="euro" decimals="2" contextRef="Ipre_AreaGeograficaIndividualMiembro_PeriodoAnteriorMiembro">78086890.00</ipp_ge:I2215>
+  <ipp_ge:I2215 unitRef="euro" decimals="0" contextRef="Icur_AreaGeograficaConsolidadoMiembro_PeriodoActualMiembro">118712762</ipp_ge:I2215>
+  <ipp_ge:I2215 unitRef="euro" decimals="0" contextRef="Ipre_AreaGeograficaConsolidadoMiembro_PeriodoAnteriorMiembro">120785753</ipp_ge:I2215>
+  <ipp_ge:I2216 unitRef="euro" decimals="0" contextRef="Icur_AreaGeograficaIndividualMiembro_PeriodoActualMiembro">54329037</ipp_ge:I2216>
+  <ipp_ge:I2216 unitRef="euro" decimals="2" contextRef="Ipre_AreaGeograficaIndividualMiembro_PeriodoAnteriorMiembro">68269959.00</ipp_ge:I2216>
+  <ipp_ge:I2216 unitRef="euro" decimals="0" contextRef="Icur_AreaGeograficaConsolidadoMiembro_PeriodoActualMiembro">93437641</ipp_ge:I2216>
+  <ipp_ge:I2216 unitRef="euro" decimals="0" contextRef="Ipre_AreaGeograficaConsolidadoMiembro_PeriodoAnteriorMiembro">104827824</ipp_ge:I2216>
+  <ipp_ge:I2217 unitRef="euro" decimals="0" contextRef="Icur_AreaGeograficaIndividualMiembro_PeriodoActualMiembro">2964863</ipp_ge:I2217>
+  <ipp_ge:I2217 unitRef="euro" decimals="2" contextRef="Ipre_AreaGeograficaIndividualMiembro_PeriodoAnteriorMiembro">2632945.00</ipp_ge:I2217>
+  <ipp_ge:I2217 unitRef="euro" decimals="0" contextRef="Icur_AreaGeograficaConsolidadoMiembro_PeriodoActualMiembro">8988538</ipp_ge:I2217>
+  <ipp_ge:I2217 unitRef="euro" decimals="2" contextRef="Ipre_AreaGeograficaConsolidadoMiembro_PeriodoAnteriorMiembro">4912820.00</ipp_ge:I2217>
+  <ipp_ge:I2218 unitRef="euro" decimals="0" contextRef="Icur_AreaGeograficaIndividualMiembro_PeriodoActualMiembro">18050398</ipp_ge:I2218>
+  <ipp_ge:I2218 unitRef="euro" decimals="2" contextRef="Ipre_AreaGeograficaIndividualMiembro_PeriodoAnteriorMiembro">7183986.00</ipp_ge:I2218>
+  <ipp_ge:I2218 unitRef="euro" decimals="0" contextRef="Icur_AreaGeograficaConsolidadoMiembro_PeriodoActualMiembro">16286583</ipp_ge:I2218>
+  <ipp_ge:I2218 unitRef="euro" decimals="2" contextRef="Ipre_AreaGeograficaConsolidadoMiembro_PeriodoAnteriorMiembro">11045109.00</ipp_ge:I2218>
+  <ipp_ge:I2220 unitRef="euro" decimals="0" contextRef="Icur_AreaGeograficaIndividualMiembro_PeriodoActualMiembro">88932468</ipp_ge:I2220>
+  <ipp_ge:I2220 unitRef="euro" decimals="2" contextRef="Ipre_AreaGeograficaIndividualMiembro_PeriodoAnteriorMiembro">92773096.00</ipp_ge:I2220>
+  <ipp_ge:I2220 unitRef="euro" decimals="0" contextRef="Icur_AreaGeograficaConsolidadoMiembro_PeriodoActualMiembro">179362854</ipp_ge:I2220>
+  <ipp_ge:I2220 unitRef="euro" decimals="0" contextRef="Ipre_AreaGeograficaConsolidadoMiembro_PeriodoAnteriorMiembro">180947498</ipp_ge:I2220>
+  <ipp_ge:I2295 unitRef="euro" decimals="0" contextRef="Icur_IndividualMiembro_PeriodoActualMiembro">373</ipp_ge:I2295>
+  <ipp_ge:I2295 unitRef="euro" decimals="0" contextRef="Ipre_IndividualMiembro_PeriodoAnteriorMiembro">361</ipp_ge:I2295>
+  <ipp_ge:I2295 unitRef="euro" decimals="0" contextRef="Icur_ConsolidadoMiembro_PeriodoActualMiembro">727</ipp_ge:I2295>
+  <ipp_ge:I2295 unitRef="euro" decimals="0" contextRef="Ipre_ConsolidadoMiembro_PeriodoAnteriorMiembro">713</ipp_ge:I2295>
+  <ipp_ge:I2296 unitRef="euro" decimals="0" contextRef="Icur_IndividualMiembro_PeriodoActualMiembro">155</ipp_ge:I2296>
+  <ipp_ge:I2296 unitRef="euro" decimals="0" contextRef="Ipre_IndividualMiembro_PeriodoAnteriorMiembro">146</ipp_ge:I2296>
+  <ipp_ge:I2296 unitRef="euro" decimals="0" contextRef="Icur_ConsolidadoMiembro_PeriodoActualMiembro">336</ipp_ge:I2296>
+  <ipp_ge:I2296 unitRef="euro" decimals="0" contextRef="Ipre_ConsolidadoMiembro_PeriodoAnteriorMiembro">330</ipp_ge:I2296>
+  <ipp_ge:I2297 unitRef="euro" decimals="0" contextRef="Icur_IndividualMiembro_PeriodoActualMiembro">218</ipp_ge:I2297>
+  <ipp_ge:I2297 unitRef="euro" decimals="0" contextRef="Ipre_IndividualMiembro_PeriodoAnteriorMiembro">215</ipp_ge:I2297>
+  <ipp_ge:I2297 unitRef="euro" decimals="0" contextRef="Icur_ConsolidadoMiembro_PeriodoActualMiembro">391</ipp_ge:I2297>
+  <ipp_ge:I2297 unitRef="euro" decimals="0" contextRef="Ipre_ConsolidadoMiembro_PeriodoAnteriorMiembro">383</ipp_ge:I2297>
+</xbrli:xbrl>
