@@ -98,7 +98,7 @@ try
                    
                     NodeList documento = monster.nodosDocumeto();
                     System.out.println("Cubo de fechas.....");
-                    monster.refyear = monster.anualidadList(documento);
+                    monster.refyear = monster.anualidadList(documento,"filtro");
                     System.out.println("Entidad.....");
                     monster.entidad= monster.BuscaEntidad(documento, "Entity" );
                     /*monster.searchTags(documento, "BalanceConsolidado" );*/

@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xbrli:xbrl xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xbrll="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ipp-gen="http://www.cnmv.es/ipp/gen/1-2008/2008-01-01" xmlns:es-be-fs="http://www.bde.es/es/fr/ifrs/basi/bde/4-2004/2006-01-01" xmlns:ipp-com="http://www.cnmv.es/ipp/com/1-2008/2008-01-01" xmlns:dgi-lc-es="http://www.xbrl.org.es/es/2007/dgi/gp/lc-es/2007-05-30" xmlns:dgi-lc-int="http://www.xbrl.org.es/es/2007/dgi/gp/lc-int/2007-05-30" xmlns:ifrs-gp="http://xbrl.iasb.org/int/fr/ifrs/gp/2005-05-15" xmlns:dgi-est-gen="http://www.xbrl.org.es/es/2007/dgi/gp/est-gen/2007-05-30" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:ipp="http://www.cnmv.es/ipp/2008">
+	<xbrll:schemaRef xlink:type="simple" xlink:href="ipp-gen-2008-01-01.xsd" xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"/>
+	<xbrli:context id="S22014_A-28294726_dci">
+		<xbrli:entity>
+			<xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-28294726">ENAGAS, S.A.</xbrli:identifier>
+			<xbrli:segment>
+				<ipp:version>6.0.1</ipp:version>
+			</xbrli:segment>
+		</xbrli:entity>
+		<xbrli:period>
+			<xbrli:startDate>2014-01-01</xbrli:startDate>
+			<xbrli:endDate>2014-12-31</xbrli:endDate>
+		</xbrli:period>
+		<xbrli:scenario>
+			<ipp:Modelo>GE</ipp:Modelo>
+			<ipp:Apartado>Individual</ipp:Apartado>
+		</xbrli:scenario>
+	</xbrli:context>
+	<xbrli:context id="S22014_A-28294726_dcc">
+		<xbrli:entity>
+			<xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-28294726">ENAGAS, S.A.</xbrli:identifier>
+			<xbrli:segment>
+				<ipp:version>6.0.1</ipp:version>
+			</xbrli:segment>
+		</xbrli:entity>
+		<xbrli:period>
+			<xbrli:startDate>2014-01-01</xbrli:startDate>
+			<xbrli:endDate>2014-12-31</xbrli:endDate>
+		</xbrli:period>
+		<xbrli:scenario>
+			<ipp:Modelo>GE</ipp:Modelo>
+			<ipp:Apartado>Consolidado</ipp:Apartado>
+		</xbrli:scenario>
+	</xbrli:context>
+	<xbrli:context id="S22013_A-28294726_dpai">
+		<xbrli:entity>
+			<xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-28294726">ENAGAS, S.A.</xbrli:identifier>
+			<xbrli:segment>
+				<ipp:version>6.0.1</ipp:version>
+			</xbrli:segment>
+		</xbrli:entity>
+		<xbrli:period>
+			<xbrli:startDate>2013-01-01</xbrli:startDate>
+			<xbrli:endDate>2013-12-31</xbrli:endDate>
+		</xbrli:period>
+		<xbrli:scenario>
+			<ipp:Modelo>GE</ipp:Modelo>
+			<ipp:Apartado>Individual</ipp:Apartado>
+		</xbrli:scenario>
+	</xbrli:context>
+	<xbrli:context id="S22013_A-28294726_dpac">
+		<xbrli:entity>
+			<xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-28294726">ENAGAS, S.A.</xbrli:identifier>
+			<xbrli:segment>
+				<ipp:version>6.0.1</ipp:version>
+			</xbrli:segment>
+		</xbrli:entity>
+		<xbrli:period>
+			<xbrli:startDate>2013-01-01</xbrli:startDate>
+			<xbrli:endDate>2013-12-31</xbrli:endDate>
+		</xbrli:period>
+		<xbrli:scenario>
+			<ipp:Modelo>GE</ipp:Modelo>
+			<ipp:Apartado>Consolidado</ipp:Apartado>
+		</xbrli:scenario>
+	</xbrli:context>
+	<xbrli:context id="S22014_A-28294726_dcoi">
+		<xbrli:entity>
+			<xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-28294726">ENAGAS, S.A.</xbrli:identifier>
+			<xbrli:segment>
+				<ipp:version>6.0.1</ipp:version>
+			</xbrli:segment>
+		</xbrli:entity>
+		<xbrli:period>
+			<xbrli:startDate>2014-07-01</xbrli:startDate>
+			<xbrli:endDate>2014-12-31</xbrli:endDate>
+		</xbrli:period>
+		<xbrli:scenario>
+			<ipp:Modelo>GE</ipp:Modelo>
+			<ipp:Apartado>Individual</ipp:Apartado>
+		</xbrli:scenario>
+	</xbrli:context>
+	<xbrli:context id="S22014_A-28294726_dcoc">
+		<xbrli:entity>
+			<xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-28294726">ENAGAS, S.A.</xbrli:identifier>
+			<xbrli:segment>
+				<ipp:version>6.0.1</ipp:version>
+			</xbrli:segment>
+		</xbrli:entity>
+		<xbrli:period>
+			<xbrli:startDate>2014-07-01</xbrli:startDate>
+			<xbrli:endDate>2014-12-31</xbrli:endDate>
+		</xbrli:period>
+		<xbrli:scenario>
+			<ipp:Modelo>GE</ipp:Modelo>
+			<ipp:Apartado>Consolidado</ipp:Apartado>
+		</xbrli:scenario>
+	</xbrli:context>
+	<xbrli:context id="S22013_A-28294726_dpoi">
+		<xbrli:entity>
+			<xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-28294726">ENAGAS, S.A.</xbrli:identifier>
+			<xbrli:segment>
+				<ipp:version>6.0.1</ipp:version>
+			</xbrli:segment>
+		</xbrli:entity>
+		<xbrli:period>
+			<xbrli:startDate>2013-07-01</xbrli:startDate>
+			<xbrli:endDate>2013-12-31</xbrli:endDate>
+		</xbrli:period>
+		<xbrli:scenario>
+			<ipp:Modelo>GE</ipp:Modelo>
+			<ipp:Apartado>Individual</ipp:Apartado>
+		</xbrli:scenario>
+	</xbrli:context>
+	<xbrli:context id="S22013_A-28294726_dpoc">
+		<xbrli:entity>
+			<xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-28294726">ENAGAS, S.A.</xbrli:identifier>
+			<xbrli:segment>
+				<ipp:version>6.0.1</ipp:version>
+			</xbrli:segment>
+		</xbrli:entity>
+		<xbrli:period>
+			<xbrli:startDate>2013-07-01</xbrli:startDate>
+			<xbrli:endDate>2013-12-31</xbrli:endDate>
+		</xbrli:period>
+		<xbrli:scenario>
+			<ipp:Modelo>GE</ipp:Modelo>
+			<ipp:Apartado>Consolidado</ipp:Apartado>
+		</xbrli:scenario>
+	</xbrli:context>
+	<xbrli:context id="S22014_A-28294726_ici">
+		<xbrli:entity>
+			<xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-28294726">ENAGAS, S.A.</xbrli:identifier>
+			<xbrli:segment>
+				<ipp:version>6.0.1</ipp:version>
+			</xbrli:segment>
+		</xbrli:entity>
+		<xbrli:period>
+			<xbrli:instant>2014-12-31</xbrli:instant>
+		</xbrli:period>
+		<xbrli:scenario>
+			<ipp:Modelo>GE</ipp:Modelo>
+			<ipp:Apartado>Individual</ipp:Apartado>
+		</xbrli:scenario>
+	</xbrli:context>
+	<xbrli:context id="S22014_A-28294726_icc">
+		<xbrli:entity>
+			<xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-28294726">ENAGAS, S.A.</xbrli:identifier>
+			<xbrli:segment>
+				<ipp:version>6.0.1</ipp:version>
+			</xbrli:segment>
+		</xbrli:entity>
+		<xbrli:period>
+			<xbrli:instant>2014-12-31</xbrli:instant>
+		</xbrli:period>
+		<xbrli:scenario>
+			<ipp:Modelo>GE</ipp:Modelo>
+			<ipp:Apartado>Consolidado</ipp:Apartado>
+		</xbrli:scenario>
+	</xbrli:context>
+	<xbrli:context id="S22013_A-28294726_ipai">
+		<xbrli:entity>
+			<xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-28294726">ENAGAS, S.A.</xbrli:identifier>
+			<xbrli:segment>
+				<ipp:version>6.0.1</ipp:version>
+			</xbrli:segment>
+		</xbrli:entity>
+		<xbrli:period>
+			<xbrli:instant>2013-12-31</xbrli:instant>
+		</xbrli:period>
+		<xbrli:scenario>
+			<ipp:Modelo>GE</ipp:Modelo>
+			<ipp:Apartado>Individual</ipp:Apartado>
+		</xbrli:scenario>
+	</xbrli:context>
+	<xbrli:context id="S22013_A-28294726_ipac">
+		<xbrli:entity>
+			<xbrli:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-28294726">ENAGAS, S.A.</xbrli:identifier>
+			<xbrli:segment>
+				<ipp:version>6.0.1</ipp:version>
+			</xbrli:segment>
+		</xbrli:entity>
+		<xbrli:period>
+			<xbrli:instant>2013-12-31</xbrli:instant>
+		</xbrli:period>
+		<xbrli:scenario>
+			<ipp:Modelo>GE</ipp:Modelo>
+			<ipp:Apartado>Consolidado</ipp:Apartado>
+		</xbrli:scenario>
+	</xbrli:context>
+	<xbrli:unit id="euro">
+		<xbrli:measure>iso4217:EUR</xbrli:measure>
+	</xbrli:unit>
+	<xbrli:unit id="pure">
+		<xbrli:measure>xbrli:pure</xbrli:measure>
+	</xbrli:unit>
+	<ipp-gen:InformeFinancieroGeneral>
+		<ipp-com:IdentificacionInforme>
+			<ipp-com:CierreEjercicioInforme contextRef="S22014_A-28294726_ici">2014-12-31</ipp-com:CierreEjercicioInforme>
+			<ipp-com:AnoInforme contextRef="S22014_A-28294726_ici">2014</ipp-com:AnoInforme>
+			<ipp-com:PeriodoInforme>
+				<ipp-com:Xcode_Periodo_E2 contextRef="S22014_A-28294726_ici">E2</ipp-com:Xcode_Periodo_E2>
+			</ipp-com:PeriodoInforme>
+			<ipp-com:ModeloInforme>
+				<ipp-com:Xcode_Modelo_GE contextRef="S22014_A-28294726_ici">GE</ipp-com:Xcode_Modelo_GE>
+			</ipp-com:ModeloInforme>
+			<ipp-com:Version contextRef="S22014_A-28294726_ici">6.1.0</ipp-com:Version>
+		</ipp-com:IdentificacionInforme>
+		<ipp-com:DatosIdentificativos>
+			<dgi-est-gen:EntityName>
+				<dgi-est-gen:LegalName>
+					<dgi-est-gen:LegalNameType>
+						<dgi-lc-es:Xcode_NMT.DS contextRef="S22014_A-28294726_ici">DS</dgi-lc-es:Xcode_NMT.DS>
+					</dgi-est-gen:LegalNameType>
+					<dgi-est-gen:LegalNameValue contextRef="S22014_A-28294726_ici">ENAGAS, S.A.</dgi-est-gen:LegalNameValue>
+				</dgi-est-gen:LegalName>
+			</dgi-est-gen:EntityName>
+			<dgi-est-gen:EntityAddress>
+				<dgi-est-gen:AddressTypeList>
+					<dgi-lc-es:Xcode_ADL.01 contextRef="S22014_A-28294726_ici">01</dgi-lc-es:Xcode_ADL.01>
+				</dgi-est-gen:AddressTypeList>
+				<dgi-est-gen:Address>
+					<dgi-est-gen:AddressFormat>
+						<dgi-lc-int:Xcode_UN3477.05 contextRef="S22014_A-28294726_ici">05</dgi-lc-int:Xcode_UN3477.05>
+					</dgi-est-gen:AddressFormat>
+					<dgi-est-gen:AddressLine contextRef="S22014_A-28294726_ici">Paseo de los Olmos 19, 28005 Madrid.</dgi-est-gen:AddressLine>
+				</dgi-est-gen:Address>
+			</dgi-est-gen:EntityAddress>
+			<dgi-est-gen:Identifier>
+				<dgi-est-gen:IdentifierCode>
+					<dgi-lc-es:Xcode_IDC.CIF contextRef="S22014_A-28294726_ici">CIF</dgi-lc-es:Xcode_IDC.CIF>
+					<dgi-est-gen:IdentifierValue contextRef="S22014_A-28294726_ici">A-28294726</dgi-est-gen:IdentifierValue>
+				</dgi-est-gen:IdentifierCode>
+			</dgi-est-gen:Identifier>
+			<ipp-com:PersonasContacto>
+				<dgi-est-gen:ContactPerson>
+					<dgi-est-gen:PersonName>
+						<dgi-est-gen:FormattedName contextRef="S22014_A-28294726_ici">ANTONIO VELAZQUEZ-GAZTELU</dgi-est-gen:FormattedName>
+					</dgi-est-gen:PersonName>
+					<dgi-est-gen:Position>
+						<dgi-est-gen:PositionType contextRef="S22014_A-28294726_ici">DIRECTOR RELACIÓN CON INVERSORES</dgi-est-gen:PositionType>
+					</dgi-est-gen:Position>
+					<dgi-est-gen:CommunicationWays>
+						<dgi-est-gen:CommunicationType>
+							<dgi-lc-int:Xcode_UN3155.TE contextRef="S22014_A-28294726_ici">TE</dgi-lc-int:Xcode_UN3155.TE>
+						</dgi-est-gen:CommunicationType>
+						<dgi-est-gen:CommunicationValue contextRef="S22014_A-28294726_ici">917099330</dgi-est-gen:CommunicationValue>
+					</dgi-est-gen:CommunicationWays>
+					<dgi-est-gen:CommunicationWays>
+						<dgi-est-gen:CommunicationType>
+							<dgi-lc-int:Xcode_UN3155.EM contextRef="S22014_A-28294726_ici">EM</dgi-lc-int:Xcode_UN3155.EM>
+						</dgi-est-gen:CommunicationType>
+						<dgi-est-gen:CommunicationValue contextRef="S22014_A-28294726_ici">avelazquez@enagas.es</dgi-est-gen:CommunicationValue>
+					</dgi-est-gen:CommunicationWays>
+				</dgi-est-gen:ContactPerson>
+			</ipp-com:PersonasContacto>
+		</ipp-com:DatosIdentificativos>
+		<ipp-com:InformacionComplementariaInformacionReguladaPreviamentePublicada>
+			<ipp-com:InformacionComplementariaFicheroAdjunto>
+				<ipp-com:NombreFicheroAdjunto contextRef="S22014_A-28294726_dci">Documento2.docx</ipp-com:NombreFicheroAdjunto>
+				<ipp-com:TipoMimeFicheroAdjunto contextRef="S22014_A-28294726_dci">docx</ipp-com:TipoMimeFicheroAdjunto>
+				<ipp-com:ContenidoFicheroAdjunto contextRef="S22014_A-28294726_dci">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</ipp-com:ContenidoFicheroAdjunto>
+			</ipp-com:InformacionComplementariaFicheroAdjunto>
+		</ipp-com:InformacionComplementariaInformacionReguladaPreviamentePublicada>
+		<ipp-gen:InformacionFinancieraSeleccionada>
+			<ipp-gen:BalanceIndividual>
+				<ipp-gen:ActivoNoCorrienteNacional decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">5392661000</ipp-gen:ActivoNoCorrienteNacional>
+				<ifrs-gp:IntangibleAssetsNet decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">22381000</ifrs-gp:IntangibleAssetsNet>
+				<ifrs-gp:IdentifiableIntangibleAssetsNet decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">22381000</ifrs-gp:IdentifiableIntangibleAssetsNet>
+				<ifrs-gp:PropertyPlantAndEquipmentNet decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">18849000</ifrs-gp:PropertyPlantAndEquipmentNet>
+				<ifrs-gp:InvestmentProperty decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">25080000</ifrs-gp:InvestmentProperty>
+				<ipp-gen:InversionesEmpresasGrupoAsociadasLargoPlazo decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">5316519000</ipp-gen:InversionesEmpresasGrupoAsociadasLargoPlazo>
+				<ifrs-gp:OtherFinancialAssetsNonCurrent decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">1435000</ifrs-gp:OtherFinancialAssetsNonCurrent>
+				<ifrs-gp:DeferredTaxAssets decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">8397000</ifrs-gp:DeferredTaxAssets>
+				<ipp-gen:ActivoCorrienteNacional decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">579419000</ipp-gen:ActivoCorrienteNacional>
+				<ifrs-gp:Inventories decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">20000</ifrs-gp:Inventories>
+				<ifrs-gp:TradeAndOtherReceivablesNetCurrent decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">27583000</ifrs-gp:TradeAndOtherReceivablesNetCurrent>
+				<ipp-gen:ClientesVentasPrestacionesServicios decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">21873000</ipp-gen:ClientesVentasPrestacionesServicios>
+				<ipp-gen:OtrosDeudores decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">888000</ipp-gen:OtrosDeudores>
+				<ifrs-gp:CurrentTaxReceivables decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">4822000</ifrs-gp:CurrentTaxReceivables>
+				<ipp-gen:InversionesEmpresasGrupoAsociadasCortoPlazo decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">480801000</ipp-gen:InversionesEmpresasGrupoAsociadasCortoPlazo>
+				<ifrs-gp:PrepaymentsCurrent decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">380000</ifrs-gp:PrepaymentsCurrent>
+				<ifrs-gp:CashAndCashEquivalents decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">70635000</ifrs-gp:CashAndCashEquivalents>
+				<ipp-gen:TotalActivoNacional decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">5972080000</ipp-gen:TotalActivoNacional>
+				<ipp-gen:PatrimonioNetoNacional decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">2041487000</ipp-gen:PatrimonioNetoNacional>
+				<ipp-gen:FondosPropiosNacional decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">2045568000</ipp-gen:FondosPropiosNacional>
+				<es-be-fs:CapitalFondoDotacion decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">358101000</es-be-fs:CapitalFondoDotacion>
+				<ifrs-gp:IssuedCapital decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">358101000</ifrs-gp:IssuedCapital>
+				<ifrs-gp:IssuedCapital decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">358101000</ifrs-gp:IssuedCapital>
+				<ifrs-gp:OtherReserves decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">1460808000</ifrs-gp:OtherReserves>
+				<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">350801000</es-be-fs:ResultadoEjercicioBalance>
+				<es-be-fs:MenosDividendosRetribuciones decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">-124142000</es-be-fs:MenosDividendosRetribuciones>
+				<ipp-gen:AjustesValoracionNacional decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">-4081000</ipp-gen:AjustesValoracionNacional>
+				<ipp-com:OperacionesCobertura decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">-4081000</ipp-com:OperacionesCobertura>
+				<ipp-gen:PasivoNoCorrienteNacional decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">3451520000</ipp-gen:PasivoNoCorrienteNacional>
+				<ifrs-gp:ProvisionsNonCurrent decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">1717000</ifrs-gp:ProvisionsNonCurrent>
+				<ipp-gen:DeudasLargoPlazo decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">1541803000</ipp-gen:DeudasLargoPlazo>
+				<ipp-gen:DeudasEntidadesFinancierasLargoPlazo decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">1538285000</ipp-gen:DeudasEntidadesFinancierasLargoPlazo>
+				<ifrs-gp:OtherFinancialLiabilitiesNonCurrent decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">3518000</ifrs-gp:OtherFinancialLiabilitiesNonCurrent>
+				<ipp-gen:DeudasEmpresasGrupoAsociadasLargoPlazo decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">1906871000</ipp-gen:DeudasEmpresasGrupoAsociadasLargoPlazo>
+				<ifrs-gp:DeferredTaxLiabilities decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">1129000</ifrs-gp:DeferredTaxLiabilities>
+				<ipp-gen:PasivoCorrienteNacional decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">479073000</ipp-gen:PasivoCorrienteNacional>
+				<ipp-gen:DeudasCortoPlazo decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">349068000</ipp-gen:DeudasCortoPlazo>
+				<ipp-gen:DeudasEntidadesFinancierasCortoPlazo decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">345911000</ipp-gen:DeudasEntidadesFinancierasCortoPlazo>
+				<ifrs-gp:OtherFinancialLiabilitiesCurrent decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">3157000</ifrs-gp:OtherFinancialLiabilitiesCurrent>
+				<ipp-gen:DeudasEmpresasGrupoAsociadasCortoPlazo decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">80509000</ipp-gen:DeudasEmpresasGrupoAsociadasCortoPlazo>
+				<ipp-gen:AcreedoresComercialesOtrasCuentasPagar decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">49496000</ipp-gen:AcreedoresComercialesOtrasCuentasPagar>
+				<ifrs-gp:TradeAndOtherPayablesCurrent decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">18817000</ifrs-gp:TradeAndOtherPayablesCurrent>
+				<ipp-gen:OtrosAcreedores decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">30579000</ipp-gen:OtrosAcreedores>
+				<ipp-gen:OtrosAcreedores decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">28529000</ipp-gen:OtrosAcreedores>
+				<ifrs-gp:CurrentTaxPayables decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">100000</ifrs-gp:CurrentTaxPayables>
+				<ipp-gen:TotalPatrimonioNetoPasivoNacional decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">5972080000</ipp-gen:TotalPatrimonioNetoPasivoNacional>
+				<ipp-gen:ActivoNoCorrienteNacional decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">4035341000</ipp-gen:ActivoNoCorrienteNacional>
+				<ifrs-gp:IntangibleAssetsNet decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">28134000</ifrs-gp:IntangibleAssetsNet>
+				<ifrs-gp:IdentifiableIntangibleAssetsNet decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">28134000</ifrs-gp:IdentifiableIntangibleAssetsNet>
+				<ifrs-gp:PropertyPlantAndEquipmentNet decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">67311000</ifrs-gp:PropertyPlantAndEquipmentNet>
+				<ipp-gen:InversionesEmpresasGrupoAsociadasLargoPlazo decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">3930375000</ipp-gen:InversionesEmpresasGrupoAsociadasLargoPlazo>
+				<ifrs-gp:OtherFinancialAssetsNonCurrent decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">1397000</ifrs-gp:OtherFinancialAssetsNonCurrent>
+				<ifrs-gp:DeferredTaxAssets decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">8124000</ifrs-gp:DeferredTaxAssets>
+				<ipp-gen:ActivoCorrienteNacional decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">602790000</ipp-gen:ActivoCorrienteNacional>
+				<ifrs-gp:Inventories decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">14000</ifrs-gp:Inventories>
+				<ifrs-gp:TradeAndOtherReceivablesNetCurrent decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">43768000</ifrs-gp:TradeAndOtherReceivablesNetCurrent>
+				<ipp-gen:ClientesVentasPrestacionesServicios decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">17040000</ipp-gen:ClientesVentasPrestacionesServicios>
+				<ipp-gen:OtrosDeudores decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">20537000</ipp-gen:OtrosDeudores>
+				<ifrs-gp:CurrentTaxReceivables decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">6191000</ifrs-gp:CurrentTaxReceivables>
+				<ipp-gen:InversionesEmpresasGrupoAsociadasCortoPlazo decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">266364000</ipp-gen:InversionesEmpresasGrupoAsociadasCortoPlazo>
+				<ifrs-gp:PrepaymentsCurrent decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">122000</ifrs-gp:PrepaymentsCurrent>
+				<ifrs-gp:CashAndCashEquivalents decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">292522000</ifrs-gp:CashAndCashEquivalents>
+				<ipp-gen:TotalActivoNacional decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">4638131000</ipp-gen:TotalActivoNacional>
+				<ipp-gen:PatrimonioNetoNacional decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">1998554000</ipp-gen:PatrimonioNetoNacional>
+				<ipp-gen:FondosPropiosNacional decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">2001213000</ipp-gen:FondosPropiosNacional>
+				<es-be-fs:CapitalFondoDotacion decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">358101000</es-be-fs:CapitalFondoDotacion>
+				<ifrs-gp:OtherReserves decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">1383726000</ifrs-gp:OtherReserves>
+				<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">379469000</es-be-fs:ResultadoEjercicioBalance>
+				<es-be-fs:MenosDividendosRetribuciones decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">-120083000</es-be-fs:MenosDividendosRetribuciones>
+				<ipp-gen:AjustesValoracionNacional decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">-2659000</ipp-gen:AjustesValoracionNacional>
+				<ipp-com:OperacionesCobertura decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">-2659000</ipp-com:OperacionesCobertura>
+				<ipp-gen:PasivoNoCorrienteNacional decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">2217846000</ipp-gen:PasivoNoCorrienteNacional>
+				<ifrs-gp:ProvisionsNonCurrent decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">2033000</ifrs-gp:ProvisionsNonCurrent>
+				<ipp-gen:DeudasLargoPlazo decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">989394000</ipp-gen:DeudasLargoPlazo>
+				<ipp-gen:DeudasEntidadesFinancierasLargoPlazo decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">987746000</ipp-gen:DeudasEntidadesFinancierasLargoPlazo>
+				<ifrs-gp:OtherFinancialLiabilitiesNonCurrent decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">1648000</ifrs-gp:OtherFinancialLiabilitiesNonCurrent>
+				<ipp-gen:DeudasEmpresasGrupoAsociadasLargoPlazo decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">1211786000</ipp-gen:DeudasEmpresasGrupoAsociadasLargoPlazo>
+				<ifrs-gp:DeferredTaxLiabilities decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">14633000</ifrs-gp:DeferredTaxLiabilities>
+				<ipp-gen:PasivoCorrienteNacional decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">421731000</ipp-gen:PasivoCorrienteNacional>
+				<ipp-gen:DeudasCortoPlazo decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">342339000</ipp-gen:DeudasCortoPlazo>
+				<ipp-gen:DeudasEntidadesFinancierasCortoPlazo decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">339328000</ipp-gen:DeudasEntidadesFinancierasCortoPlazo>
+				<ifrs-gp:OtherFinancialLiabilitiesCurrent decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">3011000</ifrs-gp:OtherFinancialLiabilitiesCurrent>
+				<ipp-gen:DeudasEmpresasGrupoAsociadasCortoPlazo decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">23012000</ipp-gen:DeudasEmpresasGrupoAsociadasCortoPlazo>
+				<ipp-gen:AcreedoresComercialesOtrasCuentasPagar decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">56380000</ipp-gen:AcreedoresComercialesOtrasCuentasPagar>
+				<ifrs-gp:TradeAndOtherPayablesCurrent decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">19724000</ifrs-gp:TradeAndOtherPayablesCurrent>
+				<ifrs-gp:CurrentTaxPayables decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">8127000</ifrs-gp:CurrentTaxPayables>
+				<ipp-gen:TotalPatrimonioNetoPasivoNacional decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">4638131000</ipp-gen:TotalPatrimonioNetoPasivoNacional>
+			</ipp-gen:BalanceIndividual>
+			<ipp-gen:CuentaPerdidasGananciasIndividual>
+				<ifrs-gp:RevenueTotalByNature decimals="0" contextRef="S22014_A-28294726_dcoi" unitRef="euro">419618000</ifrs-gp:RevenueTotalByNature>
+				<ifrs-gp:RevenueTotalByNature decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">531763000</ifrs-gp:RevenueTotalByNature>
+				<ifrs-gp:RevenueTotalByNature decimals="0" contextRef="S22013_A-28294726_dpoi" unitRef="euro">400815000</ifrs-gp:RevenueTotalByNature>
+				<ifrs-gp:RevenueTotalByNature decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">565755000</ifrs-gp:RevenueTotalByNature>
+				<ifrs-gp:WorkPerformedByEntityAndCapitalised decimals="0" contextRef="S22014_A-28294726_dcoi" unitRef="euro">758000</ifrs-gp:WorkPerformedByEntityAndCapitalised>
+				<ifrs-gp:WorkPerformedByEntityAndCapitalised decimals="0" contextRef="S22013_A-28294726_dpoi" unitRef="euro">1023000</ifrs-gp:WorkPerformedByEntityAndCapitalised>
+				<ifrs-gp:WorkPerformedByEntityAndCapitalised decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">1130000</ifrs-gp:WorkPerformedByEntityAndCapitalised>
+				<ifrs-gp:WorkPerformedByEntityAndCapitalised decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">1617000</ifrs-gp:WorkPerformedByEntityAndCapitalised>
+				<ifrs-gp:RawMaterialsAndConsumablesUsedByNature decimals="0" contextRef="S22014_A-28294726_dcoi" unitRef="euro">-18000</ifrs-gp:RawMaterialsAndConsumablesUsedByNature>
+				<ifrs-gp:RawMaterialsAndConsumablesUsedByNature decimals="0" contextRef="S22013_A-28294726_dpoi" unitRef="euro">-23000</ifrs-gp:RawMaterialsAndConsumablesUsedByNature>
+				<ifrs-gp:RawMaterialsAndConsumablesUsedByNature decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">-34000</ifrs-gp:RawMaterialsAndConsumablesUsedByNature>
+				<ifrs-gp:RawMaterialsAndConsumablesUsedByNature decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">-33000</ifrs-gp:RawMaterialsAndConsumablesUsedByNature>
+				<ifrs-gp:OtherOperatingIncomeTotalByNature decimals="0" contextRef="S22014_A-28294726_dcoi" unitRef="euro">271000</ifrs-gp:OtherOperatingIncomeTotalByNature>
+				<ifrs-gp:OtherOperatingIncomeTotalByNature decimals="0" contextRef="S22013_A-28294726_dpoi" unitRef="euro">2511000</ifrs-gp:OtherOperatingIncomeTotalByNature>
+				<ifrs-gp:OtherOperatingIncomeTotalByNature decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">1615000</ifrs-gp:OtherOperatingIncomeTotalByNature>
+				<ifrs-gp:OtherOperatingIncomeTotalByNature decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">11782000</ifrs-gp:OtherOperatingIncomeTotalByNature>
+				<ifrs-gp:EmployeeExpensesByNature decimals="0" contextRef="S22014_A-28294726_dcoi" unitRef="euro">-18201000</ifrs-gp:EmployeeExpensesByNature>
+				<ifrs-gp:EmployeeExpensesByNature decimals="0" contextRef="S22013_A-28294726_dpoi" unitRef="euro">-21541000</ifrs-gp:EmployeeExpensesByNature>
+				<ifrs-gp:EmployeeExpensesByNature decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">-35955000</ifrs-gp:EmployeeExpensesByNature>
+				<ifrs-gp:EmployeeExpensesByNature decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">-41137000</ifrs-gp:EmployeeExpensesByNature>
+				<ifrs-gp:MiscellaneousOtherOperatingExpensesByNature decimals="0" contextRef="S22014_A-28294726_dcoi" unitRef="euro">-33901000</ifrs-gp:MiscellaneousOtherOperatingExpensesByNature>
+				<ifrs-gp:MiscellaneousOtherOperatingExpensesByNature decimals="0" contextRef="S22013_A-28294726_dpoi" unitRef="euro">-30673000</ifrs-gp:MiscellaneousOtherOperatingExpensesByNature>
+				<ifrs-gp:MiscellaneousOtherOperatingExpensesByNature decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">-67329000</ifrs-gp:MiscellaneousOtherOperatingExpensesByNature>
+				<ifrs-gp:MiscellaneousOtherOperatingExpensesByNature decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">-63791000</ifrs-gp:MiscellaneousOtherOperatingExpensesByNature>
+				<ifrs-gp:DepreciationAndAmortisation decimals="0" contextRef="S22014_A-28294726_dcoi" unitRef="euro">-7889000</ifrs-gp:DepreciationAndAmortisation>
+				<ifrs-gp:DepreciationAndAmortisation decimals="0" contextRef="S22013_A-28294726_dpoi" unitRef="euro">-8842000</ifrs-gp:DepreciationAndAmortisation>
+				<ifrs-gp:DepreciationAndAmortisation decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">-16662000</ifrs-gp:DepreciationAndAmortisation>
+				<ifrs-gp:DepreciationAndAmortisation decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">-17797000</ifrs-gp:DepreciationAndAmortisation>
+				<ipp-gen:DeterioroResultadoEnajenacionesInmovilizado decimals="0" contextRef="S22014_A-28294726_dcoi" unitRef="euro">-22134000</ipp-gen:DeterioroResultadoEnajenacionesInmovilizado>
+				<ipp-gen:DeterioroResultadoEnajenacionesInmovilizado decimals="0" contextRef="S22013_A-28294726_dpoi" unitRef="euro">-149000</ipp-gen:DeterioroResultadoEnajenacionesInmovilizado>
+				<ipp-gen:DeterioroResultadoEnajenacionesInmovilizado decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">-22134000</ipp-gen:DeterioroResultadoEnajenacionesInmovilizado>
+				<ipp-gen:DeterioroResultadoEnajenacionesInmovilizado decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">-164000</ipp-gen:DeterioroResultadoEnajenacionesInmovilizado>
+				<ipp-gen:ResultadoExplotacionNacional decimals="0" contextRef="S22014_A-28294726_dcoi" unitRef="euro">338504000</ipp-gen:ResultadoExplotacionNacional>
+				<ipp-gen:ResultadoExplotacionNacional decimals="0" contextRef="S22013_A-28294726_dpoi" unitRef="euro">343121000</ipp-gen:ResultadoExplotacionNacional>
+				<ipp-gen:ResultadoExplotacionNacional decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">426386000</ipp-gen:ResultadoExplotacionNacional>
+				<ipp-gen:ResultadoExplotacionNacional decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">422240000</ipp-gen:ResultadoExplotacionNacional>
+				<ipp-gen:IngresosFinancieros decimals="0" contextRef="S22014_A-28294726_dcoi" unitRef="euro">2827000</ipp-gen:IngresosFinancieros>
+				<ipp-gen:IngresosFinancieros decimals="0" contextRef="S22013_A-28294726_dpoi" unitRef="euro">6176000</ipp-gen:IngresosFinancieros>
+				<ipp-gen:IngresosFinancieros decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">5863000</ipp-gen:IngresosFinancieros>
+				<ipp-gen:IngresosFinancieros decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">15954000</ipp-gen:IngresosFinancieros>
+				<ifrs-gp:FinanceCostsForNonFinancialActivities decimals="0" contextRef="S22014_A-28294726_dcoi" unitRef="euro">-50110000</ifrs-gp:FinanceCostsForNonFinancialActivities>
+				<ifrs-gp:FinanceCostsForNonFinancialActivities decimals="0" contextRef="S22013_A-28294726_dpoi" unitRef="euro">-25948000</ifrs-gp:FinanceCostsForNonFinancialActivities>
+				<ifrs-gp:FinanceCostsForNonFinancialActivities decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">-98616000</ifrs-gp:FinanceCostsForNonFinancialActivities>
+				<ifrs-gp:FinanceCostsForNonFinancialActivities decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">-53033000</ifrs-gp:FinanceCostsForNonFinancialActivities>
+				<ifrs-gp:GainsLossesOnFinancialInstrumentsExchangeDifferenceRevaluations decimals="0" contextRef="S22014_A-28294726_dcoi" unitRef="euro">5115000</ifrs-gp:GainsLossesOnFinancialInstrumentsExchangeDifferenceRevaluations>
+				<ifrs-gp:GainsLossesOnFinancialInstrumentsExchangeDifferenceRevaluations decimals="0" contextRef="S22013_A-28294726_dpoi" unitRef="euro">-5046000</ifrs-gp:GainsLossesOnFinancialInstrumentsExchangeDifferenceRevaluations>
+				<ifrs-gp:GainsLossesOnFinancialInstrumentsExchangeDifferenceRevaluations decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">5653000</ifrs-gp:GainsLossesOnFinancialInstrumentsExchangeDifferenceRevaluations>
+				<ifrs-gp:GainsLossesOnFinancialInstrumentsExchangeDifferenceRevaluations decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">-7500000</ifrs-gp:GainsLossesOnFinancialInstrumentsExchangeDifferenceRevaluations>
+				<ipp-gen:ResultadoFinanciero decimals="0" contextRef="S22014_A-28294726_dcoi" unitRef="euro">-42168000</ipp-gen:ResultadoFinanciero>
+				<ipp-gen:ResultadoFinanciero decimals="0" contextRef="S22013_A-28294726_dpoi" unitRef="euro">-24818000</ipp-gen:ResultadoFinanciero>
+				<ipp-gen:ResultadoFinanciero decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">-87100000</ipp-gen:ResultadoFinanciero>
+				<ipp-gen:ResultadoFinanciero decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">-44579000</ipp-gen:ResultadoFinanciero>
+				<ipp-gen:ResultadoAntesImpuestosNacional decimals="0" contextRef="S22014_A-28294726_dcoi" unitRef="euro">296336000</ipp-gen:ResultadoAntesImpuestosNacional>
+				<ipp-gen:ResultadoAntesImpuestosNacional decimals="0" contextRef="S22013_A-28294726_dpoi" unitRef="euro">318303000</ipp-gen:ResultadoAntesImpuestosNacional>
+				<ipp-gen:ResultadoAntesImpuestosNacional decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">339286000</ipp-gen:ResultadoAntesImpuestosNacional>
+				<ipp-gen:ResultadoAntesImpuestosNacional decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">377661000</ipp-gen:ResultadoAntesImpuestosNacional>
+				<ifrs-gp:IncomeTaxExpenseIncome decimals="0" contextRef="S22014_A-28294726_dcoi" unitRef="euro">8493000</ifrs-gp:IncomeTaxExpenseIncome>
+				<ifrs-gp:IncomeTaxExpenseIncome decimals="0" contextRef="S22013_A-28294726_dpoi" unitRef="euro">3510000</ifrs-gp:IncomeTaxExpenseIncome>
+				<ifrs-gp:IncomeTaxExpenseIncome decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">11515000</ifrs-gp:IncomeTaxExpenseIncome>
+				<ifrs-gp:IncomeTaxExpenseIncome decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">1808000</ifrs-gp:IncomeTaxExpenseIncome>
+				<ipp-gen:ResultadoEjercicioProcedenteOperacionesContinuadasNacional decimals="0" contextRef="S22014_A-28294726_dcoi" unitRef="euro">304829000</ipp-gen:ResultadoEjercicioProcedenteOperacionesContinuadasNacional>
+				<ipp-gen:ResultadoEjercicioProcedenteOperacionesContinuadasNacional decimals="0" contextRef="S22013_A-28294726_dpoi" unitRef="euro">321813000</ipp-gen:ResultadoEjercicioProcedenteOperacionesContinuadasNacional>
+				<ipp-gen:ResultadoEjercicioProcedenteOperacionesContinuadasNacional decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">350801000</ipp-gen:ResultadoEjercicioProcedenteOperacionesContinuadasNacional>
+				<ipp-gen:ResultadoEjercicioProcedenteOperacionesContinuadasNacional decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">379469000</ipp-gen:ResultadoEjercicioProcedenteOperacionesContinuadasNacional>
+				<ifrs-gp:ProfitLossFromDiscontinuedOperationsNetOfTax decimals="0" contextRef="S22014_A-28294726_dcoi" unitRef="euro">0</ifrs-gp:ProfitLossFromDiscontinuedOperationsNetOfTax>
+				<ifrs-gp:ProfitLossFromDiscontinuedOperationsNetOfTax decimals="0" contextRef="S22013_A-28294726_dpoi" unitRef="euro">0</ifrs-gp:ProfitLossFromDiscontinuedOperationsNetOfTax>
+				<ifrs-gp:ProfitLossFromDiscontinuedOperationsNetOfTax decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">0</ifrs-gp:ProfitLossFromDiscontinuedOperationsNetOfTax>
+				<ifrs-gp:ProfitLossFromDiscontinuedOperationsNetOfTax decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">0</ifrs-gp:ProfitLossFromDiscontinuedOperationsNetOfTax>
+				<ipp-gen:ResultadoEjercicioNacional decimals="0" contextRef="S22014_A-28294726_dcoi" unitRef="euro">304829000</ipp-gen:ResultadoEjercicioNacional>
+				<ipp-gen:ResultadoEjercicioNacional decimals="0" contextRef="S22013_A-28294726_dpoi" unitRef="euro">321813000</ipp-gen:ResultadoEjercicioNacional>
+				<ipp-gen:ResultadoEjercicioNacional decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">350801000</ipp-gen:ResultadoEjercicioNacional>
+				<ipp-gen:ResultadoEjercicioNacional decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">379469000</ipp-gen:ResultadoEjercicioNacional>
+				<ifrs-gp:BasicEarningsLossPerShare decimals="2" contextRef="S22014_A-28294726_dcoi" unitRef="pure">1.28</ifrs-gp:BasicEarningsLossPerShare>
+				<ifrs-gp:BasicEarningsLossPerShare decimals="2" contextRef="S22013_A-28294726_dpoi" unitRef="pure">1.35</ifrs-gp:BasicEarningsLossPerShare>
+				<ifrs-gp:BasicEarningsLossPerShare decimals="2" contextRef="S22014_A-28294726_dci" unitRef="pure">1.47</ifrs-gp:BasicEarningsLossPerShare>
+				<ifrs-gp:BasicEarningsLossPerShare decimals="2" contextRef="S22013_A-28294726_dpai" unitRef="pure">1.59</ifrs-gp:BasicEarningsLossPerShare>
+				<ifrs-gp:DilutedEarningsLossPerShare decimals="2" contextRef="S22014_A-28294726_dcoi" unitRef="pure">1.28</ifrs-gp:DilutedEarningsLossPerShare>
+				<ifrs-gp:DilutedEarningsLossPerShare decimals="2" contextRef="S22013_A-28294726_dpoi" unitRef="pure">1.35</ifrs-gp:DilutedEarningsLossPerShare>
+				<ifrs-gp:DilutedEarningsLossPerShare decimals="2" contextRef="S22014_A-28294726_dci" unitRef="pure">1.47</ifrs-gp:DilutedEarningsLossPerShare>
+				<ifrs-gp:DilutedEarningsLossPerShare decimals="2" contextRef="S22013_A-28294726_dpai" unitRef="pure">1.59</ifrs-gp:DilutedEarningsLossPerShare>
+			</ipp-gen:CuentaPerdidasGananciasIndividual>
+			<ipp-gen:EstadoIngresosGastosReconocidosIndividual>
+				<ifrs-gp:ProfitLoss decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">350801000</ifrs-gp:ProfitLoss>
+				<ifrs-gp:ProfitLoss decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">379469000</ifrs-gp:ProfitLoss>
+				<ipp-gen:IngresosGastosImputadosDirectamentePatrimonioNetoNacional decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">-5474000</ipp-gen:IngresosGastosImputadosDirectamentePatrimonioNetoNacional>
+				<ipp-gen:IngresosGastosImputadosDirectamentePatrimonioNetoNacional decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">-2659000</ipp-gen:IngresosGastosImputadosDirectamentePatrimonioNetoNacional>
+				<ipp-gen:CoberturasFlujosEfectivoPatrimonioNeto decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">-7141000</ipp-gen:CoberturasFlujosEfectivoPatrimonioNeto>
+				<ipp-gen:CoberturasFlujosEfectivoPatrimonioNeto decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">-3798000</ipp-gen:CoberturasFlujosEfectivoPatrimonioNeto>
+				<ipp-gen:EfectoImpositivoPatrimonioNeto decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">1667000</ipp-gen:EfectoImpositivoPatrimonioNeto>
+				<ipp-gen:EfectoImpositivoPatrimonioNeto decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">1139000</ipp-gen:EfectoImpositivoPatrimonioNeto>
+				<ipp-gen:TransferenciasCuentaPerdidasGananciasNacional decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">4052000</ipp-gen:TransferenciasCuentaPerdidasGananciasNacional>
+				<ipp-gen:CoberturasFlujosEfectivoPerdidasGanancias decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">5788000</ipp-gen:CoberturasFlujosEfectivoPerdidasGanancias>
+				<ipp-gen:EfectoImpositivoPerdidasGanancias decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">-1736000</ipp-gen:EfectoImpositivoPerdidasGanancias>
+				<ipp-gen:TotalIngresosGastosReconocidosNacional decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">349379000</ipp-gen:TotalIngresosGastosReconocidosNacional>
+				<ipp-gen:TotalIngresosGastosReconocidosNacional decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">376810000</ipp-gen:TotalIngresosGastosReconocidosNacional>
+			</ipp-gen:EstadoIngresosGastosReconocidosIndividual>
+			<ipp-gen:EstadoTotalCambiosPatrimonioNetoIndividual>
+				<ipp-com:SaldoInicial>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:CapitalPasivoPatrimonioNeto decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">358101000</ipp-com:CapitalPasivoPatrimonioNeto>
+						<ipp-com:PrimaEmisionReservas decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">1263643000</ipp-com:PrimaEmisionReservas>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">379469000</es-be-fs:ResultadoEjercicioBalance>
+						<ipp-com:AjustesCambiosValorPasivoPatrimonioNeto decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">-2659000</ipp-com:AjustesCambiosValorPasivoPatrimonioNeto>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">1998554000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:SaldoInicial>
+				<ipp-com:SaldoInicialAjustado>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:CapitalPasivoPatrimonioNeto decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">358101000</ipp-com:CapitalPasivoPatrimonioNeto>
+						<ipp-com:PrimaEmisionReservas decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">1263643000</ipp-com:PrimaEmisionReservas>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">379469000</es-be-fs:ResultadoEjercicioBalance>
+						<ipp-com:AjustesCambiosValorPasivoPatrimonioNeto decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">-2659000</ipp-com:AjustesCambiosValorPasivoPatrimonioNeto>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">1998554000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:SaldoInicialAjustado>
+				<ipp-com:IngresosGastosReconocidos>
+					<ipp-com:PatrimonioNeto>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">350801000</es-be-fs:ResultadoEjercicioBalance>
+						<ipp-com:AjustesCambiosValorPasivoPatrimonioNeto decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">-1422000</ipp-com:AjustesCambiosValorPasivoPatrimonioNeto>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">349379000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:IngresosGastosReconocidos>
+				<ipp-com:OperacionesSociosPropietarios>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:PrimaEmisionReservas decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">-124142000</ipp-com:PrimaEmisionReservas>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">-182304000</es-be-fs:ResultadoEjercicioBalance>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">-306446000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:OperacionesSociosPropietarios>
+				<ipp-com:DistribucionDividendos>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:PrimaEmisionReservas decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">-124142000</ipp-com:PrimaEmisionReservas>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">-182304000</es-be-fs:ResultadoEjercicioBalance>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">-306446000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:DistribucionDividendos>
+				<ipp-com:OtrasVariacionesPatrimonioNeto>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:PrimaEmisionReservas decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">197165000</ipp-com:PrimaEmisionReservas>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">-197165000</es-be-fs:ResultadoEjercicioBalance>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">0</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:OtrasVariacionesPatrimonioNeto>
+				<ipp-com:OtrasVariaciones>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:PrimaEmisionReservas decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">197165000</ipp-com:PrimaEmisionReservas>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">-197165000</es-be-fs:ResultadoEjercicioBalance>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">0</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:OtrasVariaciones>
+				<ipp-com:SaldoFinal>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:CapitalPasivoPatrimonioNeto decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">358101000</ipp-com:CapitalPasivoPatrimonioNeto>
+						<ipp-com:PrimaEmisionReservas decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">1336666000</ipp-com:PrimaEmisionReservas>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">350801000</es-be-fs:ResultadoEjercicioBalance>
+						<ipp-com:AjustesCambiosValorPasivoPatrimonioNeto decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">-4081000</ipp-com:AjustesCambiosValorPasivoPatrimonioNeto>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">2041487000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:SaldoFinal>
+				<ipp-com:SaldoInicial>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:CapitalPasivoPatrimonioNeto decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">358101000</ipp-com:CapitalPasivoPatrimonioNeto>
+						<ipp-com:PrimaEmisionReservas decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">1260019000</ipp-com:PrimaEmisionReservas>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">287185000</es-be-fs:ResultadoEjercicioBalance>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">1905305000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:SaldoInicial>
+				<ipp-com:SaldoInicialAjustado>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:CapitalPasivoPatrimonioNeto decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">358101000</ipp-com:CapitalPasivoPatrimonioNeto>
+						<ipp-com:PrimaEmisionReservas decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">1260019000</ipp-com:PrimaEmisionReservas>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">287185000</es-be-fs:ResultadoEjercicioBalance>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">1905305000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:SaldoInicialAjustado>
+				<ipp-com:IngresosGastosReconocidos>
+					<ipp-com:PatrimonioNeto>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">379469000</es-be-fs:ResultadoEjercicioBalance>
+						<ipp-com:AjustesCambiosValorPasivoPatrimonioNeto decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">-2659000</ipp-com:AjustesCambiosValorPasivoPatrimonioNeto>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">376810000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:IngresosGastosReconocidos>
+				<ipp-com:OperacionesSociosPropietarios>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:PrimaEmisionReservas decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">-120083000</ipp-com:PrimaEmisionReservas>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">-163478000</es-be-fs:ResultadoEjercicioBalance>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">-283561000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:OperacionesSociosPropietarios>
+				<ipp-com:DistribucionDividendos>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:PrimaEmisionReservas decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">-120083000</ipp-com:PrimaEmisionReservas>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">-163478000</es-be-fs:ResultadoEjercicioBalance>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">-283561000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:DistribucionDividendos>
+				<ipp-com:OtrasVariacionesPatrimonioNeto>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:PrimaEmisionReservas decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">123707000</ipp-com:PrimaEmisionReservas>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">-123707000</es-be-fs:ResultadoEjercicioBalance>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">0</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:OtrasVariacionesPatrimonioNeto>
+				<ipp-com:OtrasVariaciones>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:PrimaEmisionReservas decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">123707000</ipp-com:PrimaEmisionReservas>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">-123707000</es-be-fs:ResultadoEjercicioBalance>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">0</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:OtrasVariaciones>
+				<ipp-com:SaldoFinal>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:CapitalPasivoPatrimonioNeto decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">358101000</ipp-com:CapitalPasivoPatrimonioNeto>
+						<ipp-com:PrimaEmisionReservas decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">1263643000</ipp-com:PrimaEmisionReservas>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">379469000</es-be-fs:ResultadoEjercicioBalance>
+						<ipp-com:AjustesCambiosValorPasivoPatrimonioNeto decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">-2659000</ipp-com:AjustesCambiosValorPasivoPatrimonioNeto>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">1998554000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:SaldoFinal>
+			</ipp-gen:EstadoTotalCambiosPatrimonioNetoIndividual>
+			<ipp-gen:EstadoFlujosEfectivoIndividual>
+				<ipp-gen:FlujosEfectivoActividadesExplotacionNacional decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">222224000</ipp-gen:FlujosEfectivoActividadesExplotacionNacional>
+				<ipp-gen:FlujosEfectivoActividadesExplotacionNacional decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">490381000</ipp-gen:FlujosEfectivoActividadesExplotacionNacional>
+				<ifrs-gp:ProfitLossBeforeTax decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">339286000</ifrs-gp:ProfitLossBeforeTax>
+				<ifrs-gp:ProfitLossBeforeTax decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">377661000</ifrs-gp:ProfitLossBeforeTax>
+				<ipp-gen:AjustesResultadoFlujosEfectivoActividadesExplotacion decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">-326282000</ipp-gen:AjustesResultadoFlujosEfectivoActividadesExplotacion>
+				<ipp-gen:AjustesResultadoFlujosEfectivoActividadesExplotacion decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">-355890000</ipp-gen:AjustesResultadoFlujosEfectivoActividadesExplotacion>
+				<ifrs-gp:DepreciationAndAmortisation decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">-16662000</ifrs-gp:DepreciationAndAmortisation>
+				<ifrs-gp:DepreciationAndAmortisation decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">-17797000</ifrs-gp:DepreciationAndAmortisation>
+				<ipp-com:OtrosAjustes decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">-309620000</ipp-com:OtrosAjustes>
+				<ipp-com:OtrosAjustes decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">-338093000</ipp-com:OtrosAjustes>
+				<ifrs-gp:IncreaseDecreaseInWorkingCapitalNet decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">4814000</ifrs-gp:IncreaseDecreaseInWorkingCapitalNet>
+				<ifrs-gp:IncreaseDecreaseInWorkingCapitalNet decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">102175000</ifrs-gp:IncreaseDecreaseInWorkingCapitalNet>
+				<ipp-gen:OtrosFlujosEfectivoActividadesExplotacionNacional decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">204406000</ipp-gen:OtrosFlujosEfectivoActividadesExplotacionNacional>
+				<ipp-gen:OtrosFlujosEfectivoActividadesExplotacionNacional decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">366435000</ipp-gen:OtrosFlujosEfectivoActividadesExplotacionNacional>
+				<ifrs-gp:PaymentsOfInterestClassifiedAsOperating decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">-85157000</ifrs-gp:PaymentsOfInterestClassifiedAsOperating>
+				<ifrs-gp:PaymentsOfInterestClassifiedAsOperating decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">-50776000</ifrs-gp:PaymentsOfInterestClassifiedAsOperating>
+				<ifrs-gp:ProceedsFromDividendsReceivedClassifiedAsOperating decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">217937000</ifrs-gp:ProceedsFromDividendsReceivedClassifiedAsOperating>
+				<ifrs-gp:ProceedsFromDividendsReceivedClassifiedAsOperating decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">544919000</ifrs-gp:ProceedsFromDividendsReceivedClassifiedAsOperating>
+				<ifrs-gp:ProceedsFromInterestReceivedClassifiedAsOperating decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">63654000</ifrs-gp:ProceedsFromInterestReceivedClassifiedAsOperating>
+				<ifrs-gp:ProceedsFromInterestReceivedClassifiedAsOperating decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">44907000</ifrs-gp:ProceedsFromInterestReceivedClassifiedAsOperating>
+				<ipp-com:CobrosPagosImpuestoSobreBeneficios decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">7651000</ipp-com:CobrosPagosImpuestoSobreBeneficios>
+				<ipp-com:CobrosPagosImpuestoSobreBeneficios decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">-173344000</ipp-com:CobrosPagosImpuestoSobreBeneficios>
+				<ifrs-gp:OtherInflowsOutflowsFromOtherOperatingActivities decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">321000</ifrs-gp:OtherInflowsOutflowsFromOtherOperatingActivities>
+				<ifrs-gp:OtherInflowsOutflowsFromOtherOperatingActivities decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">729000</ifrs-gp:OtherInflowsOutflowsFromOtherOperatingActivities>
+				<ipp-gen:FlujosEfectivoActividadesInversionNacional decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">-685114000</ipp-gen:FlujosEfectivoActividadesInversionNacional>
+				<ipp-gen:FlujosEfectivoActividadesInversionNacional decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">-1000694000</ipp-gen:FlujosEfectivoActividadesInversionNacional>
+				<es-be-fs:InversionesFlujosEfectivoActividadesInversion decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">-821261000</es-be-fs:InversionesFlujosEfectivoActividadesInversion>
+				<es-be-fs:InversionesFlujosEfectivoActividadesInversion decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">-1011920000</es-be-fs:InversionesFlujosEfectivoActividadesInversion>
+				<ipp-gen:EmpresasGrupoAsociadasPagos decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">-812044000</ipp-gen:EmpresasGrupoAsociadasPagos>
+				<ipp-gen:EmpresasGrupoAsociadasPagos decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">-996658000</ipp-gen:EmpresasGrupoAsociadasPagos>
+				<ipp-gen:InmovilizadoMaterialIntangibleInversionesInmobiliariasPagos decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">-9195000</ipp-gen:InmovilizadoMaterialIntangibleInversionesInmobiliariasPagos>
+				<ipp-gen:InmovilizadoMaterialIntangibleInversionesInmobiliariasPagos decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">-15242000</ipp-gen:InmovilizadoMaterialIntangibleInversionesInmobiliariasPagos>
+				<ipp-gen:OtrosActivosPagos decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">-22000</ipp-gen:OtrosActivosPagos>
+				<ipp-gen:OtrosActivosPagos decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">-20000</ipp-gen:OtrosActivosPagos>
+				<es-be-fs:DesinversionesFlujosEfectivoActividadesInversion decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">136147000</es-be-fs:DesinversionesFlujosEfectivoActividadesInversion>
+				<es-be-fs:DesinversionesFlujosEfectivoActividadesInversion decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">11226000</es-be-fs:DesinversionesFlujosEfectivoActividadesInversion>
+				<es-be-fs:EntidadesGrupoMultigrupoAsociadasDesinversiones decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">136147000</es-be-fs:EntidadesGrupoMultigrupoAsociadasDesinversiones>
+				<es-be-fs:EntidadesGrupoMultigrupoAsociadasDesinversiones decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">10428000</es-be-fs:EntidadesGrupoMultigrupoAsociadasDesinversiones>
+				<ipp-gen:InmovilizadoMaterialIntangibleInversionesInmobiliariasCobros decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">798000</ipp-gen:InmovilizadoMaterialIntangibleInversionesInmobiliariasCobros>
+				<ipp-gen:FlujosEfectivoActividadesFinanciacionNacional decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">240587000</ipp-gen:FlujosEfectivoActividadesFinanciacionNacional>
+				<ipp-gen:FlujosEfectivoActividadesFinanciacionNacional decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">-371499000</ipp-gen:FlujosEfectivoActividadesFinanciacionNacional>
+				<ipp-gen:CobrosPagosInstrumentosPasivoFinanciero decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">547033000</ipp-gen:CobrosPagosInstrumentosPasivoFinanciero>
+				<ipp-gen:CobrosPagosInstrumentosPasivoFinanciero decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">-87938000</ipp-gen:CobrosPagosInstrumentosPasivoFinanciero>
+				<ipp-gen:EmisionPasivoFinanciero decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">1720205000</ipp-gen:EmisionPasivoFinanciero>
+				<ipp-gen:EmisionPasivoFinanciero decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">1242974000</ipp-gen:EmisionPasivoFinanciero>
+				<ipp-gen:DevolucionAmortizacion decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">-1173172000</ipp-gen:DevolucionAmortizacion>
+				<ipp-gen:DevolucionAmortizacion decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">-1330912000</ipp-gen:DevolucionAmortizacion>
+				<ifrs-gp:PaymentsOfDividendsClassifiedAsFinancing decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">-306446000</ifrs-gp:PaymentsOfDividendsClassifiedAsFinancing>
+				<ifrs-gp:PaymentsOfDividendsClassifiedAsFinancing decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">-283561000</ifrs-gp:PaymentsOfDividendsClassifiedAsFinancing>
+				<ifrs-gp:EffectOfExchangeRateChangesOnCashAndCashEquivalents decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">416000</ifrs-gp:EffectOfExchangeRateChangesOnCashAndCashEquivalents>
+				<ipp-gen:AumentoDisminucionNetoEfectivoEquivalentesNacional decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">-221887000</ipp-gen:AumentoDisminucionNetoEfectivoEquivalentesNacional>
+				<ipp-gen:AumentoDisminucionNetoEfectivoEquivalentesNacional decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">-881812000</ipp-gen:AumentoDisminucionNetoEfectivoEquivalentesNacional>
+				<ipp-com:EfectivoEquivalentesEfectivoComienzoEjercicio decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">292522000</ipp-com:EfectivoEquivalentesEfectivoComienzoEjercicio>
+				<ipp-com:EfectivoEquivalentesEfectivoComienzoEjercicio decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">1174334000</ipp-com:EfectivoEquivalentesEfectivoComienzoEjercicio>
+				<ipp-gen:EfectivoEquivalentesEfectivoFinalEjercicioNacional decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">70635000</ipp-gen:EfectivoEquivalentesEfectivoFinalEjercicioNacional>
+				<ipp-gen:EfectivoEquivalentesEfectivoFinalEjercicioNacional decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">292522000</ipp-gen:EfectivoEquivalentesEfectivoFinalEjercicioNacional>
+				<ipp-com:CajaBancos decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">4933000</ipp-com:CajaBancos>
+				<ipp-com:CajaBancos decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">10720000</ipp-com:CajaBancos>
+				<ipp-com:OtrosActivosFinancieros decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">65702000</ipp-com:OtrosActivosFinancieros>
+				<ipp-com:OtrosActivosFinancieros decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">281802000</ipp-com:OtrosActivosFinancieros>
+				<ipp-com:TotalEfectivosEquivalentesFinalPeriodo decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">70635000</ipp-com:TotalEfectivosEquivalentesFinalPeriodo>
+				<ipp-com:TotalEfectivosEquivalentesFinalPeriodo decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">292522000</ipp-com:TotalEfectivosEquivalentesFinalPeriodo>
+			</ipp-gen:EstadoFlujosEfectivoIndividual>
+			<ipp-gen:BalanceConsolidado>
+				<ipp-gen:ActivoNoCorrienteNiif decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">6652652000</ipp-gen:ActivoNoCorrienteNiif>
+				<ipp-gen:ActivoNoCorrienteNiif decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">5999808000</ipp-gen:ActivoNoCorrienteNiif>
+				<ifrs-gp:IntangibleAssetsNet decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">77769000</ifrs-gp:IntangibleAssetsNet>
+				<ifrs-gp:IntangibleAssetsNet decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">77348000</ifrs-gp:IntangibleAssetsNet>
+				<ifrs-gp:GoodwillNet decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">17521000</ifrs-gp:GoodwillNet>
+				<ifrs-gp:GoodwillNet decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">17521000</ifrs-gp:GoodwillNet>
+				<ifrs-gp:IdentifiableIntangibleAssetsNet decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">60248000</ifrs-gp:IdentifiableIntangibleAssetsNet>
+				<ifrs-gp:IdentifiableIntangibleAssetsNet decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">59827000</ifrs-gp:IdentifiableIntangibleAssetsNet>
+				<ifrs-gp:PropertyPlantAndEquipmentNet decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">5336848000</ifrs-gp:PropertyPlantAndEquipmentNet>
+				<ifrs-gp:PropertyPlantAndEquipmentNet decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">5593384000</ifrs-gp:PropertyPlantAndEquipmentNet>
+				<ifrs-gp:InvestmentProperty decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">25080000</ifrs-gp:InvestmentProperty>
+				<ifrs-gp:EquityMethodAccountedInvestmentsTotal decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">740636000</ifrs-gp:EquityMethodAccountedInvestmentsTotal>
+				<ifrs-gp:EquityMethodAccountedInvestmentsTotal decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">254633000</ifrs-gp:EquityMethodAccountedInvestmentsTotal>
+				<ifrs-gp:OtherFinancialAssetsNonCurrent decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">399906000</ifrs-gp:OtherFinancialAssetsNonCurrent>
+				<ifrs-gp:OtherFinancialAssetsNonCurrent decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">16884000</ifrs-gp:OtherFinancialAssetsNonCurrent>
+				<ifrs-gp:DeferredTaxAssets decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">72413000</ifrs-gp:DeferredTaxAssets>
+				<ifrs-gp:DeferredTaxAssets decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">57559000</ifrs-gp:DeferredTaxAssets>
+				<ipp-gen:ActivoCorrienteNiif decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">1059207000</ipp-gen:ActivoCorrienteNiif>
+				<ipp-gen:ActivoCorrienteNiif decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">1043690000</ipp-gen:ActivoCorrienteNiif>
+				<ifrs-gp:Inventories decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">15686000</ifrs-gp:Inventories>
+				<ifrs-gp:Inventories decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">15138000</ifrs-gp:Inventories>
+				<ifrs-gp:TradeAndOtherReceivablesNetCurrent decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">484469000</ifrs-gp:TradeAndOtherReceivablesNetCurrent>
+				<ifrs-gp:TradeAndOtherReceivablesNetCurrent decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">687765000</ifrs-gp:TradeAndOtherReceivablesNetCurrent>
+				<ipp-gen:ClientesVentasPrestacionesServicios decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">24661000</ipp-gen:ClientesVentasPrestacionesServicios>
+				<ipp-gen:ClientesVentasPrestacionesServicios decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">9688000</ipp-gen:ClientesVentasPrestacionesServicios>
+				<ipp-gen:OtrosDeudores decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">430303000</ipp-gen:OtrosDeudores>
+				<ipp-gen:OtrosDeudores decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">644113000</ipp-gen:OtrosDeudores>
+				<ifrs-gp:CurrentTaxReceivables decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">29505000</ifrs-gp:CurrentTaxReceivables>
+				<ifrs-gp:CurrentTaxReceivables decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">33964000</ifrs-gp:CurrentTaxReceivables>
+				<ifrs-gp:OtherFinancialAssetsCurrent decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">3220000</ifrs-gp:OtherFinancialAssetsCurrent>
+				<ifrs-gp:OtherFinancialAssetsCurrent decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">2997000</ifrs-gp:OtherFinancialAssetsCurrent>
+				<ipp-gen:OtrosActivosCorrientes decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">4383000</ipp-gen:OtrosActivosCorrientes>
+				<ipp-gen:OtrosActivosCorrientes decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">2777000</ipp-gen:OtrosActivosCorrientes>
+				<ifrs-gp:CashAndCashEquivalents decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">551449000</ifrs-gp:CashAndCashEquivalents>
+				<ifrs-gp:CashAndCashEquivalents decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">335013000</ifrs-gp:CashAndCashEquivalents>
+				<ipp-gen:TotalActivoNiif decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">7711859000</ipp-gen:TotalActivoNiif>
+				<ipp-gen:TotalActivoNiif decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">7043498000</ipp-gen:TotalActivoNiif>
+				<ipp-gen:PatrimonioNetoNiif decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">2260316000</ipp-gen:PatrimonioNetoNiif>
+				<ipp-gen:PatrimonioNetoNiif decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">2139375000</ipp-gen:PatrimonioNetoNiif>
+				<ifrs-gp:EquityAttributableToEquityHoldersOfParent decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">2246069000</ifrs-gp:EquityAttributableToEquityHoldersOfParent>
+				<ifrs-gp:EquityAttributableToEquityHoldersOfParent decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">2125469000</ifrs-gp:EquityAttributableToEquityHoldersOfParent>
+				<ipp-gen:FondosPropiosNiif decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">2218514000</ipp-gen:FondosPropiosNiif>
+				<ipp-gen:FondosPropiosNiif decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">2118427000</ipp-gen:FondosPropiosNiif>
+				<es-be-fs:CapitalFondoDotacion decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">358101000</es-be-fs:CapitalFondoDotacion>
+				<es-be-fs:CapitalFondoDotacion decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">358101000</es-be-fs:CapitalFondoDotacion>
+				<ifrs-gp:IssuedCapital decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">358101000</ifrs-gp:IssuedCapital>
+				<ifrs-gp:OtherReserves decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">1578022000</ifrs-gp:OtherReserves>
+				<ifrs-gp:OtherReserves decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">1477226000</ifrs-gp:OtherReserves>
+				<es-be-fs:ResultadoAtribuidoGrupoBalance decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">406533000</es-be-fs:ResultadoAtribuidoGrupoBalance>
+				<es-be-fs:ResultadoAtribuidoGrupoBalance decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">403183000</es-be-fs:ResultadoAtribuidoGrupoBalance>
+				<es-be-fs:MenosDividendosRetribuciones decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">-124142000</es-be-fs:MenosDividendosRetribuciones>
+				<es-be-fs:MenosDividendosRetribuciones decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">-120083000</es-be-fs:MenosDividendosRetribuciones>
+				<ipp-gen:AjustesValoracionNiif decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">27555000</ipp-gen:AjustesValoracionNiif>
+				<ipp-com:OperacionesCobertura decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">-1668000</ipp-com:OperacionesCobertura>
+				<ipp-com:OperacionesCobertura decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">10425000</ipp-com:OperacionesCobertura>
+				<ipp-gen:DiferenciasConversion decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">29223000</ipp-gen:DiferenciasConversion>
+				<ipp-gen:DiferenciasConversion decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">-3383000</ipp-gen:DiferenciasConversion>
+				<ifrs-gp:MinorityInterest decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">14247000</ifrs-gp:MinorityInterest>
+				<ifrs-gp:MinorityInterest decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">13906000</ifrs-gp:MinorityInterest>
+				<ipp-gen:PasivoNoCorrienteNiif decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">4272494000</ipp-gen:PasivoNoCorrienteNiif>
+				<ipp-gen:PasivoNoCorrienteNiif decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">4174130000</ipp-gen:PasivoNoCorrienteNiif>
+				<ifrs-gp:ProvisionsNonCurrent decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">163340000</ifrs-gp:ProvisionsNonCurrent>
+				<ifrs-gp:ProvisionsNonCurrent decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">169699000</ifrs-gp:ProvisionsNonCurrent>
+				<ipp-gen:DeudasLargoPlazo decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">3735102000</ipp-gen:DeudasLargoPlazo>
+				<ipp-gen:DeudasLargoPlazo decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">3526356000</ipp-gen:DeudasLargoPlazo>
+				<ipp-gen:DeudasEntidadesFinancierasLargoPlazo decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">3735091000</ipp-gen:DeudasEntidadesFinancierasLargoPlazo>
+				<ipp-gen:DeudasEntidadesFinancierasLargoPlazo decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">3526351000</ipp-gen:DeudasEntidadesFinancierasLargoPlazo>
+				<ifrs-gp:OtherFinancialLiabilitiesNonCurrent decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">11000</ifrs-gp:OtherFinancialLiabilitiesNonCurrent>
+				<ifrs-gp:OtherFinancialLiabilitiesNonCurrent decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">5000</ifrs-gp:OtherFinancialLiabilitiesNonCurrent>
+				<ifrs-gp:DeferredTaxLiabilities decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">318001000</ifrs-gp:DeferredTaxLiabilities>
+				<ifrs-gp:DeferredTaxLiabilities decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">400788000</ifrs-gp:DeferredTaxLiabilities>
+				<ifrs-gp:OtherLiabilitiesNonCurrent decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">56051000</ifrs-gp:OtherLiabilitiesNonCurrent>
+				<ifrs-gp:OtherLiabilitiesNonCurrent decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">77287000</ifrs-gp:OtherLiabilitiesNonCurrent>
+				<ipp-gen:PasivoCorrienteNiif decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">1179049000</ipp-gen:PasivoCorrienteNiif>
+				<ipp-gen:PasivoCorrienteNiif decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">729993000</ipp-gen:PasivoCorrienteNiif>
+				<ipp-gen:DeudasCortoPlazo decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">943241000</ipp-gen:DeudasCortoPlazo>
+				<ipp-gen:DeudasCortoPlazo decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">482861000</ipp-gen:DeudasCortoPlazo>
+				<ipp-gen:DeudasEntidadesFinancierasCortoPlazo decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">943241000</ipp-gen:DeudasEntidadesFinancierasCortoPlazo>
+				<ipp-gen:DeudasEntidadesFinancierasCortoPlazo decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">482861000</ipp-gen:DeudasEntidadesFinancierasCortoPlazo>
+				<ipp-gen:AcreedoresComercialesOtrasCuentasPagar decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">235808000</ipp-gen:AcreedoresComercialesOtrasCuentasPagar>
+				<ipp-gen:AcreedoresComercialesOtrasCuentasPagar decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">247132000</ipp-gen:AcreedoresComercialesOtrasCuentasPagar>
+				<ifrs-gp:TradeAndOtherPayablesCurrent decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">198299000</ifrs-gp:TradeAndOtherPayablesCurrent>
+				<ifrs-gp:TradeAndOtherPayablesCurrent decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">202891000</ifrs-gp:TradeAndOtherPayablesCurrent>
+				<ipp-gen:OtrosAcreedores decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">5276000</ipp-gen:OtrosAcreedores>
+				<ipp-gen:OtrosAcreedores decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">4851000</ipp-gen:OtrosAcreedores>
+				<ifrs-gp:CurrentTaxPayables decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">32233000</ifrs-gp:CurrentTaxPayables>
+				<ifrs-gp:CurrentTaxPayables decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">39390000</ifrs-gp:CurrentTaxPayables>
+				<ipp-gen:TotalPasivoPatrimonioNetoNiif decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">7711859000</ipp-gen:TotalPasivoPatrimonioNetoNiif>
+				<ipp-gen:TotalPasivoPatrimonioNetoNiif decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">7043498000</ipp-gen:TotalPasivoPatrimonioNetoNiif>
+				<ifrs-gp:IssuedCapital decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">358101000</ifrs-gp:IssuedCapital>
+				<ipp-gen:AjustesValoracionNiif decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">7042000</ipp-gen:AjustesValoracionNiif>
+			</ipp-gen:BalanceConsolidado>
+			<ipp-gen:CuentaPerdidasGananciasConsolidada>
+				<ifrs-gp:RevenueTotalByNature decimals="0" contextRef="S22014_A-28294726_dcoc" unitRef="euro">576864000</ifrs-gp:RevenueTotalByNature>
+				<ifrs-gp:RevenueTotalByNature decimals="0" contextRef="S22013_A-28294726_dpoc" unitRef="euro">624376000</ifrs-gp:RevenueTotalByNature>
+				<ifrs-gp:RevenueTotalByNature decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">1206192000</ifrs-gp:RevenueTotalByNature>
+				<ifrs-gp:RevenueTotalByNature decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">1232982000</ifrs-gp:RevenueTotalByNature>
+				<ifrs-gp:OtherOperatingIncomeTotalByNature decimals="0" contextRef="S22014_A-28294726_dcoc" unitRef="euro">11923000</ifrs-gp:OtherOperatingIncomeTotalByNature>
+				<ifrs-gp:OtherOperatingIncomeTotalByNature decimals="0" contextRef="S22013_A-28294726_dpoc" unitRef="euro">10810000</ifrs-gp:OtherOperatingIncomeTotalByNature>
+				<ifrs-gp:OtherOperatingIncomeTotalByNature decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">20989000</ifrs-gp:OtherOperatingIncomeTotalByNature>
+				<ifrs-gp:OtherOperatingIncomeTotalByNature decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">28877000</ifrs-gp:OtherOperatingIncomeTotalByNature>
+				<ifrs-gp:EmployeeExpensesByNature decimals="0" contextRef="S22014_A-28294726_dcoc" unitRef="euro">-43045000</ifrs-gp:EmployeeExpensesByNature>
+				<ifrs-gp:EmployeeExpensesByNature decimals="0" contextRef="S22013_A-28294726_dpoc" unitRef="euro">-42412000</ifrs-gp:EmployeeExpensesByNature>
+				<ifrs-gp:EmployeeExpensesByNature decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">-84695000</ifrs-gp:EmployeeExpensesByNature>
+				<ifrs-gp:EmployeeExpensesByNature decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">-82280000</ifrs-gp:EmployeeExpensesByNature>
+				<ifrs-gp:MiscellaneousOtherOperatingExpensesByNature decimals="0" contextRef="S22014_A-28294726_dcoc" unitRef="euro">-113357000</ifrs-gp:MiscellaneousOtherOperatingExpensesByNature>
+				<ifrs-gp:MiscellaneousOtherOperatingExpensesByNature decimals="0" contextRef="S22013_A-28294726_dpoc" unitRef="euro">-85067000</ifrs-gp:MiscellaneousOtherOperatingExpensesByNature>
+				<ifrs-gp:MiscellaneousOtherOperatingExpensesByNature decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">-202803000</ifrs-gp:MiscellaneousOtherOperatingExpensesByNature>
+				<ifrs-gp:MiscellaneousOtherOperatingExpensesByNature decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">-183745000</ifrs-gp:MiscellaneousOtherOperatingExpensesByNature>
+				<ifrs-gp:DepreciationAndAmortisation decimals="0" contextRef="S22014_A-28294726_dcoc" unitRef="euro">-149914000</ifrs-gp:DepreciationAndAmortisation>
+				<ifrs-gp:DepreciationAndAmortisation decimals="0" contextRef="S22013_A-28294726_dpoc" unitRef="euro">-168688000</ifrs-gp:DepreciationAndAmortisation>
+				<ifrs-gp:DepreciationAndAmortisation decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">-314900000</ifrs-gp:DepreciationAndAmortisation>
+				<ifrs-gp:DepreciationAndAmortisation decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">-328967000</ifrs-gp:DepreciationAndAmortisation>
+				<ipp-gen:ResultadoExplotacionNiif decimals="0" contextRef="S22014_A-28294726_dcoc" unitRef="euro">250763000</ipp-gen:ResultadoExplotacionNiif>
+				<ipp-gen:ResultadoExplotacionNiif decimals="0" contextRef="S22013_A-28294726_dpoc" unitRef="euro">321925000</ipp-gen:ResultadoExplotacionNiif>
+				<ipp-gen:ResultadoExplotacionNiif decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">589617000</ipp-gen:ResultadoExplotacionNiif>
+				<ipp-gen:ResultadoExplotacionNiif decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">649732000</ipp-gen:ResultadoExplotacionNiif>
+				<ipp-gen:DeterioroResultadoEnajenacionesInmovilizado decimals="0" contextRef="S22014_A-28294726_dcoc" unitRef="euro">-31708000</ipp-gen:DeterioroResultadoEnajenacionesInmovilizado>
+				<ipp-gen:DeterioroResultadoEnajenacionesInmovilizado decimals="0" contextRef="S22013_A-28294726_dpoc" unitRef="euro">-17094000</ipp-gen:DeterioroResultadoEnajenacionesInmovilizado>
+				<ipp-gen:DeterioroResultadoEnajenacionesInmovilizado decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">-35166000</ipp-gen:DeterioroResultadoEnajenacionesInmovilizado>
+				<ipp-gen:DeterioroResultadoEnajenacionesInmovilizado decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">-17135000</ipp-gen:DeterioroResultadoEnajenacionesInmovilizado>
+				<ipp-gen:IngresosFinancieros decimals="0" contextRef="S22014_A-28294726_dcoc" unitRef="euro">5938000</ipp-gen:IngresosFinancieros>
+				<ipp-gen:IngresosFinancieros decimals="0" contextRef="S22013_A-28294726_dpoc" unitRef="euro">10890000</ipp-gen:IngresosFinancieros>
+				<ipp-gen:IngresosFinancieros decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">12087000</ipp-gen:IngresosFinancieros>
+				<ipp-gen:IngresosFinancieros decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">24176000</ipp-gen:IngresosFinancieros>
+				<ifrs-gp:FinanceCostsForNonFinancialActivities decimals="0" contextRef="S22014_A-28294726_dcoc" unitRef="euro">-66064000</ifrs-gp:FinanceCostsForNonFinancialActivities>
+				<ifrs-gp:FinanceCostsForNonFinancialActivities decimals="0" contextRef="S22013_A-28294726_dpoc" unitRef="euro">-59757000</ifrs-gp:FinanceCostsForNonFinancialActivities>
+				<ifrs-gp:FinanceCostsForNonFinancialActivities decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">-126366000</ifrs-gp:FinanceCostsForNonFinancialActivities>
+				<ifrs-gp:FinanceCostsForNonFinancialActivities decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">-124408000</ifrs-gp:FinanceCostsForNonFinancialActivities>
+				<ipp-gen:VariacionValorRazonableInstrumentosFinancieros decimals="0" contextRef="S22014_A-28294726_dcoc" unitRef="euro">2583000</ipp-gen:VariacionValorRazonableInstrumentosFinancieros>
+				<ipp-gen:VariacionValorRazonableInstrumentosFinancieros decimals="0" contextRef="S22013_A-28294726_dpoc" unitRef="euro">1074000</ipp-gen:VariacionValorRazonableInstrumentosFinancieros>
+				<ipp-gen:VariacionValorRazonableInstrumentosFinancieros decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">231000</ipp-gen:VariacionValorRazonableInstrumentosFinancieros>
+				<ipp-gen:VariacionValorRazonableInstrumentosFinancieros decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">1074000</ipp-gen:VariacionValorRazonableInstrumentosFinancieros>
+				<ifrs-gp:GainsLossesOnFinancialInstrumentsExchangeDifferenceRevaluations decimals="0" contextRef="S22014_A-28294726_dcoc" unitRef="euro">7897000</ifrs-gp:GainsLossesOnFinancialInstrumentsExchangeDifferenceRevaluations>
+				<ifrs-gp:GainsLossesOnFinancialInstrumentsExchangeDifferenceRevaluations decimals="0" contextRef="S22013_A-28294726_dpoc" unitRef="euro">-5464000</ifrs-gp:GainsLossesOnFinancialInstrumentsExchangeDifferenceRevaluations>
+				<ifrs-gp:GainsLossesOnFinancialInstrumentsExchangeDifferenceRevaluations decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">8542000</ifrs-gp:GainsLossesOnFinancialInstrumentsExchangeDifferenceRevaluations>
+				<ifrs-gp:GainsLossesOnFinancialInstrumentsExchangeDifferenceRevaluations decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">-4707000</ifrs-gp:GainsLossesOnFinancialInstrumentsExchangeDifferenceRevaluations>
+				<ipp-gen:ResultadoFinanciero decimals="0" contextRef="S22014_A-28294726_dcoc" unitRef="euro">-49646000</ipp-gen:ResultadoFinanciero>
+				<ipp-gen:ResultadoFinanciero decimals="0" contextRef="S22013_A-28294726_dpoc" unitRef="euro">-53257000</ipp-gen:ResultadoFinanciero>
+				<ipp-gen:ResultadoFinanciero decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">-105506000</ipp-gen:ResultadoFinanciero>
+				<ipp-gen:ResultadoFinanciero decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">-103865000</ipp-gen:ResultadoFinanciero>
+				<ifrs-gp:ShareOfProfitLossFromEquityAccountedInvestments decimals="0" contextRef="S22014_A-28294726_dcoc" unitRef="euro">-1742000</ifrs-gp:ShareOfProfitLossFromEquityAccountedInvestments>
+				<ifrs-gp:ShareOfProfitLossFromEquityAccountedInvestments decimals="0" contextRef="S22013_A-28294726_dpoc" unitRef="euro">6584000</ifrs-gp:ShareOfProfitLossFromEquityAccountedInvestments>
+				<ifrs-gp:ShareOfProfitLossFromEquityAccountedInvestments decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">11160000</ifrs-gp:ShareOfProfitLossFromEquityAccountedInvestments>
+				<ifrs-gp:ShareOfProfitLossFromEquityAccountedInvestments decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">14879000</ifrs-gp:ShareOfProfitLossFromEquityAccountedInvestments>
+				<ipp-gen:ResultadoAntesImpuestosNiif decimals="0" contextRef="S22014_A-28294726_dcoc" unitRef="euro">199375000</ipp-gen:ResultadoAntesImpuestosNiif>
+				<ipp-gen:ResultadoAntesImpuestosNiif decimals="0" contextRef="S22013_A-28294726_dpoc" unitRef="euro">275252000</ipp-gen:ResultadoAntesImpuestosNiif>
+				<ipp-gen:ResultadoAntesImpuestosNiif decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">495271000</ipp-gen:ResultadoAntesImpuestosNiif>
+				<ipp-gen:ResultadoAntesImpuestosNiif decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">560746000</ipp-gen:ResultadoAntesImpuestosNiif>
+				<ifrs-gp:IncomeTaxExpenseIncome decimals="0" contextRef="S22014_A-28294726_dcoc" unitRef="euro">-2345000</ifrs-gp:IncomeTaxExpenseIncome>
+				<ifrs-gp:IncomeTaxExpenseIncome decimals="0" contextRef="S22013_A-28294726_dpoc" unitRef="euro">-73413000</ifrs-gp:IncomeTaxExpenseIncome>
+				<ifrs-gp:IncomeTaxExpenseIncome decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">-87627000</ifrs-gp:IncomeTaxExpenseIncome>
+				<ifrs-gp:IncomeTaxExpenseIncome decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">-156490000</ifrs-gp:IncomeTaxExpenseIncome>
+				<ipp-gen:ResultadoEjercicioProcedenteOperacionesContinuadasNiif decimals="0" contextRef="S22014_A-28294726_dcoc" unitRef="euro">197030000</ipp-gen:ResultadoEjercicioProcedenteOperacionesContinuadasNiif>
+				<ipp-gen:ResultadoEjercicioProcedenteOperacionesContinuadasNiif decimals="0" contextRef="S22013_A-28294726_dpoc" unitRef="euro">201839000</ipp-gen:ResultadoEjercicioProcedenteOperacionesContinuadasNiif>
+				<ipp-gen:ResultadoEjercicioProcedenteOperacionesContinuadasNiif decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">407644000</ipp-gen:ResultadoEjercicioProcedenteOperacionesContinuadasNiif>
+				<ipp-gen:ResultadoEjercicioProcedenteOperacionesContinuadasNiif decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">404256000</ipp-gen:ResultadoEjercicioProcedenteOperacionesContinuadasNiif>
+				<ipp-gen:ResultadoEjercicioNiif decimals="0" contextRef="S22014_A-28294726_dcoc" unitRef="euro">197030000</ipp-gen:ResultadoEjercicioNiif>
+				<ipp-gen:ResultadoEjercicioNiif decimals="0" contextRef="S22013_A-28294726_dpoc" unitRef="euro">201839000</ipp-gen:ResultadoEjercicioNiif>
+				<ipp-gen:ResultadoEjercicioNiif decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">407644000</ipp-gen:ResultadoEjercicioNiif>
+				<ipp-gen:ResultadoEjercicioNiif decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">404256000</ipp-gen:ResultadoEjercicioNiif>
+				<ifrs-gp:ProfitLossAttributableToEquityHoldersOfParent decimals="0" contextRef="S22014_A-28294726_dcoc" unitRef="euro">196595000</ifrs-gp:ProfitLossAttributableToEquityHoldersOfParent>
+				<ifrs-gp:ProfitLossAttributableToEquityHoldersOfParent decimals="0" contextRef="S22013_A-28294726_dpoc" unitRef="euro">201047000</ifrs-gp:ProfitLossAttributableToEquityHoldersOfParent>
+				<ifrs-gp:ProfitLossAttributableToEquityHoldersOfParent decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">406533000</ifrs-gp:ProfitLossAttributableToEquityHoldersOfParent>
+				<ifrs-gp:ProfitLossAttributableToEquityHoldersOfParent decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">403183000</ifrs-gp:ProfitLossAttributableToEquityHoldersOfParent>
+				<ifrs-gp:ProfitLossAttributableToMinorityInterest decimals="0" contextRef="S22014_A-28294726_dcoc" unitRef="euro">435000</ifrs-gp:ProfitLossAttributableToMinorityInterest>
+				<ifrs-gp:ProfitLossAttributableToMinorityInterest decimals="0" contextRef="S22013_A-28294726_dpoc" unitRef="euro">792000</ifrs-gp:ProfitLossAttributableToMinorityInterest>
+				<ifrs-gp:ProfitLossAttributableToMinorityInterest decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">1111000</ifrs-gp:ProfitLossAttributableToMinorityInterest>
+				<ifrs-gp:ProfitLossAttributableToMinorityInterest decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">1073000</ifrs-gp:ProfitLossAttributableToMinorityInterest>
+				<ifrs-gp:BasicEarningsLossPerShare decimals="2" contextRef="S22014_A-28294726_dcoc" unitRef="pure">0.82</ifrs-gp:BasicEarningsLossPerShare>
+				<ifrs-gp:BasicEarningsLossPerShare decimals="2" contextRef="S22013_A-28294726_dpoc" unitRef="pure">84.00</ifrs-gp:BasicEarningsLossPerShare>
+				<ifrs-gp:BasicEarningsLossPerShare decimals="2" contextRef="S22014_A-28294726_dcc" unitRef="pure">1.70</ifrs-gp:BasicEarningsLossPerShare>
+				<ifrs-gp:BasicEarningsLossPerShare decimals="2" contextRef="S22013_A-28294726_dpac" unitRef="pure">1.69</ifrs-gp:BasicEarningsLossPerShare>
+				<ifrs-gp:DilutedEarningsLossPerShare decimals="2" contextRef="S22014_A-28294726_dcoc" unitRef="pure">0.82</ifrs-gp:DilutedEarningsLossPerShare>
+				<ifrs-gp:DilutedEarningsLossPerShare decimals="2" contextRef="S22013_A-28294726_dpoc" unitRef="pure">84.00</ifrs-gp:DilutedEarningsLossPerShare>
+				<ifrs-gp:DilutedEarningsLossPerShare decimals="2" contextRef="S22014_A-28294726_dcc" unitRef="pure">1.70</ifrs-gp:DilutedEarningsLossPerShare>
+				<ifrs-gp:DilutedEarningsLossPerShare decimals="2" contextRef="S22013_A-28294726_dpac" unitRef="pure">1.69</ifrs-gp:DilutedEarningsLossPerShare>
+			</ipp-gen:CuentaPerdidasGananciasConsolidada>
+			<ipp-gen:EstadoIngresosGastosReconocidosConsolidado>
+				<ifrs-gp:ProfitLoss decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">407644000</ifrs-gp:ProfitLoss>
+				<ifrs-gp:ProfitLoss decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">404256000</ifrs-gp:ProfitLoss>
+				<ipp-gen:IngresosGastosImputadosDirectamentePatrimonioNetoNiif decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">17241000</ipp-gen:IngresosGastosImputadosDirectamentePatrimonioNetoNiif>
+				<ipp-gen:IngresosGastosImputadosDirectamentePatrimonioNetoNiif decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">2084000</ipp-gen:IngresosGastosImputadosDirectamentePatrimonioNetoNiif>
+				<ipp-gen:CoberturasFlujosEfectivoPatrimonioNeto decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">-20649000</ipp-gen:CoberturasFlujosEfectivoPatrimonioNeto>
+				<ipp-gen:CoberturasFlujosEfectivoPatrimonioNeto decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">11131000</ipp-gen:CoberturasFlujosEfectivoPatrimonioNeto>
+				<ipp-gen:DiferenciasConversionPatrimonioNeto decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">32606000</ipp-gen:DiferenciasConversionPatrimonioNeto>
+				<ipp-gen:DiferenciasConversionPatrimonioNeto decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">-6968000</ipp-gen:DiferenciasConversionPatrimonioNeto>
+				<ipp-gen:EfectoImpositivoPatrimonioNeto decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">5284000</ipp-gen:EfectoImpositivoPatrimonioNeto>
+				<ipp-gen:EfectoImpositivoPatrimonioNeto decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">-2079000</ipp-gen:EfectoImpositivoPatrimonioNeto>
+				<ipp-gen:TransferenciasCuentaPerdidasGananciasNiif decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">3272000</ipp-gen:TransferenciasCuentaPerdidasGananciasNiif>
+				<ipp-gen:TransferenciasCuentaPerdidasGananciasNiif decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">15052000</ipp-gen:TransferenciasCuentaPerdidasGananciasNiif>
+				<ipp-gen:CoberturasFlujosEfectivoPerdidasGanancias decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">5243000</ipp-gen:CoberturasFlujosEfectivoPerdidasGanancias>
+				<ipp-gen:CoberturasFlujosEfectivoPerdidasGanancias decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">20406000</ipp-gen:CoberturasFlujosEfectivoPerdidasGanancias>
+				<ipp-gen:EfectoImpositivoPerdidasGanancias decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">-1971000</ipp-gen:EfectoImpositivoPerdidasGanancias>
+				<ipp-gen:EfectoImpositivoPerdidasGanancias decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">-5354000</ipp-gen:EfectoImpositivoPerdidasGanancias>
+				<ipp-gen:TotalIngresosGastosReconocidosNiif decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">428157000</ipp-gen:TotalIngresosGastosReconocidosNiif>
+				<ipp-gen:TotalIngresosGastosReconocidosNiif decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">421392000</ipp-gen:TotalIngresosGastosReconocidosNiif>
+				<es-be-fs:EntidadDominanteIngresosGastosTotalesEjercicio decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">1111000</es-be-fs:EntidadDominanteIngresosGastosTotalesEjercicio>
+				<es-be-fs:EntidadDominanteIngresosGastosTotalesEjercicio decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">1073000</es-be-fs:EntidadDominanteIngresosGastosTotalesEjercicio>
+				<es-be-fs:InteresesMinoritariosIngresosGastosTotalesEjercicio decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">427046000</es-be-fs:InteresesMinoritariosIngresosGastosTotalesEjercicio>
+				<es-be-fs:InteresesMinoritariosIngresosGastosTotalesEjercicio decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">420319000</es-be-fs:InteresesMinoritariosIngresosGastosTotalesEjercicio>
+			</ipp-gen:EstadoIngresosGastosReconocidosConsolidado>
+			<ipp-gen:EstadoTotalCambiosPatrimonioNetoConsolidado>
+				<ipp-com:SaldoInicial>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:CapitalPasivoPatrimonioNeto decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">358101000</ipp-com:CapitalPasivoPatrimonioNeto>
+						<ipp-com:PrimaEmisionReservas decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">1357143000</ipp-com:PrimaEmisionReservas>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">403183000</es-be-fs:ResultadoEjercicioBalance>
+						<ipp-com:AjustesCambiosValorPasivoPatrimonioNeto decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">7042000</ipp-com:AjustesCambiosValorPasivoPatrimonioNeto>
+						<ipp-com:PatrimonioNetoElemento>
+							<ifrs-gp:MinorityInterest decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">13906000</ifrs-gp:MinorityInterest>
+						</ipp-com:PatrimonioNetoElemento>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">2139375000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:SaldoInicial>
+				<ipp-com:SaldoInicial>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:CapitalPasivoPatrimonioNeto decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">358101000</ipp-com:CapitalPasivoPatrimonioNeto>
+						<ipp-com:PrimaEmisionReservas decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">1277269000</ipp-com:PrimaEmisionReservas>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">379508000</es-be-fs:ResultadoEjercicioBalance>
+						<ipp-com:AjustesCambiosValorPasivoPatrimonioNeto decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">-10094000</ipp-com:AjustesCambiosValorPasivoPatrimonioNeto>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">2004784000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:SaldoInicial>
+				<ipp-com:SaldoInicialAjustado>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:CapitalPasivoPatrimonioNeto decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">358101000</ipp-com:CapitalPasivoPatrimonioNeto>
+						<ipp-com:PrimaEmisionReservas decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">1357143000</ipp-com:PrimaEmisionReservas>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">403183000</es-be-fs:ResultadoEjercicioBalance>
+						<ipp-com:AjustesCambiosValorPasivoPatrimonioNeto decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">7042000</ipp-com:AjustesCambiosValorPasivoPatrimonioNeto>
+						<ipp-com:PatrimonioNetoElemento>
+							<ifrs-gp:MinorityInterest decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">13906000</ifrs-gp:MinorityInterest>
+						</ipp-com:PatrimonioNetoElemento>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">2139375000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:SaldoInicialAjustado>
+				<ipp-com:IngresosGastosReconocidos>
+					<ipp-com:PatrimonioNeto>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">406533000</es-be-fs:ResultadoEjercicioBalance>
+						<ipp-com:AjustesCambiosValorPasivoPatrimonioNeto decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">20513000</ipp-com:AjustesCambiosValorPasivoPatrimonioNeto>
+						<ipp-com:PatrimonioNetoElemento>
+							<ifrs-gp:MinorityInterest decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">1111000</ifrs-gp:MinorityInterest>
+						</ipp-com:PatrimonioNetoElemento>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">428157000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:IngresosGastosReconocidos>
+				<ipp-com:OperacionesSociosPropietarios>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:PrimaEmisionReservas decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">-124142000</ipp-com:PrimaEmisionReservas>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">-182304000</es-be-fs:ResultadoEjercicioBalance>
+						<ipp-com:PatrimonioNetoElemento>
+							<ifrs-gp:MinorityInterest decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">-770000</ifrs-gp:MinorityInterest>
+						</ipp-com:PatrimonioNetoElemento>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">-307216000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:OperacionesSociosPropietarios>
+				<ipp-com:DistribucionDividendos>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:PrimaEmisionReservas decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">-124142000</ipp-com:PrimaEmisionReservas>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">-182304000</es-be-fs:ResultadoEjercicioBalance>
+						<ipp-com:PatrimonioNetoElemento>
+							<ifrs-gp:MinorityInterest decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">-770000</ifrs-gp:MinorityInterest>
+						</ipp-com:PatrimonioNetoElemento>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">-307216000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:DistribucionDividendos>
+				<ipp-com:OtrasVariacionesPatrimonioNeto>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:PrimaEmisionReservas decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">220879000</ipp-com:PrimaEmisionReservas>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">-220879000</es-be-fs:ResultadoEjercicioBalance>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">0</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:OtrasVariacionesPatrimonioNeto>
+				<ipp-com:TraspasosPartidasPatrimonioNeto>
+					<ipp-com:PatrimonioNeto>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">-220879000</es-be-fs:ResultadoEjercicioBalance>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">-220879000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:TraspasosPartidasPatrimonioNeto>
+				<ipp-com:OtrasVariaciones>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:PrimaEmisionReservas decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">220879000</ipp-com:PrimaEmisionReservas>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">220879000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:OtrasVariaciones>
+				<ipp-com:SaldoFinal>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:CapitalPasivoPatrimonioNeto decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">358101000</ipp-com:CapitalPasivoPatrimonioNeto>
+						<ipp-com:PrimaEmisionReservas decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">1453880000</ipp-com:PrimaEmisionReservas>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">406533000</es-be-fs:ResultadoEjercicioBalance>
+						<ipp-com:AjustesCambiosValorPasivoPatrimonioNeto decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">27555000</ipp-com:AjustesCambiosValorPasivoPatrimonioNeto>
+						<ipp-com:PatrimonioNetoElemento>
+							<ifrs-gp:MinorityInterest decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">14247000</ifrs-gp:MinorityInterest>
+						</ipp-com:PatrimonioNetoElemento>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">2260316000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:SaldoFinal>
+				<ipp-com:SaldoInicialAjustado>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:CapitalPasivoPatrimonioNeto decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">358101000</ipp-com:CapitalPasivoPatrimonioNeto>
+						<ipp-com:PrimaEmisionReservas decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">1277269000</ipp-com:PrimaEmisionReservas>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">379508000</es-be-fs:ResultadoEjercicioBalance>
+						<ipp-com:AjustesCambiosValorPasivoPatrimonioNeto decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">-10094000</ipp-com:AjustesCambiosValorPasivoPatrimonioNeto>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">2004784000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:SaldoInicialAjustado>
+				<ipp-com:IngresosGastosReconocidos>
+					<ipp-com:PatrimonioNeto>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">403183000</es-be-fs:ResultadoEjercicioBalance>
+						<ipp-com:AjustesCambiosValorPasivoPatrimonioNeto decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">17136000</ipp-com:AjustesCambiosValorPasivoPatrimonioNeto>
+						<ipp-com:PatrimonioNetoElemento>
+							<ifrs-gp:MinorityInterest decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">1073000</ifrs-gp:MinorityInterest>
+						</ipp-com:PatrimonioNetoElemento>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">421392000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:IngresosGastosReconocidos>
+				<ipp-com:OperacionesSociosPropietarios>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:PrimaEmisionReservas decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">-120083000</ipp-com:PrimaEmisionReservas>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">-163478000</es-be-fs:ResultadoEjercicioBalance>
+						<ipp-com:PatrimonioNetoElemento>
+							<ifrs-gp:MinorityInterest decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">12833000</ifrs-gp:MinorityInterest>
+						</ipp-com:PatrimonioNetoElemento>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">-270728000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:OperacionesSociosPropietarios>
+				<ipp-com:DistribucionDividendos>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:PrimaEmisionReservas decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">-120083000</ipp-com:PrimaEmisionReservas>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">-163478000</es-be-fs:ResultadoEjercicioBalance>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">-283561000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:DistribucionDividendos>
+				<ipp-com:IncrementoReduccionCombinacionesNegocios>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:PatrimonioNetoElemento>
+							<ifrs-gp:MinorityInterest decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">12833000</ifrs-gp:MinorityInterest>
+						</ipp-com:PatrimonioNetoElemento>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">12833000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:IncrementoReduccionCombinacionesNegocios>
+				<ipp-com:OtrasVariacionesPatrimonioNeto>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:PrimaEmisionReservas decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">199957000</ipp-com:PrimaEmisionReservas>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">-216030000</es-be-fs:ResultadoEjercicioBalance>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">-16073000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:OtrasVariacionesPatrimonioNeto>
+				<ipp-com:TraspasosPartidasPatrimonioNeto>
+					<ipp-com:PatrimonioNeto>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">-216030000</es-be-fs:ResultadoEjercicioBalance>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">-216030000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:TraspasosPartidasPatrimonioNeto>
+				<ipp-com:OtrasVariaciones>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:PrimaEmisionReservas decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">199957000</ipp-com:PrimaEmisionReservas>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">199957000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:OtrasVariaciones>
+				<ipp-com:SaldoFinal>
+					<ipp-com:PatrimonioNeto>
+						<ipp-com:CapitalPasivoPatrimonioNeto decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">358101000</ipp-com:CapitalPasivoPatrimonioNeto>
+						<ipp-com:PrimaEmisionReservas decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">1357143000</ipp-com:PrimaEmisionReservas>
+						<es-be-fs:ResultadoEjercicioBalance decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">403183000</es-be-fs:ResultadoEjercicioBalance>
+						<ipp-com:AjustesCambiosValorPasivoPatrimonioNeto decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">7042000</ipp-com:AjustesCambiosValorPasivoPatrimonioNeto>
+						<ipp-com:PatrimonioNetoElemento>
+							<ifrs-gp:MinorityInterest decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">13906000</ifrs-gp:MinorityInterest>
+						</ipp-com:PatrimonioNetoElemento>
+						<ifrs-gp:EquityTotal decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">2139375000</ifrs-gp:EquityTotal>
+					</ipp-com:PatrimonioNeto>
+				</ipp-com:SaldoFinal>
+			</ipp-gen:EstadoTotalCambiosPatrimonioNetoConsolidado>
+			<ipp-gen:EstadoFlujosEfectivoConsolidadoMetodoIndirecto>
+				<ipp-gen:FlujosEfectivoActividadesExplotacionIndirectoNiif decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">556764000</ipp-gen:FlujosEfectivoActividadesExplotacionIndirectoNiif>
+				<ipp-gen:FlujosEfectivoActividadesExplotacionIndirectoNiif decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">550787000</ipp-gen:FlujosEfectivoActividadesExplotacionIndirectoNiif>
+				<ifrs-gp:ProfitLossBeforeTax decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">495271000</ifrs-gp:ProfitLossBeforeTax>
+				<ifrs-gp:ProfitLossBeforeTax decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">560746000</ifrs-gp:ProfitLossBeforeTax>
+				<ipp-gen:AjustesResultadoFlujosEfectivoActividadesExplotacion decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">432827000</ipp-gen:AjustesResultadoFlujosEfectivoActividadesExplotacion>
+				<ipp-gen:AjustesResultadoFlujosEfectivoActividadesExplotacion decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">411668000</ipp-gen:AjustesResultadoFlujosEfectivoActividadesExplotacion>
+				<ifrs-gp:DepreciationAndAmortisation decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">314900000</ifrs-gp:DepreciationAndAmortisation>
+				<ifrs-gp:DepreciationAndAmortisation decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">328967000</ifrs-gp:DepreciationAndAmortisation>
+				<ipp-com:OtrosAjustes decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">117927000</ipp-com:OtrosAjustes>
+				<ipp-com:OtrosAjustes decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">82701000</ipp-com:OtrosAjustes>
+				<ifrs-gp:IncreaseDecreaseInWorkingCapitalNet decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">-80598000</ifrs-gp:IncreaseDecreaseInWorkingCapitalNet>
+				<ifrs-gp:IncreaseDecreaseInWorkingCapitalNet decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">-120374000</ifrs-gp:IncreaseDecreaseInWorkingCapitalNet>
+				<ipp-gen:OtrosFlujosEfectivoActividadesExplotacionIndirectoNiif decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">-290736000</ipp-gen:OtrosFlujosEfectivoActividadesExplotacionIndirectoNiif>
+				<ipp-gen:OtrosFlujosEfectivoActividadesExplotacionIndirectoNiif decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">-301253000</ipp-gen:OtrosFlujosEfectivoActividadesExplotacionIndirectoNiif>
+				<ifrs-gp:PaymentsOfInterestClassifiedAsOperating decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">-118226000</ifrs-gp:PaymentsOfInterestClassifiedAsOperating>
+				<ifrs-gp:PaymentsOfInterestClassifiedAsOperating decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">-123015000</ifrs-gp:PaymentsOfInterestClassifiedAsOperating>
+				<ifrs-gp:ProceedsFromInterestReceivedClassifiedAsOperating decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">8262000</ifrs-gp:ProceedsFromInterestReceivedClassifiedAsOperating>
+				<ifrs-gp:ProceedsFromInterestReceivedClassifiedAsOperating decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">18414000</ifrs-gp:ProceedsFromInterestReceivedClassifiedAsOperating>
+				<ipp-com:CobrosPagosImpuestoSobreBeneficios decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">-190239000</ipp-com:CobrosPagosImpuestoSobreBeneficios>
+				<ipp-com:CobrosPagosImpuestoSobreBeneficios decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">-194311000</ipp-com:CobrosPagosImpuestoSobreBeneficios>
+				<ifrs-gp:OtherInflowsOutflowsFromOtherOperatingActivities decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">9467000</ifrs-gp:OtherInflowsOutflowsFromOtherOperatingActivities>
+				<ifrs-gp:OtherInflowsOutflowsFromOtherOperatingActivities decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">-2341000</ifrs-gp:OtherInflowsOutflowsFromOtherOperatingActivities>
+				<ipp-gen:FlujosEfectivoActividadesInversionIndirectoNiif decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">-636879000</ipp-gen:FlujosEfectivoActividadesInversionIndirectoNiif>
+				<ipp-gen:FlujosEfectivoActividadesInversionIndirectoNiif decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">-434602000</ipp-gen:FlujosEfectivoActividadesInversionIndirectoNiif>
+				<es-be-fs:InversionesFlujosEfectivoActividadesInversion decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">-706795000</es-be-fs:InversionesFlujosEfectivoActividadesInversion>
+				<es-be-fs:InversionesFlujosEfectivoActividadesInversion decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">-466523000</es-be-fs:InversionesFlujosEfectivoActividadesInversion>
+				<ipp-gen:EmpresasGrupoAsociadasPagos decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">-531138000</ipp-gen:EmpresasGrupoAsociadasPagos>
+				<ipp-gen:EmpresasGrupoAsociadasPagos decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">-262002000</ipp-gen:EmpresasGrupoAsociadasPagos>
+				<ipp-gen:InmovilizadoMaterialIntangibleInversionesInmobiliariasPagos decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">-140343000</ipp-gen:InmovilizadoMaterialIntangibleInversionesInmobiliariasPagos>
+				<ipp-gen:InmovilizadoMaterialIntangibleInversionesInmobiliariasPagos decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">-204296000</ipp-gen:InmovilizadoMaterialIntangibleInversionesInmobiliariasPagos>
+				<ipp-gen:ActivosFinancierosPagos decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">-225000</ipp-gen:ActivosFinancierosPagos>
+				<ipp-gen:OtrosActivosPagos decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">-35314000</ipp-gen:OtrosActivosPagos>
+				<es-be-fs:DesinversionesFlujosEfectivoActividadesInversion decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">37038000</es-be-fs:DesinversionesFlujosEfectivoActividadesInversion>
+				<es-be-fs:DesinversionesFlujosEfectivoActividadesInversion decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">11757000</es-be-fs:DesinversionesFlujosEfectivoActividadesInversion>
+				<es-be-fs:EntidadesGrupoMultigrupoAsociadasDesinversiones decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">11757000</es-be-fs:EntidadesGrupoMultigrupoAsociadasDesinversiones>
+				<ipp-gen:OtrosActivosCobros decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">37038000</ipp-gen:OtrosActivosCobros>
+				<ipp-gen:OtrosFlujosEfectivoActividadesInversionTotalIndirecto decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">32878000</ipp-gen:OtrosFlujosEfectivoActividadesInversionTotalIndirecto>
+				<ipp-gen:OtrosFlujosEfectivoActividadesInversionTotalIndirecto decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">20164000</ipp-gen:OtrosFlujosEfectivoActividadesInversionTotalIndirecto>
+				<ifrs-gp:OtherCashFlowsFromUsedInInvestingActivities decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">32878000</ifrs-gp:OtherCashFlowsFromUsedInInvestingActivities>
+				<ifrs-gp:OtherCashFlowsFromUsedInInvestingActivities decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">20164000</ifrs-gp:OtherCashFlowsFromUsedInInvestingActivities>
+				<ipp-gen:FlujosEfectivoActividadesFinanciacionIndirectoNiif decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">296551000</ipp-gen:FlujosEfectivoActividadesFinanciacionIndirectoNiif>
+				<ipp-gen:FlujosEfectivoActividadesFinanciacionIndirectoNiif decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">-1247046000</ipp-gen:FlujosEfectivoActividadesFinanciacionIndirectoNiif>
+				<ipp-gen:CobrosPagosInstrumentosPasivoFinanciero decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">603766000</ipp-gen:CobrosPagosInstrumentosPasivoFinanciero>
+				<ipp-gen:CobrosPagosInstrumentosPasivoFinanciero decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">-963485000</ipp-gen:CobrosPagosInstrumentosPasivoFinanciero>
+				<ipp-gen:EmisionPasivoFinanciero decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">2173729000</ipp-gen:EmisionPasivoFinanciero>
+				<ipp-gen:EmisionPasivoFinanciero decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">1241344000</ipp-gen:EmisionPasivoFinanciero>
+				<ipp-gen:DevolucionAmortizacion decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">-1569963000</ipp-gen:DevolucionAmortizacion>
+				<ipp-gen:DevolucionAmortizacion decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">-2204829000</ipp-gen:DevolucionAmortizacion>
+				<ifrs-gp:PaymentsOfDividendsClassifiedAsFinancing decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">-307215000</ifrs-gp:PaymentsOfDividendsClassifiedAsFinancing>
+				<ifrs-gp:PaymentsOfDividendsClassifiedAsFinancing decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">-283561000</ifrs-gp:PaymentsOfDividendsClassifiedAsFinancing>
+				<ipp-gen:AumentoDisminucionNetoEfectivoEquivalentesIndirectoNiif decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">216436000</ipp-gen:AumentoDisminucionNetoEfectivoEquivalentesIndirectoNiif>
+				<ipp-gen:AumentoDisminucionNetoEfectivoEquivalentesIndirectoNiif decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">-1130861000</ipp-gen:AumentoDisminucionNetoEfectivoEquivalentesIndirectoNiif>
+				<ipp-com:EfectivoEquivalentesEfectivoComienzoEjercicio decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">335013000</ipp-com:EfectivoEquivalentesEfectivoComienzoEjercicio>
+				<ipp-com:EfectivoEquivalentesEfectivoComienzoEjercicio decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">1465874000</ipp-com:EfectivoEquivalentesEfectivoComienzoEjercicio>
+				<ipp-gen:EfectivoEquivalentesEfectivoFinalEjercicioIndirectoNiif decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">551449000</ipp-gen:EfectivoEquivalentesEfectivoFinalEjercicioIndirectoNiif>
+				<ipp-gen:EfectivoEquivalentesEfectivoFinalEjercicioIndirectoNiif decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">335013000</ipp-gen:EfectivoEquivalentesEfectivoFinalEjercicioIndirectoNiif>
+				<ipp-com:CajaBancos decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">116732000</ipp-com:CajaBancos>
+				<ipp-com:CajaBancos decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">26076000</ipp-com:CajaBancos>
+				<ipp-com:OtrosActivosFinancieros decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">434717000</ipp-com:OtrosActivosFinancieros>
+				<ipp-com:OtrosActivosFinancieros decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">308937000</ipp-com:OtrosActivosFinancieros>
+				<ipp-com:TotalEfectivosEquivalentesFinalPeriodo decimals="0" contextRef="S22014_A-28294726_dcc" unitRef="euro">551449000</ipp-com:TotalEfectivosEquivalentesFinalPeriodo>
+				<ipp-com:TotalEfectivosEquivalentesFinalPeriodo decimals="0" contextRef="S22013_A-28294726_dpac" unitRef="euro">335013000</ipp-com:TotalEfectivosEquivalentesFinalPeriodo>
+			</ipp-gen:EstadoFlujosEfectivoConsolidadoMetodoIndirecto>
+			<ipp-com:DividendosPagados>
+				<ipp-com:AccionesOrdinarias>
+					<ipp-com:DividendosPagadosElemento>
+						<ipp-com:PorcentajeSobreNominal decimals="2" contextRef="S22014_A-28294726_dci" unitRef="pure">0.85</ipp-com:PorcentajeSobreNominal>
+						<ipp-com:PorcentajeSobreNominal decimals="2" contextRef="S22013_A-28294726_dpai" unitRef="pure">0.79</ipp-com:PorcentajeSobreNominal>
+						<ipp-com:ImportePorAccion decimals="2" contextRef="S22014_A-28294726_dci" unitRef="euro">1.28</ipp-com:ImportePorAccion>
+						<ipp-com:ImportePorAccion decimals="2" contextRef="S22013_A-28294726_dpai" unitRef="euro">1.19</ipp-com:ImportePorAccion>
+						<ipp-com:ImporteTotal decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">306446000</ipp-com:ImporteTotal>
+						<ipp-com:ImporteTotal decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">283561000</ipp-com:ImporteTotal>
+					</ipp-com:DividendosPagadosElemento>
+				</ipp-com:AccionesOrdinarias>
+				<ipp-com:AccionesPrivilegiadas>
+					<ipp-com:DividendosPagadosElemento>
+						<ipp-com:PorcentajeSobreNominal decimals="2" contextRef="S22014_A-28294726_dci" unitRef="pure">0.00</ipp-com:PorcentajeSobreNominal>
+						<ipp-com:PorcentajeSobreNominal decimals="2" contextRef="S22013_A-28294726_dpai" unitRef="pure">0.00</ipp-com:PorcentajeSobreNominal>
+						<ipp-com:ImportePorAccion decimals="2" contextRef="S22014_A-28294726_dci" unitRef="euro">0.00</ipp-com:ImportePorAccion>
+						<ipp-com:ImportePorAccion decimals="2" contextRef="S22013_A-28294726_dpai" unitRef="euro">0.00</ipp-com:ImportePorAccion>
+						<ipp-com:ImporteTotal decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">0</ipp-com:ImporteTotal>
+						<ipp-com:ImporteTotal decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">0</ipp-com:ImporteTotal>
+					</ipp-com:DividendosPagadosElemento>
+				</ipp-com:AccionesPrivilegiadas>
+				<ipp-com:TotalAcciones>
+					<ipp-com:DividendosPagadosElemento>
+						<ipp-com:PorcentajeSobreNominal decimals="2" contextRef="S22014_A-28294726_dci" unitRef="pure">0.85</ipp-com:PorcentajeSobreNominal>
+						<ipp-com:PorcentajeSobreNominal decimals="2" contextRef="S22013_A-28294726_dpai" unitRef="pure">0.79</ipp-com:PorcentajeSobreNominal>
+						<ipp-com:ImportePorAccion decimals="2" contextRef="S22014_A-28294726_dci" unitRef="euro">1.28</ipp-com:ImportePorAccion>
+						<ipp-com:ImportePorAccion decimals="2" contextRef="S22013_A-28294726_dpai" unitRef="euro">1.19</ipp-com:ImportePorAccion>
+						<ipp-com:ImporteTotal decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">306446000</ipp-com:ImporteTotal>
+						<ipp-com:ImporteTotal decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">283561000</ipp-com:ImporteTotal>
+					</ipp-com:DividendosPagadosElemento>
+				</ipp-com:TotalAcciones>
+				<ipp-com:DividendosCargoResultados>
+					<ipp-com:DividendosPagadosElemento>
+						<ipp-com:PorcentajeSobreNominal decimals="2" contextRef="S22014_A-28294726_dci" unitRef="pure">0.85</ipp-com:PorcentajeSobreNominal>
+						<ipp-com:PorcentajeSobreNominal decimals="2" contextRef="S22013_A-28294726_dpai" unitRef="pure">0.79</ipp-com:PorcentajeSobreNominal>
+						<ipp-com:ImportePorAccion decimals="2" contextRef="S22014_A-28294726_dci" unitRef="euro">1.28</ipp-com:ImportePorAccion>
+						<ipp-com:ImportePorAccion decimals="2" contextRef="S22013_A-28294726_dpai" unitRef="euro">1.19</ipp-com:ImportePorAccion>
+						<ipp-com:ImporteTotal decimals="0" contextRef="S22014_A-28294726_dci" unitRef="euro">306446000</ipp-com:ImporteTotal>
+						<ipp-com:ImporteTotal decimals="0" contextRef="S22013_A-28294726_dpai" unitRef="euro">283561000</ipp-com:ImporteTotal>
+					</ipp-com:DividendosPagadosElemento>
+				</ipp-com:DividendosCargoResultados>
+			</ipp-com:DividendosPagados>
+			<ipp-com:InformacionSegmentada>
+				<ipp-com:AreaGeografica>
+					<ipp-com:MercadoInterior decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">561524000</ipp-com:MercadoInterior>
+					<ipp-com:MercadoInterior decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">525375000</ipp-com:MercadoInterior>
+					<ipp-com:MercadoInterior decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">1206192000</ipp-com:MercadoInterior>
+					<ipp-com:MercadoInterior decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">1232982000</ipp-com:MercadoInterior>
+					<ipp-com:Exportacion decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">4231000</ipp-com:Exportacion>
+					<ipp-com:Exportacion decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">6388000</ipp-com:Exportacion>
+					<ipp-com:PaisesOCDE decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">4231000</ipp-com:PaisesOCDE>
+					<ipp-com:PaisesOCDE decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">6388000</ipp-com:PaisesOCDE>
+					<ipp-com:TotalAreaGeografica decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">565755000</ipp-com:TotalAreaGeografica>
+					<ipp-com:TotalAreaGeografica decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">531763000</ipp-com:TotalAreaGeografica>
+					<ipp-com:TotalAreaGeografica decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">1206192000</ipp-com:TotalAreaGeografica>
+					<ipp-com:TotalAreaGeografica decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">1232982000</ipp-com:TotalAreaGeografica>
+				</ipp-com:AreaGeografica>
+			</ipp-com:InformacionSegmentada>
+			<ipp-com:PlantillaMediaTupla>
+				<ipp-com:PlantillaMedia decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">368</ipp-com:PlantillaMedia>
+				<ipp-com:PlantillaMedia decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">359</ipp-com:PlantillaMedia>
+				<ipp-com:PlantillaMedia decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">1165</ipp-com:PlantillaMedia>
+				<ipp-com:PlantillaMedia decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">1139</ipp-com:PlantillaMedia>
+				<ipp-com:PlantillaMediaHombres decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">211</ipp-com:PlantillaMediaHombres>
+				<ipp-com:PlantillaMediaHombres decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">208</ipp-com:PlantillaMediaHombres>
+				<ipp-com:PlantillaMediaHombres decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">892</ipp-com:PlantillaMediaHombres>
+				<ipp-com:PlantillaMediaHombres decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">883</ipp-com:PlantillaMediaHombres>
+				<ipp-com:PlantillaMediaMujeres decimals="0" contextRef="S22014_A-28294726_ici" unitRef="euro">157</ipp-com:PlantillaMediaMujeres>
+				<ipp-com:PlantillaMediaMujeres decimals="0" contextRef="S22013_A-28294726_ipai" unitRef="euro">151</ipp-com:PlantillaMediaMujeres>
+				<ipp-com:PlantillaMediaMujeres decimals="0" contextRef="S22014_A-28294726_icc" unitRef="euro">273</ipp-com:PlantillaMediaMujeres>
+				<ipp-com:PlantillaMediaMujeres decimals="0" contextRef="S22013_A-28294726_ipac" unitRef="euro">256</ipp-com:PlantillaMediaMujeres>
+			</ipp-com:PlantillaMediaTupla>
+		</ipp-gen:InformacionFinancieraSeleccionada>
+	</ipp-gen:InformeFinancieroGeneral>
+</xbrli:xbrl>

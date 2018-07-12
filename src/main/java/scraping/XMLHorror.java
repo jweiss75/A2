@@ -45,7 +45,7 @@ public class XMLHorror {
         
         monster.refyear = monster.anualidadList(documento , "BalanceConsolidado");
         monster.searchTags(documento, "BalanceConsolidado" );
-         monster.refyear = monster.anualidadList(documento , "CuentaPerdidasGananciasConsolidada");
+        monster.refyear = monster.anualidadList(documento , "CuentaPerdidasGananciasConsolidada");
         monster.searchTags(documento, "CuentaPerdidasGananciasConsolidada" );
         monster.closeCon();
     }
@@ -109,6 +109,7 @@ public class XMLHorror {
                 // System.out.println(element.getNodeName()+":"+ element.getChildNodes().getLength());
             }
                 String nombre = element.getNodeName();
+                System.out.println(nombre);
                 NamedNodeMap schema = element.getAttributes();
                 if (nombre.toLowerCase().indexOf(tagname.toLowerCase()) > -1 || tagname == "*") {
                     String nombrenodoprincipal=element.getTagName();
@@ -225,19 +226,21 @@ public class XMLHorror {
 
 
     public List<Vector> anualidadList(NodeList entries, String filtro) throws Exception {
-        // Lo primero detectar el sistema de esquema de 
         
         
+        // Lo primero detectar el sistema de esquema de         
         System.out.println("Generando su cubo de fechas....");
         List<Element> listadetags = new ArrayList<Element>();
         List<Vector> lista1 = new ArrayList<Vector>(); // Aqui guardaremos el array.
         int tipo;
+        
+        
+        
     try {
           
             for (int i = 0; i < entries.getLength(); i++) {
                 
-                  Element element = (Element)entries.item(i);
-                 
+                  Element element = (Element)entries.item(i);                 
                   String nombre = element.getNodeName();
 
                   if (element.getChildNodes().getLength()>1){  
@@ -251,7 +254,7 @@ public class XMLHorror {
                     String refcontext= element.getAttribute("id");   
                     // System.out.println( "#######  " + refcontext + "  ---    "+ refcontext.indexOf("Icur"));
                     
-                    if (refcontext.indexOf("Icur")>-1 /*&& refcontext.indexOf(filtro) > -1*/){
+                    if (refcontext.indexOf("Icur")>-1 && refcontext.indexOf("Dcur")> -1){
                         System.out.println( "####### " + refcontext + " TIPO1");
                         listadetags.add(element);
                         tipo = 1; // XBRL moderno > 2016
@@ -310,7 +313,7 @@ public class XMLHorror {
                         vec.add(valorperiodo);
                         lista1.add(vec);
                         
-                         System.out.println("|"+id+"|"+contextincludedtags.item(i).getNodeName()+"|"+valorperiodo);
+                        System.out.println("|"+id+"|"+contextincludedtags.item(i).getNodeName()+"|"+valorperiodo);
                         
                     }
 
@@ -409,6 +412,49 @@ public class XMLHorror {
 
     }
 
+
+
+///////////////////////////////DELETE TABLE /////////////
+
+public void ClearTable() {
+        System.out.print(".");
+        try {
+
+            /*con1.setAutoCommit(false);
+            Statement st = con1.createStatement();
+            String query = "Insert into monster(empresa, parametro, valor, fecha) values('u','3','1','2');"; 
+            // note that i'm leaving "date_created" out of this insert statement
+            st.executeUpdate(query);
+            con1.commit();
+              // con1.close();*/
+
+            String query = "delete from monster;";
+            // System.out.println(empresa + estado + parametro + valor + fecha);
+            // System.out.println(query);
+            PreparedStatement preparedStmt = this.con.prepareStatement(query);
+//            preparedStmt.setString(1, referencia);
+//            preparedStmt.setString(2, concepto);
+           
+            preparedStmt.executeUpdate();
+            // System.out.println(empresa + estado + parametro + valor + fecha);
+            // System.out.println(preparedStmt);
+
+
+        } catch (SQLException e) {
+            System.err.println("Got an exception!");
+            System.err.println(e.getMessage());
+            e.printStackTrace();
+            e.getLocalizedMessage();
+        }
+
+        // execute the preparedstatement
+
+
+    }
+
+
+
+
     ////////////////////////////////// CONEXIONES A LA BASE DE DATOS ////////////////////////	
 
 
@@ -433,8 +479,9 @@ public class XMLHorror {
             //conection = DriverManager.getConnection ("jdbc:mysql://sql7.freemysqlhosting.net:3306/sql7243941?characterEncoding=utf-8","sql7243941", "npbF5u7qUJ");
 
             conection =
-                        DriverManager.getConnection("jdbc:mysql://192.163.1.230:3306/monster?useSSL=false&characterEncoding=Latin1&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC","monster", "Patata2018");
+                        DriverManager.getConnection("jdbc:mysql://db4free.net/monster?useSSL=false&characterEncoding=Latin1&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC","monster", "electroforesis");
                                                     
+                                   
 
 
 // "jdbc:mysql://db4free.net:3306/monster?useSSL=false&characterEncoding=Latin1", "monster", "electroforesis"
